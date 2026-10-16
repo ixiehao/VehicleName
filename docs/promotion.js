@@ -59,8 +59,12 @@
     if (allBrands) allBrands.textContent = t.allBrands;
     const options = {"":t.allStatus,current:t.current,discontinued:t.discontinued,concept:t.concept};
     document.querySelectorAll("#status option").forEach((option) => { option.textContent = options[option.value] || option.textContent; });
-    document.querySelectorAll(".status").forEach((badge) => { badge.textContent = t[badge.classList.contains("discontinued") ? "discontinued" : badge.classList.contains("concept") ? "concept" : "current"]; });
+    document.querySelectorAll(".status").forEach((badge) => {
+      const translated = t[badge.classList.contains("discontinued") ? "discontinued" : badge.classList.contains("concept") ? "concept" : "current"];
+      if (badge.textContent !== translated) badge.textContent = translated;
+    });
   };
+  translateRuntime();
   new MutationObserver(translateRuntime).observe($("#rows"), {childList:true, subtree:true});
   fetch("./data/vehicle-names-preview.json", {cache:"no-cache"}).then((response) => response.json()).then((data) => {
     const coverage = data.meta?.coverage || {};
