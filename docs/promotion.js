@@ -62,7 +62,7 @@
     document.querySelectorAll(".status").forEach((badge) => { badge.textContent = t[badge.classList.contains("discontinued") ? "discontinued" : badge.classList.contains("concept") ? "concept" : "current"]; });
   };
   new MutationObserver(translateRuntime).observe($("#rows"), {childList:true, subtree:true});
-  fetch("./data/vehicle-names-database.json", {cache:"no-cache"}).then((response) => response.json()).then((data) => {
+  fetch("./data/vehicle-names-preview.json", {cache:"no-cache"}).then((response) => response.json()).then((data) => {
     const coverage = data.meta?.coverage || {};
     set("#promo-brands", (coverage.brands ?? data.brands?.length ?? 0).toLocaleString());
     set("#promo-models", (coverage.models ?? data.models?.list?.length ?? 0).toLocaleString());

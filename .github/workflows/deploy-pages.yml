@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - 'docs/**'
+      - 'vehicle-names-database/dist/vehicle-names-database.json'
+      - 'vehicle-names-database/scripts/build_pages_preview.py'
       - '.github/workflows/deploy-pages.yml'
   workflow_dispatch:
 
@@ -35,6 +37,7 @@ jobs:
           mkdir -p _site/data
           cp -R docs/. _site/
           cp vehicle-names-database/dist/vehicle-names-database.json _site/data/vehicle-names-database.json
+          python3 vehicle-names-database/scripts/build_pages_preview.py vehicle-names-database/dist/vehicle-names-database.json _site/data/vehicle-names-preview.json
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
