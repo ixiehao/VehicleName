@@ -1,4 +1,4 @@
-# vehiclename — 多语言汽车车名资料库
+# VehicleName — 多语言汽车车名资料库
 
 > 面向 AI 与人类的 4 语言(en / zh-CN / zh-TW / ja)汽车名词资料库:车型、品牌、术语、级别分类与跨市场异名。
 
@@ -11,7 +11,7 @@
 ![CI](https://img.shields.io/github/actions/workflow/status/ixiehao/VehicleName/validate.yml?label=validate)
 
 <p align="center">
-  <img src="vehicle-names-database/assets/banner.jpg" alt="vehiclename" width="100%" />
+  <img src="vehicle-names-database/assets/banner.jpg" alt="VehicleName" width="100%" />
 </p>
 
 ## 开源信息
@@ -29,8 +29,10 @@
 ## 项目结构
 
 ```
-vehiclename/
+VehicleName/
 ├── LICENSE                     # CC BY-SA 4.0
+├── website/                    # 官网源码（部署时组合生成数据）
+├── docs/                       # 开发、验证与官网维护文档
 ├── .github/
 │   ├── workflows/validate.yml  # GitHub Actions:数据校验 + dist 同步检查
 │   ├── PULL_REQUEST_TEMPLATE.md
@@ -53,3 +55,9 @@ python3 scripts/build.py      # 生成 dist/ 合并产物
 ## 免责声明
 
 本资料库仅用于学习、翻译与检索参考,数据整理自公开资料,不保证完全准确,正式使用请以官方口径复核。详见 [DISCLAIMER.md](vehicle-names-database/DISCLAIMER.md)。
+
+## 开发与维护文档 / Maintainer documentation
+
+[文档索引 / Index](docs/README.md) · [开发与验证 / Development](docs/DEVELOPMENT.md) · [官网维护 / Website](docs/WEBSITE.md)。
+
+官网源码统一位于 `website/`；`docs/` 仅保存维护文档，权威数据目录保持原有结构。

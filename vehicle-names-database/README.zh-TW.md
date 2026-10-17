@@ -107,3 +107,7 @@ python3 scripts/build.py
 - 分級尺寸是產業慣例，並非強制標準；正式發佈或商業用途請以車廠、標準機關或當地代理商的一手資料再次核對。
 
 完整條款請見 [DISCLAIMER.md](DISCLAIMER.md) 與 [PRIVACY.md](PRIVACY.md)，版本沿革請見 [CHANGELOG.md](CHANGELOG.md)。
+
+## 儲存庫維護文件
+
+儲存庫層級的開發、驗證與官網部署請見[文件索引](../docs/README.md)。資料來源仍在本目錄，獨立官網原始碼位於儲存庫根目錄的 `website/`。

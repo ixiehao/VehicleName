@@ -16,6 +16,6 @@
 
 ## 校验 Checklist
 
-- [ ] 已运行 `python3 scripts/validate.py` 且通过
-- [ ] 已运行 `python3 scripts/build.py` 并提交 `dist/` 产物(若改动 `data/`)
-- [ ] `pending_verification.json` 中的对应条目已同步更新(如适用)
+- [ ] 在仓库根目录运行 `python3 vehicle-names-database/scripts/validate.py` 且通过
+- [ ] 已运行 `python3 vehicle-names-database/scripts/build.py` 并提交 `vehicle-names-database/dist/` 产物（若改动源数据）
+- [ ] `vehicle-names-database/data/pending_verification.json` 中的对应条目已同步更新（如适用）

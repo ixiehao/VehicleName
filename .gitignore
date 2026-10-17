@@ -28,3 +28,6 @@ reprocess_logos.py
 
 # --- Obsidian workspace files ---
 .obsidian/
+
+# Local website preview artifact
+_site/

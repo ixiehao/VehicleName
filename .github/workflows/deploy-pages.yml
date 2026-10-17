@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'docs/**'
+      - 'website/**'
       - 'vehicle-names-database/dist/vehicle-names-database.json'
       - 'vehicle-names-database/scripts/build_pages_preview.py'
       - '.github/workflows/deploy-pages.yml'
@@ -35,7 +35,7 @@ jobs:
       - name: Prepare Pages artifact
         run: |
           mkdir -p _site/data
-          cp -R docs/. _site/
+          cp -R website/. _site/
           cp vehicle-names-database/dist/vehicle-names-database.json _site/data/vehicle-names-database.json
           python3 vehicle-names-database/scripts/build_pages_preview.py vehicle-names-database/dist/vehicle-names-database.json _site/data/vehicle-names-preview.json
       - name: Upload Pages artifact

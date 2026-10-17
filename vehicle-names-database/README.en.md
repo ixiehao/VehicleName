@@ -209,3 +209,7 @@ See [CHANGELOG.md](CHANGELOG.md).
 | 1.2.0 | 2026-08-10 | Suzuki India/SE Asia & Daihatsu SE Asia models added; bulk junk entries cleaned; models 2041 → 3030 |
 | 1.1.0 | 2026-08-09 | Project vehiclename with internationalized naming vehicle-names-database; open-source restructure (license/CI/templates); brands expanded to 164, models expanded to 2041 |
 | 1.0.0 | 2026-08-09 | Initial release: class systems, 72 terms, 63 brands, 84 models, 24 alias groups |
+
+## Repository maintenance
+
+See the [documentation index](../docs/README.md) for repository-level development, validation and website deployment. Data stays in this package; the public website source lives in the repository-root `website/` directory.
