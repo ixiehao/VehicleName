@@ -1,5 +1,5 @@
 (() => {
-  const site = "https://ixiehao.github.io/vehicle-name/";
+  const site = "https://ixiehao.github.io/VehicleName/";
   const supported = ["en", "zh-CN", "zh-TW", "ja"];
   const requested = new URLSearchParams(location.search).get("lang");
   const lang = supported.includes(requested) ? requested : "zh-CN";
@@ -42,11 +42,11 @@
   $("#canonical").href = canonical; $("#og-url").content = canonical;
   ["#meta-description", "#og-description", "#twitter-description"].forEach((id) => { $(id).content = t.desc; });
   ["#og-title", "#twitter-title"].forEach((id) => { $(id).content = t.meta; });
-  const schema = {"@context":"https://schema.org","@type":"Dataset",name:"Vehicle Name Database",description:t.desc,url:canonical,sameAs:"https://github.com/ixiehao/vehicle-name",license:"https://creativecommons.org/licenses/by-sa/4.0/",inLanguage:supported};
+  const schema = {"@context":"https://schema.org","@type":"Dataset",name:"Vehicle Name Database",description:t.desc,url:canonical,sameAs:"https://github.com/ixiehao/VehicleName",license:"https://creativecommons.org/licenses/by-sa/4.0/",inLanguage:supported};
   document.head.insertAdjacentHTML("beforeend", `<script type="application/ld+json">${JSON.stringify(schema)}<\/script>`);
   const nav = `<nav class="locale-nav" aria-label="Language"><a href="?lang=en"${lang === "en" ? " aria-current=\"page\"" : ""}>EN</a><a href="?lang=zh-CN"${lang === "zh-CN" ? " aria-current=\"page\"" : ""}>简</a><a href="?lang=zh-TW"${lang === "zh-TW" ? " aria-current=\"page\"" : ""}>繁</a><a href="?lang=ja"${lang === "ja" ? " aria-current=\"page\"" : ""}>日</a></nav>`;
   $(".repository-link").insertAdjacentHTML("beforebegin", nav);
-  $("main").insertAdjacentHTML("beforebegin", `<section class="promotion-hero"><div class="wrap"><div class="promotion-content"><p class="promotion-eyebrow">${t.eyebrow}</p><h1>${t.title}</h1><p class="promotion-copy">${t.intro}</p><div class="promotion-actions"><a class="promotion-button primary" href="#directory">${t.browse}</a><a class="promotion-button secondary" href="https://github.com/ixiehao/vehicle-name#readme" target="_blank" rel="noreferrer">${t.source}</a></div></div></div></section>`);
+  $("main").insertAdjacentHTML("beforebegin", `<section class="promotion-hero"><div class="wrap"><div class="promotion-content"><p class="promotion-eyebrow">${t.eyebrow}</p><h1>${t.title}</h1><p class="promotion-copy">${t.intro}</p><div class="promotion-actions"><a class="promotion-button primary" href="#directory">${t.browse}</a><a class="promotion-button secondary" href="https://github.com/ixiehao/VehicleName#readme" target="_blank" rel="noreferrer">${t.source}</a></div></div></div></section>`);
   $("main").insertAdjacentHTML("afterbegin", `<section class="promo-stats" aria-label="Database overview"><div class="promo-stat"><small>${t.brands}</small><strong id="promo-brands">—</strong></div><div class="promo-stat"><small>${t.models}</small><strong id="promo-models">—</strong></div><div class="promo-stat"><small>${t.terms}</small><strong id="promo-terms">—</strong></div><div class="promo-stat"><small>${t.aliases}</small><strong id="promo-aliases">—</strong></div></section><p class="promo-trust" id="promo-trust">${t.trust}</p>`);
   $(".page-title").closest("section").id = "directory";
   set(".overline", t.directory); set(".page-title h1", t.directory); $(".page-title p").textContent = t.guide;
