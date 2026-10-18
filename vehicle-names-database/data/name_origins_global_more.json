@@ -1,0 +1,706 @@
+{
+  "models": [
+    {
+      "id": "model:nissan:cedric",
+      "summary": {
+        "en": "Named after Cedric, the young hero of The Little Lord Fauntleroy; Nissan hoped the car would be loved like him.",
+        "zh-CN": "取名自《小爵爷》的主人公 Cedric；日产希望这款车也像他一样受到喜爱。",
+        "zh-TW": "取名自《小爵爺》的主人公 Cedric；日產希望這款車也像他一樣受到喜愛。",
+        "ja": "小説『小公子』の主人公セドリックにちなみ、同じように多くの人に愛される車を願って名付けられました。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:cima",
+      "summary": {
+        "en": "From Spanish cima, “summit” or “completion,” expressing Nissan’s flagship position.",
+        "zh-CN": "源自西班牙语 cima，意为“顶峰”或“完成”，寓意日产旗舰之作。",
+        "zh-TW": "源自西班牙語 cima，意為「頂峰」或「完成」，寓意日產旗艦之作。",
+        "ja": "スペイン語の「頂上」「完成」を意味し、日産の高級車の頂点を表しています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:982b7a329a",
+      "summary": {
+        "en": "Civilian means “citizen.”",
+        "zh-CN": "Civilian 意为“市民”。",
+        "zh-TW": "Civilian 意為「市民」。",
+        "ja": "「市民」を意味する名前です。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:silvia",
+      "summary": {
+        "en": "Named after a beautiful, pure maiden in Greek mythology; the word’s Latin root means “forest.”",
+        "zh-CN": "取名自希腊神话中美丽清雅的少女；其拉丁语词源意为“森林”。",
+        "zh-TW": "取名自希臘神話中美麗清雅的少女；其拉丁語詞源意為「森林」。",
+        "ja": "ギリシャ神話の美しく清楚な乙女の名にちなみ、語源はラテン語で「森」を意味します。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:sylphy",
+      "summary": {
+        "en": "A coined name based on “sylph,” the airy spirit associated with wind in European folklore.",
+        "zh-CN": "由 sylph（西方传说中代表风与空气的精灵）演化而来。",
+        "zh-TW": "由 sylph（西方傳說中代表風與空氣的精靈）演化而來。",
+        "ja": "風（空気）の精を表す英語「SYLPH（シルフ）」から作られた名前です。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:juke",
+      "summary": {
+        "en": "“Juke” is a quick evasive move in sports such as American football, chosen to evoke agility.",
+        "zh-CN": "Juke 指美式橄榄球等运动中的敏捷闪避动作，寓意灵活机敏。",
+        "zh-TW": "Juke 指美式足球等運動中的敏捷閃避動作，寓意靈活機敏。",
+        "ja": "スポーツで相手を軽快にかわす動きを表し、車の機敏さをイメージして命名されました。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:gloria",
+      "summary": {
+        "en": "Gloria means “glory.”",
+        "zh-CN": "Gloria 意为“荣光”。",
+        "zh-TW": "Gloria 意為「榮光」。",
+        "ja": "「栄光」を意味します。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:teana",
+      "summary": {
+        "en": "Nissan says Teana means “dawn” in a Native American language, but does not identify which language.",
+        "zh-CN": "日产称 Teana 在某种北美原住民语言中意为“黎明”，但未说明具体语言。",
+        "zh-TW": "日產稱 Teana 在某種北美原住民族語言中意為「黎明」，但未說明具體語言。",
+        "ja": "「夜明け」を意味する北米先住民の言葉とされていますが、どの言語かは特定されていません。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:tiida",
+      "summary": {
+        "en": "A coined name from English “tide”; its pronunciation also draws on the Okinawan word for “sun.”",
+        "zh-CN": "由英语 tide（潮流）演化而来；发音也取自冲绳语中“太阳”一词。",
+        "zh-TW": "由英語 tide（潮流）演化而來；發音也取自沖繩語中「太陽」一詞。",
+        "ja": "英語の「Tide（潮流）」をもとにした造語で、発音は沖縄語の「太陽」にも由来します。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:terrano",
+      "summary": {
+        "en": "Combines Latin terra (“earth”) with the suffix “-no,” expressing a car for roads across the earth.",
+        "zh-CN": "由拉丁语 terra（“大地”）与后缀 -no 组合，寓意驰骋于大地各种道路。",
+        "zh-TW": "由拉丁語 terra（「大地」）與後綴 -no 組合，寓意馳騁於大地各種道路。",
+        "ja": "ラテン語で「地球」を意味するTERRAと、語意を強めるNOを組み合わせた造語です。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:cherry",
+      "summary": {
+        "en": "Named after Nissan’s earlier Sakura (“Cherry Blossom”) rally car and the cherry blossom as a Japanese symbol.",
+        "zh-CN": "取名呼应日产早期的赛车“桜号”，也借樱花表达日本意象。",
+        "zh-TW": "取名呼應日產早期的賽車「桜號」，也借櫻花表達日本意象。",
+        "ja": "先行するラリーカー「桜号」にちなみ、桜が日本を象徴する花であることも込められています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:note",
+      "summary": {
+        "en": "Combines two ideas: a musical note for a lively daily rhythm, and a notebook for recording everyday life.",
+        "zh-CN": "结合两个意象：让日常更有节奏的“音符”，以及记录生活的“笔记本”。",
+        "zh-TW": "結合兩個意象：讓日常更有節奏的「音符」，以及記錄生活的「筆記本」。",
+        "ja": "毎日を楽しくする「音符」と、その毎日を記録する「ノート」の二つの意味を重ねています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:pao",
+      "summary": {
+        "en": "Pao means a portable dwelling used by nomadic people in Mongolia; Nissan chose it to suggest an unexpected world.",
+        "zh-CN": "Pao 指蒙古游牧民族的可组装式居所；日产借此营造出人意料的世界感。",
+        "zh-TW": "Pao 指蒙古遊牧民族的可組裝式居所；日產借此營造出人意料的世界感。",
+        "ja": "モンゴルの遊牧民の組立式住居を指し、非日常的な意外性のある世界を表現しています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:pulsar",
+      "summary": {
+        "en": "A pulsar is a small celestial radio source that emits regular pulses of radio waves.",
+        "zh-CN": "Pulsar 指宇宙中会规律发射脉冲电波的小型天体。",
+        "zh-TW": "Pulsar 指宇宙中會規律發射脈衝電波的小型天體。",
+        "ja": "規則的にパルス電波を発する、宇宙空間の小さな電波源を意味します。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:primera",
+      "summary": {
+        "en": "Primera means “first-class” or “top-class” in Spanish.",
+        "zh-CN": "Primera 在西班牙语中意为“第一流”或“最高级”。",
+        "zh-TW": "Primera 在西班牙語中意為「第一流」或「最高級」。",
+        "ja": "スペイン語で「第一級の」「最高級の」という意味です。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:president",
+      "summary": {
+        "en": "President means “head of state,” “director,” or “chairperson.”",
+        "zh-CN": "President 意为“总统”“总裁”或“会长”。",
+        "zh-TW": "President 意為「總統」「總裁」或「會長」。",
+        "ja": "「大統領」「総裁」「会長」を意味します。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:maxima",
+      "summary": {
+        "en": "Based on the plural of maximum, expressing “the highest” or “the limit.”",
+        "zh-CN": "源自 maximum 的复数形式，表达“最高”或“极限”。",
+        "zh-TW": "源自 maximum 的複數形式，表達「最高」或「極限」。",
+        "ja": "MAXIMUMの複数形で、最高・極限の車であることを表しています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:quest",
+      "summary": {
+        "en": "Quest means “pursuit.”",
+        "zh-CN": "Quest 意为“追寻”。",
+        "zh-TW": "Quest 意為「追尋」。",
+        "ja": "「追求」という意味です。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:qashqai",
+      "summary": {
+        "en": "Named after a West Asian nomadic people; Nissan framed the crossover as an “urban nomad.”",
+        "zh-CN": "取名自西亚游牧民族；日产将这款跨界车定位为“都市游牧者”。",
+        "zh-TW": "取名自西亞遊牧民族；日產將這款跨界車定位為「都市遊牧者」。",
+        "ja": "西アジアの遊牧民の部族名にちなみ、「都会の遊牧民」をコンセプトとしています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:armada",
+      "summary": {
+        "en": "Named after the Spanish Armada, the “Invincible Fleet.”",
+        "zh-CN": "取名自西班牙语 Armada，意为“无敌舰队”。",
+        "zh-TW": "取名自西班牙語 Armada，意為「無敵艦隊」。",
+        "ja": "スペインの「無敵艦隊」の名に由来します。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:pathfinder",
+      "summary": {
+        "en": "Combines “path” and “find”: a vehicle that finds a way into unknown territory.",
+        "zh-CN": "由 path（道路）与 find（寻找）组成，寓意驶入未知之地。",
+        "zh-TW": "由 path（道路）與 find（尋找）組成，寓意駛入未知之地。",
+        "ja": "未知の土地への道（Path）を見つける（Find）車という意味です。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:paladin",
+      "summary": {
+        "en": "Paladin is named after a legendary hero.",
+        "zh-CN": "Paladin 取名自传说中的英雄。",
+        "zh-TW": "Paladin 取名自傳說中的英雄。",
+        "ja": "伝説上の英雄に由来します。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:sunny",
+      "summary": {
+        "en": "Sunny suggests abundant sunshine, brightness, cheerfulness, and youth; the name was chosen by public contest.",
+        "zh-CN": "Sunny 寓意阳光充沛、明朗活泼、青春朝气，名称经公开征集选出。",
+        "zh-TW": "Sunny 寓意陽光充沛、明朗活潑、青春朝氣，名稱經公開徵集選出。",
+        "ja": "太陽がいっぱいで明るく快活、若々しいイメージ。一般公募で選ばれました。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:leaf",
+      "summary": {
+        "en": "Like a leaf helping purify the air, the name points to the car’s zero tailpipe emissions while driving.",
+        "zh-CN": "如同树叶净化空气，名称寓意车辆行驶时不排放尾气。",
+        "zh-TW": "如同樹葉淨化空氣，名稱寓意車輛行駛時不排放尾氣。",
+        "ja": "葉が大気を浄化するように、走行時に排出ガスを出さないことを表しています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:laurel",
+      "summary": {
+        "en": "Laurel means a laurel wreath—the crown of leaves associated with honor.",
+        "zh-CN": "Laurel 意为月桂冠，即象征荣誉的月桂叶冠。",
+        "zh-TW": "Laurel 意為月桂冠，即象徵榮譽的月桂葉冠。",
+        "ja": "月桂樹の葉で作る冠「月桂冠」を意味します。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:fuga",
+      "summary": {
+        "en": "Named after the musical form fugue; Nissan connected its interweaving harmony with the car’s elegance and dynamism.",
+        "zh-CN": "取名自音乐形式“赋格”，日产将其交织的和谐感与车辆的优雅、动感相联系。",
+        "zh-TW": "取名自音樂形式「賦格」，日產將其交織的和諧感與車輛的優雅、動感相連結。",
+        "ja": "音楽形式の「フーガ」にちなみ、車の優美さと躍動感の調和を表現しています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:rasheen",
+      "summary": {
+        "en": "A coined name from “compass,” evoking a guide for travel.",
+        "zh-CN": "由“罗盘”演化而来，寓意旅途中的向导。",
+        "zh-TW": "由「羅盤」演化而來，寓意旅途中的嚮導。",
+        "ja": "旅の水先案内役をイメージした「羅針盤」からの造語です。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:march",
+      "summary": {
+        "en": "March was chosen in a public contest; it evokes a march or march tune, with a light, youthful feel. The export name Micra comes from “micro.”",
+        "zh-CN": "March 经公开征集选出，寓意轻快、青春的行进曲；出口名称 Micra 源自 micro（微小）。",
+        "zh-TW": "March 經公開徵集選出，寓意輕快、青春的進行曲；出口名稱 Micra 源自 micro（微小）。",
+        "ja": "一般公募で選ばれ、軽快で若々しい行進曲をイメージ。輸出名Micraは英語の「Micro」に由来します。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:s-cargo",
+      "summary": {
+        "en": "A wordplay on “escargot” (snail) and “special cargo,” reflecting its snail-inspired styling and commercial-vehicle role.",
+        "zh-CN": "结合 escargot（蜗牛）与 special cargo（特别货运）的双关，呼应其蜗牛造型与商用车定位。",
+        "zh-TW": "結合 escargot（蝸牛）與 special cargo（特別貨運）的雙關，呼應其蝸牛造型與商用車定位。",
+        "ja": "カタツムリを連想させるスタイルと「スペシャルカーゴ」の意味を掛け合わせています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:dayz",
+      "summary": {
+        "en": "DAYZ promises fun, exciting days; its reversed “S” hints at changing each day for the better.",
+        "zh-CN": "DAYZ 寓意带来快乐、令人期待的每一天；反写的 S 表达让日子变得更精彩。",
+        "zh-TW": "DAYZ 寓意帶來快樂、令人期待的每一天；反寫的 S 表達讓日子變得更精彩。",
+        "ja": "楽しくわくわくする毎日（DAYS）を届けたいという願いと、Sを反転した表記に思いを込めています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:46ea844fcf",
+      "summary": {
+        "en": "The “Sylphy” part is coined from “sylph,” the air spirit; Nissan linked it to the model’s clean exhaust.",
+        "zh-CN": "名称中的 Sylphy 源自 sylph（空气精灵），日产将其与车辆清洁的排放表现联系起来。",
+        "zh-TW": "名稱中的 Sylphy 源自 sylph（空氣精靈），日產將其與車輛潔淨的排放表現連結。",
+        "ja": "「シルフィ」は風の精「SYLPH」から作られた名前で、クリーンな排気を表現しています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:elgrand",
+      "summary": {
+        "en": "A coined name combining Spanish el (“the”) and grand, meaning “the greatest.”",
+        "zh-CN": "由西班牙语 el（相当于英语定冠词 the）与 grand 组合成新词，意为“最伟大的”。",
+        "zh-TW": "由西班牙語 el（相當於英語定冠詞 the）與 grand 組合成新詞，意為「最偉大的」。",
+        "ja": "スペイン語のEL（英語のTHE）とGRANDを組み合わせた造語で、「最も偉大なもの」を表します。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:nissan:4a857eaca8",
+      "summary": {
+        "en": "March was chosen in a public contest; it evokes a march or march tune, with a light, youthful feel.",
+        "zh-CN": "March 经公开征集选出，寓意轻快、青春的行进曲。",
+        "zh-TW": "March 經公開徵集選出，寓意輕快、青春的進行曲。",
+        "ja": "一般公募で選ばれ、軽快で若々しい行進曲をイメージしています。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://faq2.nissan.co.jp/faq/show/24967?site_domain=default"
+    },
+    {
+      "id": "model:mazda:cx-3",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:cx-30",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:cx-30-ev",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:cx-4",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:cx-5",
+      "summary": {
+        "en": "“CX” denotes Mazda’s crossover SUV line; the CX-5 is positioned as its compact model.",
+        "zh-CN": "CX 表示马自达跨界 SUV 系列；CX-5 在该系列中定位为紧凑型车型。",
+        "zh-TW": "CX 表示馬自達跨界 SUV 系列；CX-5 在該系列中定位為緊湊型車款。",
+        "ja": "「CX」はマツダのクロスオーバーSUVのラインアップを表し、CX-5はそのコンパクトモデルです。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Mazda Announces New Compact SUV Will be Mazda CX-5",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2011/201104/110418a.html"
+    },
+    {
+      "id": "model:mazda:cx-50",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:cx-60",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:cx-7",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:cx-70",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:cx-8",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:cx-80",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:cx-9",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:cx-90",
+      "summary": {
+        "en": "Mazda uses “CX” for its crossover-type SUV series; this source explains the prefix, not the number.",
+        "zh-CN": "马自达以 CX 标记跨界 SUV 系列；官方资料解释的是前缀，并未解释数字。",
+        "zh-TW": "馬自達以 CX 標記跨界 SUV 系列；官方資料解釋的是前綴，並未解釋數字。",
+        "ja": "マツダはクロスオーバーSUVに「CX」を使用しています。公式資料が説明するのは接頭記号で、数字の意味ではありません。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:rx-7",
+      "summary": {
+        "en": "Mazda’s naming strategy used “RX” for rotary-engined sports cars; the source identifies the RX-8 as an example.",
+        "zh-CN": "马自达命名策略以 RX 标记转子发动机跑车；官方资料以 RX-8 为例。",
+        "zh-TW": "馬自達命名策略以 RX 標記轉子引擎跑車；官方資料以 RX-8 為例。",
+        "ja": "マツダの命名方針では、ロータリーエンジン搭載スポーツカーに「RX」を使用します。公式資料はRX-8を例示しています。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:rx-8",
+      "summary": {
+        "en": "Mazda’s naming strategy used “RX” for rotary-engined sports cars; the source names the RX-8 as an example.",
+        "zh-CN": "马自达命名策略以 RX 标记转子发动机跑车；官方资料以 RX-8 为例。",
+        "zh-TW": "馬自達命名策略以 RX 標記轉子引擎跑車；官方資料以 RX-8 為例。",
+        "ja": "マツダの命名方針では、ロータリーエンジン搭載スポーツカーに「RX」を使用します。公式資料はRX-8を例示しています。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:mx-3",
+      "summary": {
+        "en": "Mazda’s naming strategy used “MX” for piston-engined sports cars; the cited release lists MX-5 as an example.",
+        "zh-CN": "马自达命名策略以 MX 标记活塞发动机跑车；官方资料以 MX-5 为例。",
+        "zh-TW": "馬自達命名策略以 MX 標記活塞引擎跑車；官方資料以 MX-5 為例。",
+        "ja": "マツダの命名方針では、レシプロエンジン搭載スポーツカーに「MX」を使用します。公式資料はMX-5を例示しています。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:mx-6",
+      "summary": {
+        "en": "Mazda’s naming strategy used “MX” for piston-engined sports cars; the cited release lists MX-5 as an example.",
+        "zh-CN": "马自达命名策略以 MX 标记活塞发动机跑车；官方资料以 MX-5 为例。",
+        "zh-TW": "馬自達命名策略以 MX 標記活塞引擎跑車；官方資料以 MX-5 為例。",
+        "ja": "マツダの命名方針では、レシプロエンジン搭載スポーツカーに「MX」を使用します。公式資料はMX-5を例示しています。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:roadster",
+      "summary": {
+        "en": "The cited Mazda naming strategy assigns “MX” to piston-engined sports cars; MX-5 is its example.",
+        "zh-CN": "马自达官方命名策略将 MX 用于活塞发动机跑车，并以 MX-5 为例。",
+        "zh-TW": "馬自達官方命名策略將 MX 用於活塞引擎跑車，並以 MX-5 為例。",
+        "ja": "マツダの命名方針では、レシプロエンジン搭載スポーツカーに「MX」を使用し、MX-5を例に挙げています。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Production Version of Mazda MX-Crossport Concept Car to be Launched in 2006",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2005/200505/050526.html"
+    },
+    {
+      "id": "model:mazda:mazda3",
+      "summary": {
+        "en": "Mazda’s former Japanese-market name Axela combined “accelerate,” “accelerator,” and “excellent.”",
+        "zh-CN": "马自达3曾用日本市场名 Axela，由 accelerate、accelerator 与 excellent 组合而成。",
+        "zh-TW": "Mazda3 曾用日本市場名 Axela，由 accelerate、accelerator 與 excellent 組合而成。",
+        "ja": "日本名「アクセラ」は、Accelerate・Accelerator・Excellentを語源とする造語です。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "マツダ、次世代グローバルCカー「マツダ アクセラ」の車名を公表",
+      "source_url": "https://newsroom.mazda.com/ja/publicity/release/2003/200306/0625.html"
+    },
+    {
+      "id": "model:mazda:mazda6",
+      "summary": {
+        "en": "The former Japanese-market name Atenza came from Italian attenzione (“attention”), referring to attention to detail.",
+        "zh-CN": "日本市场旧名 Atenza 源自意大利语 attenzione（“关注”），寓意对细节的用心。",
+        "zh-TW": "日本市場舊名 Atenza 源自義大利語 attenzione（「關注」），寓意對細節的用心。",
+        "ja": "旧日本名「アテンザ」は、イタリア語「attenzione（注意・注目）」に由来し、細部へのこだわりを表します。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "All-New 'Mazda Atenza' Zooms into Dealer Showrooms Nationwide",
+      "source_url": "https://newsroom.mazda.com/en/publicity/release/2002/200205/0520e.html"
+    },
+    {
+      "id": "model:opel:mokka",
+      "summary": {
+        "en": "In Opel’s Mokka GSE announcement, the brand says the name evokes spice and a full-bodied feeling.",
+        "zh-CN": "欧宝在 Mokka GSE 官方介绍中称，Mokka 这个名字传达香料般的浓郁感受。",
+        "zh-TW": "歐寶在 Mokka GSE 官方介紹中稱，Mokka 這個名字傳達香料般的濃郁感受。",
+        "ja": "オペルはMokka GSEの公式発表で、Mokkaの名がスパイスや豊かな味わいを想起させると説明しています。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "The Right Blend for International Coffee Day: Hot, Hotter, Opel Mokka GSE",
+      "source_url": "https://www.media.stellantis.com/em-en/opel/press/the-right-blend-for-international-coffee-day-hot-hotter-opel-mokka-gse"
+    }
+  ]
+}

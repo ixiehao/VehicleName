@@ -1,0 +1,160 @@
+{
+  "models": [
+    {
+      "id": "model:jeep:renegade",
+      "summary": {
+        "en": "Jeep says the name revives a CJ-era version; “renegade” means one who breaks with convention.",
+        "zh-CN": "Jeep 说明该名沿用自 CJ 时代的版本；Renegade 指背离常规的人。",
+        "zh-TW": "Jeep 說明此名沿用自 CJ 時代的版本；Renegade 指背離常規的人。",
+        "ja": "Jeepによると、CJ時代の仕様名を受け継いでいます。Renegadeは「慣習に逆らう人」の意味です。"
+      },
+      "source_language": "es",
+      "source_title": "La marca Jeep te invita a descubrir el significado de los nombres de sus modelos",
+      "source_url": "https://www.media.stellantis.com/br-es/jeep/press/la-marca-jeep-te-invita-a-descubrir-el-significado-de-los-nombres-de-sus-modelos",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:jeep:compass",
+      "summary": {
+        "en": "Jeep explains that Compass means a navigation instrument and evokes guiding drivers to their destinations.",
+        "zh-CN": "Jeep 说明 Compass 意为“指南针”，并借此表达为驾驶者指引方向的意象。",
+        "zh-TW": "Jeep 說明 Compass 意為「指南針」，並藉此表達為駕駛者指引方向的意象。",
+        "ja": "Jeepによると、Compassは「羅針盤」を意味し、目的地へ導くイメージを表しています。"
+      },
+      "source_language": "es",
+      "source_title": "La marca Jeep te invita a descubrir el significado de los nombres de sus modelos",
+      "source_url": "https://www.media.stellantis.com/br-es/jeep/press/la-marca-jeep-te-invita-a-descubrir-el-significado-de-los-nombres-de-sus-modelos",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:jeep:commander",
+      "summary": {
+        "en": "Jeep says Commander revives a classic nameplate; the earlier model, like the current one, offered seven seats.",
+        "zh-CN": "Jeep 说明 Commander 沿用自品牌经典车型名；早期车型与现款一样提供七座。",
+        "zh-TW": "Jeep 說明 Commander 沿用自品牌經典車名；早期車型與現款一樣提供七人座。",
+        "ja": "Jeepによると、Commanderは往年の車名を受け継いでいます。旧モデルも現行車と同じく7人乗りでした。"
+      },
+      "source_language": "es",
+      "source_title": "La marca Jeep te invita a descubrir el significado de los nombres de sus modelos",
+      "source_url": "https://www.media.stellantis.com/br-es/jeep/press/la-marca-jeep-te-invita-a-descubrir-el-significado-de-los-nombres-de-sus-modelos",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:jeep:wrangler",
+      "summary": {
+        "en": "Jeep describes Wrangler as meaning “cowboy” and notes that it succeeded the CJ in the lineup.",
+        "zh-CN": "Jeep 将 Wrangler 解释为“牛仔”，并说明它是 CJ 的后继车型。",
+        "zh-TW": "Jeep 將 Wrangler 解釋為「牛仔」，並說明它是 CJ 的後繼車型。",
+        "ja": "JeepはWranglerを「カウボーイ」の意味と説明し、CJの後継モデルとして紹介しています。"
+      },
+      "source_language": "es",
+      "source_title": "La marca Jeep te invita a descubrir el significado de los nombres de sus modelos",
+      "source_url": "https://www.media.stellantis.com/br-es/jeep/press/la-marca-jeep-te-invita-a-descubrir-el-significado-de-los-nombres-de-sus-modelos",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:jeep:gladiator",
+      "summary": {
+        "en": "Jeep likens the name to a Roman soldier and connects it to the pickup’s capability; the historic Gladiator also served a military role.",
+        "zh-CN": "Jeep 将 Gladiator 比作罗马角斗士，并联系其皮卡的全能表现；早期同名车型也曾改作军用。",
+        "zh-TW": "Jeep 將 Gladiator 比作羅馬角鬥士，並連結其皮卡的全能表現；早期同名車型也曾改作軍用。",
+        "ja": "JeepはGladiatorをローマの剣闘士になぞらえ、ピックアップの高い対応力と結び付けています。旧型も軍用に転用されました。"
+      },
+      "source_language": "es",
+      "source_title": "La marca Jeep te invita a descubrir el significado de los nombres de sus modelos",
+      "source_url": "https://www.media.stellantis.com/br-es/jeep/press/la-marca-jeep-te-invita-a-descubrir-el-significado-de-los-nombres-de-sus-modelos",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:jeep:cherokee",
+      "summary": {
+        "en": "Jeep says Cherokee refers to the Cherokee people and frames the name as a tribute to their heritage.",
+        "zh-CN": "Jeep 说明 Cherokee 指北美切罗基族，并称该名称旨在致敬其历史与文化传承。",
+        "zh-TW": "Jeep 說明 Cherokee 指北美切羅基族，並稱此名稱旨在致敬其歷史與文化傳承。",
+        "ja": "Jeepによると、Cherokeeは北米先住民族チェロキーを指し、その歴史と文化への敬意を込めた名称です。"
+      },
+      "source_language": "es",
+      "source_title": "Aventura, exploración y leyenda en los nombres de Jeep",
+      "source_url": "https://www.media.stellantis.com/es-es/jeep/press/aventura-exploracion-y-leyenda-en-los-nombres-de-jeep",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:jeep:grand-cherokee",
+      "summary": {
+        "en": "Jeep says Grand Cherokee refers to the Cherokee people and frames the name as a tribute to their heritage.",
+        "zh-CN": "Jeep 说明 Grand Cherokee 中的 Cherokee 指北美切罗基族，并称该名称旨在致敬其历史与文化传承。",
+        "zh-TW": "Jeep 說明 Grand Cherokee 中的 Cherokee 指北美切羅基族，並稱此名稱旨在致敬其歷史與文化傳承。",
+        "ja": "Jeepによると、Grand CherokeeのCherokeeは北米先住民族チェロキーを指し、その歴史と文化への敬意を込めています。"
+      },
+      "source_language": "es",
+      "source_title": "Aventura, exploración y leyenda en los nombres de Jeep",
+      "source_url": "https://www.media.stellantis.com/es-es/jeep/press/aventura-exploracion-y-leyenda-en-los-nombres-de-jeep",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:jeep:recon",
+      "summary": {
+        "en": "Jeep says Recon honors the reconnaissance role of Willys Jeeps during World War II.",
+        "zh-CN": "Jeep 说明 Recon 致敬威利斯吉普在第二次世界大战中的侦察任务。",
+        "zh-TW": "Jeep 說明 Recon 致敬威利斯吉普在第二次世界大戰中的偵察任務。",
+        "ja": "Jeepによると、Reconは第二次世界大戦中のウィリス・ジープの偵察任務にちなんでいます。"
+      },
+      "source_language": "pt",
+      "source_title": "A aventura, o espírito de exploração e as lendas nos nomes dos modelos Jeep",
+      "source_url": "https://www.media.stellantis.com/pt-pt/jeep/press/a-aventura-o-espirito-de-exploracao-e-as-lendas-nos-nomes-dos-modelos-jeep",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lincoln:corsair",
+      "summary": {
+        "en": "Lincoln presents Corsair as a name evoking high-seas adventure and a spirit of exploring the unknown.",
+        "zh-CN": "Lincoln 将 Corsair 描绘为唤起海上冒险、探索未知精神的名称。",
+        "zh-TW": "Lincoln 將 Corsair 描繪為喚起海上冒險、探索未知精神的名稱。",
+        "ja": "LincolnはCorsairを、海上の冒険と未知への探求心を想起させる名称として紹介しています。"
+      },
+      "source_language": "es",
+      "source_title": "¿Qué hay detrás de un nombre? Los mensajes detrás de los nombres Lincoln",
+      "source_url": "https://www.media.lincoln.com/content/lincolnmedia/lna/mx/es/news/2022/05/09/-que-hay-detras-de-un-nombre--los-mensajes-detras-de-los-nombres.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lincoln:nautilus",
+      "summary": {
+        "en": "Lincoln links Nautilus to Jules Verne’s Captain Nemo submarine, named after Robert Fulton’s real submarine.",
+        "zh-CN": "Lincoln 将 Nautilus 与凡尔纳笔下尼莫船长的潜艇相联系；小说中的名称源自罗伯特·富尔顿的真实潜艇。",
+        "zh-TW": "Lincoln 將 Nautilus 與凡爾納筆下尼莫船長的潛艇相連結；小說中的名稱源自羅伯特·富爾頓的真實潛艇。",
+        "ja": "LincolnはNautilusをヴェルヌのネモ船長の潜水艦に結び付けています。作中の名はロバート・フルトンの実在潜水艦に由来します。"
+      },
+      "source_language": "es",
+      "source_title": "¿Qué hay detrás de un nombre? Los mensajes detrás de los nombres Lincoln",
+      "source_url": "https://www.media.lincoln.com/content/lincolnmedia/lna/mx/es/news/2022/05/09/-que-hay-detras-de-un-nombre--los-mensajes-detras-de-los-nombres.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lincoln:aviator",
+      "summary": {
+        "en": "Lincoln says Aviator immediately evokes exploration of uncharted territory.",
+        "zh-CN": "Lincoln 说明 Aviator 这个名称令人联想到探索未知领域。",
+        "zh-TW": "Lincoln 說明 Aviator 這個名稱令人聯想到探索未知領域。",
+        "ja": "Lincolnによると、Aviatorという名は未知の領域を探検するイメージを喚起します。"
+      },
+      "source_language": "es",
+      "source_title": "¿Qué hay detrás de un nombre? Los mensajes detrás de los nombres Lincoln",
+      "source_url": "https://www.media.lincoln.com/content/lincolnmedia/lna/mx/es/news/2022/05/09/-que-hay-detras-de-un-nombre--los-mensajes-detras-de-los-nombres.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lincoln:navigator",
+      "summary": {
+        "en": "Lincoln says Navigator lives up to its name by guiding owners through the journey of modern life.",
+        "zh-CN": "Lincoln 说明 Navigator 名副其实，寓意陪伴车主穿越现代生活的旅程。",
+        "zh-TW": "Lincoln 說明 Navigator 名副其實，寓意陪伴車主穿越現代生活的旅程。",
+        "ja": "Lincolnによると、Navigatorは現代生活の道のりを導くという名にふさわしいイメージを表します。"
+      },
+      "source_language": "es",
+      "source_title": "¿Qué hay detrás de un nombre? Los mensajes detrás de los nombres Lincoln",
+      "source_url": "https://www.media.lincoln.com/content/lincolnmedia/lna/mx/es/news/2022/05/09/-que-hay-detras-de-un-nombre--los-mensajes-detras-de-los-nombres.html",
+      "canonical_name_column": "en"
+    }
+  ]
+}

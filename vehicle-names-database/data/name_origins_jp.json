@@ -1,0 +1,1408 @@
+{
+  "models": [
+    {
+      "id": "model:toyota:toyota-iq",
+      "summary": {
+        "en": "“i” combines individuality, innovation and intelligence; “Q” evokes quality, cubic form and a cue for new life.",
+        "zh-CN": "i汇集个性、创新与智慧；Q关联品质、立体感与新生活契机。",
+        "zh-TW": "i匯集個性、創新與智慧；Q关联品质、立體感與新生活契机。",
+        "ja": "iは個性・革新・知性、Qは品質・立体感・新しい生活のきっかけを表す。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:aqua",
+      "summary": {
+        "en": "From Latin aqua, “water,” conveying a clear, clean and expansive image.",
+        "zh-CN": "源自拉丁语 aqua（水），寄托清澈洁净、自由延展的形象。",
+        "zh-TW": "源自拉丁語 aqua（水），寄托清澈洁净、自由延展的形象。",
+        "ja": "ラテン語の「水」。清らかさと広がりのイメージを込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:avalon",
+      "summary": {
+        "en": "Named after the legendary island paradise of Celtic mythology.",
+        "zh-CN": "取自凯尔特传说中的乐园之岛 Avalon。",
+        "zh-TW": "取自凯尔特傳说中的樂園之島 Avalon。",
+        "ja": "ケルト神話に登場する楽園の島「アヴァロン」にちなむ。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:allion",
+      "summary": {
+        "en": "A coined blend of “ALL in ONE,” expressing a car that brings together many virtues.",
+        "zh-CN": "由“ALL in ONE”组合而成，表达一车汇集多种优点。",
+        "zh-TW": "由“ALL in ONE”組合而成，表達一車匯集多種優點。",
+        "ja": "「ALL in ONE」を組み合わせ、多くの長所を一台に集める造語。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:aristo",
+      "summary": {
+        "en": "From the Greek-origin prefix “aristo-,” meaning best.",
+        "zh-CN": "源自希腊语词头 aristo-，意为“最上等、优秀”。",
+        "zh-TW": "源自希臘語詞頭 aristo-，意為「最上等、優秀」。",
+        "ja": "ギリシャ語由来の接頭語aristo-（最上の）にちなむ。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:alphard",
+      "summary": {
+        "en": "Derived from the Greek word alpha, evoking the brightest star in a constellation.",
+        "zh-CN": "源自希腊语 alpha，意在唤起“星座中最亮星”的形象。",
+        "zh-TW": "源自希臘語alpha，意在喚起「星座中最亮星」的形象。",
+        "ja": "うみへび座で最も明るい星「アルファルド」にちなむ。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:vellfire",
+      "summary": {
+        "en": "A blend of velvet and fire, expressing cool passion.",
+        "zh-CN": "由 velvet（丝绒）与 fire（火焰）组合，表达“冷静的热情”。",
+        "zh-TW": "由 velvet（丝绒）與 fire（火焰）組合，表達“冷静的热情”。",
+        "ja": "velvetとfireを組み合わせ、「静かな情熱」を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:voxy",
+      "summary": {
+        "en": "A coined name based on Latin vox (“voice”), also evoking a boxy body.",
+        "zh-CN": "以拉丁语 vox（声音）为基础造词，也让人联想到方正的车身。",
+        "zh-TW": "以拉丁語 vox（声音）為基础造詞，也讓人联想到方正的車身。",
+        "ja": "ラテン語のvox（声）をもとにした造語で、箱型のイメージも持たせた。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:estima",
+      "summary": {
+        "en": "From estimable, meaning worthy of respect.",
+        "zh-CN": "源自 estimable，意为“值得尊敬”。",
+        "zh-TW": "源自 estimable，意為“值得尊敬”。",
+        "ja": "「尊敬に値する」を意味するestimableに由来。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:fj-cruiser",
+      "summary": {
+        "en": "Combines Land Cruiser and FJ40.",
+        "zh-CN": "由 Land Cruiser 与 FJ40 组合而成。",
+        "zh-TW": "由 Land Cruiser 與 FJ40 組合而成。",
+        "ja": "ランドクルーザーとFJ40を組み合わせた車名。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:mr2",
+      "summary": {
+        "en": "Abbreviation of Midship Runabout 2 Seater.",
+        "zh-CN": "是 Midship Runabout 2 Seater（中置发动机双座小车）的缩写。",
+        "zh-TW": "是 Midship Runabout 2 Seater（中置發動机双座小車）的縮写。",
+        "ja": "Midship Runabout 2 Seaterの略。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:camry",
+      "summary": {
+        "en": "Derived from the Japanese word kanmuri (冠), meaning crown.",
+        "zh-CN": "由日语“冠”（かんむり）演变而来。",
+        "zh-TW": "由日語“冠”（かんむり）演变而來。",
+        "ja": "日本語の「冠（かんむり）」をもとにした車名。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:corolla",
+      "summary": {
+        "en": "A corolla is the ring of petals around a flower’s center; the name evokes a beautiful, eye-catching car.",
+        "zh-CN": "Corolla 指花朵中央周围的一圈花瓣，名称寄托优美醒目的形象。",
+        "zh-TW": "Corolla指花朵中央周圍的一圈花瓣，名稱寄託優美醒目的形象。",
+        "ja": "花の中央を囲む花びらの輪を指し、美しく目を引く車のイメージを込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:crown",
+      "summary": {
+        "en": "Crown means a royal crown.",
+        "zh-CN": "Crown 是英语“王冠”。",
+        "zh-TW": "Crown 是英語“王冠”。",
+        "ja": "英語で「王冠」を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:coaster",
+      "summary": {
+        "en": "Refers to a coastal trading or cruising vessel.",
+        "zh-CN": "指沿岸航行的商船或巡航船。",
+        "zh-TW": "指沿岸航行的商船或巡航船。",
+        "ja": "沿岸を航行する船を指す言葉に由来。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:succeed",
+      "summary": {
+        "en": "Succeed means to achieve success.",
+        "zh-CN": "Succeed 是英语“成功”。",
+        "zh-TW": "Succeed 是英語“成功”。",
+        "ja": "英語で「成功する」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:sienta",
+      "summary": {
+        "en": "A blend of Spanish siete (seven) and English entertain.",
+        "zh-CN": "由西班牙语 siete（七）与英语 entertain（娱乐）组合而成。",
+        "zh-TW": "由西班牙語 siete（七）與英語 entertain（娱樂）組合而成。",
+        "ja": "スペイン語のsiete（7）と英語のentertainを組み合わせた造語。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:supra",
+      "summary": {
+        "en": "From Latin supra, meaning above or beyond.",
+        "zh-CN": "源自拉丁语 supra，意为“在上、超越”。",
+        "zh-TW": "源自拉丁語 supra，意為“在上、超越”。",
+        "ja": "ラテン語で「上に」「超えて」を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:starlet",
+      "summary": {
+        "en": "Starlet means a little star.",
+        "zh-CN": "Starlet 意为“小星星”。",
+        "zh-TW": "Starlet 意為“小星星”。",
+        "ja": "英語で「小さな星」を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:celica",
+      "summary": {
+        "en": "From Spanish celica, meaning heavenly or celestial.",
+        "zh-CN": "源自西班牙语 celica，意为“天上的、天空的”。",
+        "zh-TW": "源自西班牙語 celica，意為“天上的、天空的”。",
+        "ja": "スペイン語で「天上の」「天空の」を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:celsior",
+      "summary": {
+        "en": "Based on Latin celsus, meaning highest or supreme.",
+        "zh-CN": "源自拉丁语 celsus，意为“至高、最高”。",
+        "zh-TW": "源自拉丁語 celsus，意為“至高、最高”。",
+        "ja": "ラテン語のcelsus（高い、至高の）をもとにした。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:century",
+      "summary": {
+        "en": "Means one hundred years; the name marks two centennial anniversaries.",
+        "zh-CN": "Century 意为“世纪”；命名纪念明治百周年及丰田佐吉诞辰百周年。",
+        "zh-TW": "Century 意為“世纪”；命名纪念明治百周年及丰田佐吉诞辰百周年。",
+        "ja": "「世紀」の意味。明治100年と豊田佐吉生誕100年を記念した。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:chaser",
+      "summary": {
+        "en": "Chaser means a pursuer.",
+        "zh-CN": "Chaser 是英语“追逐者”。",
+        "zh-TW": "Chaser 是英語“追逐者”。",
+        "ja": "英語で「追う人」「追跡者」を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:noah",
+      "summary": {
+        "en": "A gentle-sounding English personal name; Toyota says it is not a reference to Noah’s Ark.",
+        "zh-CN": "取自发音柔和的英语人名 Noah；丰田明确说明并非指诺亚方舟。",
+        "zh-TW": "取自發音柔和的英語人名 Noah；丰田明确说明并非指诺亚方舟。",
+        "ja": "響きの柔らかな英語の人名にちなむ。ノアの方舟とは関係ない。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:hiace",
+      "summary": {
+        "en": "A blend of high and ace.",
+        "zh-CN": "由 high（更优）与 ace（优秀、第一）组合而成。",
+        "zh-TW": "由 high（更優）與 ace（優秀、第一）組合而成。",
+        "ja": "highとaceを組み合わせた車名。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:hilux",
+      "summary": {
+        "en": "A blend of high and luxury.",
+        "zh-CN": "由 high（更优）与 luxury（豪华）组合而成。",
+        "zh-TW": "由 high（更優）與 luxury（豪華）組合而成。",
+        "ja": "highとluxuryを組み合わせた車名。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:harrier",
+      "summary": {
+        "en": "Named after the harrier, a type of hawk.",
+        "zh-CN": "取自鹞鹰（harrier）的英文名称。",
+        "zh-TW": "取自鹞鹰（harrier）的英文名稱。",
+        "ja": "鳥の一種「ハリアー（チュウヒ）」にちなむ。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:prius",
+      "summary": {
+        "en": "From Latin prius, meaning before or ahead of.",
+        "zh-CN": "源自拉丁语 prius，意为“在……之前、领先”。",
+        "zh-TW": "源自拉丁語 prius，意為“在……之前、领先”。",
+        "ja": "ラテン語で「先に」「先立って」を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:probox",
+      "summary": {
+        "en": "A blend of professional and box.",
+        "zh-CN": "由 professional（专业）与 box（箱）组合而成。",
+        "zh-TW": "由 professional（专业）與 box（箱）組合而成。",
+        "ja": "professionalとboxを組み合わせた車名。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:mark-ii",
+      "summary": {
+        "en": "Mark suggests a goal, success or renown; II denotes its second-generation Corona lineage.",
+        "zh-CN": "Mark 表示目标、成功或声誉；II 指其源自第二代 Corona 的高阶车型。",
+        "zh-TW": "Mark 表示目標、成功或声誉；II 指其源自第二代 Corona 的高阶車型。",
+        "ja": "Markは目標・成功・名声、IIはコロナの二代目・上級車種を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:mark-x",
+      "summary": {
+        "en": "Combines Mark (goal, success, renown) with X (next generation and unknown possibilities).",
+        "zh-CN": "由 Mark（目标、成功、声誉）与 X（下一代、未知可能性）组合而成。",
+        "zh-TW": "由 Mark（目標、成功、声誉）與 X（下一代、未知可能性）組合而成。",
+        "ja": "Mark（目標・成功・名声）と、次世代や未知の可能性を表すXを組み合わせた。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:megacruiser",
+      "summary": {
+        "en": "A blend of mega (huge) and cruiser.",
+        "zh-CN": "由 mega（巨大）与 cruiser（巡航舰）组合而成。",
+        "zh-TW": "由 mega（巨大）與 cruiser（巡航艦）組合而成。",
+        "ja": "mega（巨大な）とcruiserを組み合わせた車名。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:rav4",
+      "summary": {
+        "en": "Abbreviation of Recreational Active Vehicle 4-wheel drive.",
+        "zh-CN": "是 Recreational Active Vehicle 4-wheel drive 的缩写。",
+        "zh-TW": "是 Recreational Active Vehicle 4-wheel drive 的縮写。",
+        "ja": "Recreational Active Vehicle 4-wheel driveの略。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:land-cruiser",
+      "summary": {
+        "en": "Combines land and cruiser, meaning a land cruiser.",
+        "zh-CN": "由 land（陆地）与 cruiser（巡航舰）组合，意为“陆地巡洋舰”。",
+        "zh-TW": "由 land（陸地）與 cruiser（巡航艦）組合，意為“陸地巡洋艦”。",
+        "ja": "landとcruiserを組み合わせた「陸の巡洋艦」。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:land-cruiser-prado",
+      "summary": {
+        "en": "Land Cruiser plus Prado, Portuguese for a plain or meadow.",
+        "zh-CN": "Land Cruiser 加上葡萄牙语 prado（平原、草地）。",
+        "zh-TW": "Land Cruiser 加上葡萄牙語 prado（平原、草地）。",
+        "ja": "ランドクルーザーに、ポルトガル語で「平原」を意味するpradoを加えた。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:yaris",
+      "summary": {
+        "en": "Combines the lively “Ya” with the “-is” ending seen in Greek mythological names.",
+        "zh-CN": "将富有动感的 Ya 与希腊神名常见词尾 -is 组合。",
+        "zh-TW": "將富有動感的 Ya 與希腊神名常见詞尾 -is 組合。",
+        "ja": "ギリシャ神話の神名に見られるisと、躍動感のあるYaを組み合わせた。"
+      },
+      "source_language": "ja",
+      "source_title": "ヤリスの車名の由来は何ですか？",
+      "source_url": "https://toyota.jp/faq/show/2297.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:toyota:bz4x",
+      "summary": {
+        "en": "bZ means Beyond Zero; 4 indicates the medium-size class and X an SUV.",
+        "zh-CN": "bZ 表示 Beyond Zero；4 表示中型级别，X 表示 SUV。",
+        "zh-TW": "bZ 表示 Beyond Zero；4 表示中型级別，X 表示 SUV。",
+        "ja": "bZはBeyond Zero、4はミディアムクラス、XはSUVを表す。"
+      },
+      "source_language": "ja",
+      "source_title": "bZ4Xの車名の由来は何ですか？",
+      "source_url": "https://toyota.jp/faq/show/7722.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lexus:ct",
+      "summary": {
+        "en": "CT stands for Creative Touring.",
+        "zh-CN": "CT 是 Creative Touring 的缩写。",
+        "zh-TW": "CT 是 Creative Touring 的縮写。",
+        "ja": "Creative Touringの略。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lexus:gs",
+      "summary": {
+        "en": "GS stands for Grand Sedan.",
+        "zh-CN": "GS 是 Grand Sedan 的缩写。",
+        "zh-TW": "GS 是 Grand Sedan 的縮写。",
+        "ja": "Grand Sedanの略。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lexus:is",
+      "summary": {
+        "en": "IS stands for Intelligent Sports Sedan.",
+        "zh-CN": "IS 是 Intelligent Sports Sedan 的缩写。",
+        "zh-TW": "IS 是 Intelligent Sports Sedan 的縮写。",
+        "ja": "Intelligent Sports Sedanの略。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lexus:hs",
+      "summary": {
+        "en": "HS stands for Harmonious Sedan.",
+        "zh-CN": "HS 是 Harmonious Sedan 的缩写。",
+        "zh-TW": "HS 是 Harmonious Sedan 的縮写。",
+        "ja": "Harmonious Sedanの略。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lexus:lfa",
+      "summary": {
+        "en": "The name marks the pinnacle of the Lexus F high-performance line.",
+        "zh-CN": "名称代表 Lexus F 高性能系列中的顶点车型。",
+        "zh-TW": "名稱代表 Lexus F 高性能系列中的顶點車型。",
+        "ja": "レクサスFの頂点に立つ高性能モデルを表す。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lexus:ls",
+      "summary": {
+        "en": "LS stands for Luxury Sedan.",
+        "zh-CN": "LS 是 Luxury Sedan 的缩写。",
+        "zh-TW": "LS 是 Luxury Sedan 的縮写。",
+        "ja": "Luxury Sedanの略。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lexus:rx",
+      "summary": {
+        "en": "R means Radiant and X denotes a crossover.",
+        "zh-CN": "R 表示 Radiant（闪耀），X 表示跨界车型。",
+        "zh-TW": "R 表示 Radiant（闪耀），X 表示跨界車型。",
+        "ja": "RはRadiant、Xはクロスオーバーを表す。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:lexus:lexus-sc",
+      "summary": {
+        "en": "SC stands for Sports Coupe.",
+        "zh-CN": "SC 是 Sports Coupe 的缩写。",
+        "zh-TW": "SC 是 Sports Coupe 的縮写。",
+        "ja": "Sports Coupeの略。"
+      },
+      "source_language": "ja",
+      "source_title": "〖豆知識〗車名の由来",
+      "source_url": "https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/vehicle_lineage_chart/origin/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nissan:be-1",
+      "summary": {
+        "en": "Its development code B1 was turned into the verb “be,” symbolizing the car’s potential.",
+        "zh-CN": "将开发代号 B1 改写为 be 动词形式，象征车型的可能性。",
+        "zh-TW": "將開發代號 B1 改写為 be 動詞形式，象征車型的可能性。",
+        "ja": "開発記号B1をbe動詞化し、車の可能性を象徴した。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://www.nissan.co.jp/MUSEUM/CARNAME/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nissan:bluebird",
+      "summary": {
+        "en": "Named after the bluebird in Maeterlinck’s fairy tale.",
+        "zh-CN": "取名自梅特林克童话《青鸟》。",
+        "zh-TW": "取名自梅特林克童话《青鸟》。",
+        "ja": "メーテルリンクの童話「青い鳥」にちなむ。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://www.nissan.co.jp/MUSEUM/CARNAME/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nissan:cefiro",
+      "summary": {
+        "en": "Spanish for a breeze, especially the west wind that brings spring to the Mediterranean.",
+        "zh-CN": "西班牙语“微风”，也指给地中海带来春天的西风。",
+        "zh-TW": "西班牙語“微風”，也指给地中海帶來春天的西風。",
+        "ja": "スペイン語で「そよ風」、地中海に春をもたらす西風の意味。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://www.nissan.co.jp/MUSEUM/CARNAME/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nissan:serena",
+      "summary": {
+        "en": "Spanish for “bright and clear” or “calm.”",
+        "zh-CN": "西班牙语意为“晴朗、明朗”或“平和、宁静”。",
+        "zh-TW": "西班牙語意為“晴朗、明朗”或“平和、宁静”。",
+        "ja": "スペイン語で「晴々とした」「穏やかな」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://www.nissan.co.jp/MUSEUM/CARNAME/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nissan:skyline",
+      "summary": {
+        "en": "A skyline is the ridge separating mountains from the blue sky.",
+        "zh-CN": "Skyline 指划分山峦与蓝天的山脊线。",
+        "zh-TW": "Skyline 指划分山峦與蓝天的山脊線。",
+        "ja": "山並みと青空を区切る稜線を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://www.nissan.co.jp/MUSEUM/CARNAME/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nissan:stanza",
+      "summary": {
+        "en": "Italian for “room.”",
+        "zh-CN": "意大利语意为“房间”。",
+        "zh-TW": "意大利語意為“房间”。",
+        "ja": "イタリア語で「部屋」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://www.nissan.co.jp/MUSEUM/CARNAME/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nissan:figaro",
+      "summary": {
+        "en": "Named after the witty male character in Mozart’s opera “The Marriage of Figaro.”",
+        "zh-CN": "取名自莫扎特歌剧《费加罗的婚礼》中机智的男主人公。",
+        "zh-TW": "取名自莫扎特歌剧《费加罗的婚礼》中机智的男主人公。",
+        "ja": "モーツァルトの歌劇「フィガロの結婚」の機知に富んだ男性主人公にちなむ。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://www.nissan.co.jp/MUSEUM/CARNAME/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nissan:murano",
+      "summary": {
+        "en": "Named after Murano Island near Venice, known for Venetian glass.",
+        "zh-CN": "取名自威尼斯附近以威尼斯玻璃闻名的穆拉诺岛。",
+        "zh-TW": "取名自威尼斯附近以威尼斯玻璃闻名的穆拉诺島。",
+        "ja": "ベネチアングラスで有名なベニス近郊のムラーノ島に由来する。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://www.nissan.co.jp/MUSEUM/CARNAME/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nissan:ariya",
+      "summary": {
+        "en": "The name expresses Nissan’s wish to honor history and tradition while moving toward a new era; no literal translation is given.",
+        "zh-CN": "名称寄托日产珍视历史传统、同时迈向新时代的愿望；官方未给出可直译的词义。",
+        "zh-TW": "名稱寄托日产珍視歷史傳统、同時迈向新時代的願望；官方未给出可直譯的詞義。",
+        "ja": "歴史や伝統を大切にしながら新しい時代へ向かう日産を象徴する思いを込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://www.nissan.co.jp/MUSEUM/CARNAME/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nissan:x-trail",
+      "summary": {
+        "en": "X evokes extreme sports; TRAIL refers to tracks, off-road paths and rough roads.",
+        "zh-CN": "X 关联极限运动；TRAIL 指足迹、越野路与崎岖道路，二者组合成词。",
+        "zh-TW": "X 关联极限运動；TRAIL 指足迹、越野路與崎岖道路，二者組合成詞。",
+        "ja": "Xはエクストリームスポーツ、TRAILは足跡・オフロード・荒れた道を表す造語。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://www.nissan.co.jp/MUSEUM/CARNAME/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nissan:altima",
+      "summary": {
+        "en": "Derived from “ultimate,” expressing the image of a best-in-class sedan.",
+        "zh-CN": "源自 ultimate（极致），表达“顶级轿车”的形象。",
+        "zh-TW": "源自 ultimate（极致），表達“顶级轿車”的形象。",
+        "ja": "ultimate（究極の）に由来し、「最高のセダン」のイメージを表す。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の由来を教えて。",
+      "source_url": "https://www.nissan.co.jp/MUSEUM/CARNAME/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:toppo",
+      "summary": {
+        "en": "“Top” evokes the tall cabin; the name was made familiar and affectionate.",
+        "zh-CN": "Top 呼应较高的车内空间，名字也带有亲切感。",
+        "zh-TW": "Top 呼應较高的車內空间，名字也帶有亲切感。",
+        "ja": "室内の高さを表すTOPをもとに、親しみやすい名前にした。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:minica",
+      "summary": {
+        "en": "A blend of mini and car, meaning a small car.",
+        "zh-CN": "由 mini（小）与 car（汽车）组合，意为小型车。",
+        "zh-TW": "由 mini（小）與 car（汽車）組合，意為小型車。",
+        "ja": "miniとcarを組み合わせた「小さな車」の意味。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:airtrek",
+      "summary": {
+        "en": "A blend of air and trek, expressing a free, adventurous journey.",
+        "zh-CN": "由 air 与 trek 组合，表达自由自在的冒险旅程。",
+        "zh-TW": "由 air 與 trek 組合，表達自由自在的冒险旅程。",
+        "ja": "airとtrekを組み合わせ、自由な冒険の旅を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:colt",
+      "summary": {
+        "en": "Colt means a young male horse.",
+        "zh-CN": "Colt 意为“小公马”。",
+        "zh-TW": "Colt 意為“小公馬”。",
+        "ja": "英語で「若い雄馬」を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:proudia",
+      "summary": {
+        "en": "A blend of proud and diamond, expressing pride and prestige.",
+        "zh-CN": "由 proud（自豪）与 diamond（钻石）组合，表达尊贵与自豪。",
+        "zh-TW": "由 proud（自豪）與 diamond（钻石）組合，表達尊贵與自豪。",
+        "ja": "proudとdiamondを組み合わせ、誇りと品格を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:i",
+      "summary": {
+        "en": "Combines I (oneself) and innovation.",
+        "zh-CN": "由 I（自我）与 innovation（创新）组合而来。",
+        "zh-TW": "由 I（自我）與 innovation（創新）組合而來。",
+        "ja": "I（私）とinnovation（革新）を組み合わせた。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:i-miev",
+      "summary": {
+        "en": "MiEV stands for Mitsubishi Innovative Electric Vehicle; the name retains “i.”",
+        "zh-CN": "MiEV 是 Mitsubishi Innovative Electric Vehicle 的缩写，并沿用 i 车型名称。",
+        "zh-TW": "MiEV 是 Mitsubishi Innovative Electric Vehicle 的縮写，并沿用 i 車型名稱。",
+        "ja": "MiEVはMitsubishi Innovative Electric Vehicleの略で、iの車名を引き継いだ。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:galant",
+      "summary": {
+        "en": "French for gallant or elegant.",
+        "zh-CN": "源自法语，意为英勇、优雅。",
+        "zh-TW": "源自法語，意為英勇、優雅。",
+        "ja": "フランス語で「勇ましい」「優雅な」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:lancer",
+      "summary": {
+        "en": "Lancer means a cavalry soldier armed with a lance.",
+        "zh-CN": "Lancer 指手持长枪的骑兵。",
+        "zh-TW": "Lancer 指手持長枪的騎兵。",
+        "ja": "槍を持った騎兵を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:lancer-evolution",
+      "summary": {
+        "en": "Combines Lancer and Evolution.",
+        "zh-CN": "由 Lancer 与 Evolution（进化）组合而成。",
+        "zh-TW": "由 Lancer 與 Evolution（進化）組合而成。",
+        "ja": "LancerとEvolutionを組み合わせた車名。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:fto",
+      "summary": {
+        "en": "Abbreviation of “Fresh Touring Origination.”",
+        "zh-CN": "是 Fresh Touring Origination 的缩写。",
+        "zh-TW": "是 Fresh Touring Origination 的縮写。",
+        "ja": "Fresh Touring Originationの略。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:mirage",
+      "summary": {
+        "en": "Mirage means an optical illusion or mirage.",
+        "zh-CN": "Mirage 是英语“海市蜃楼”。",
+        "zh-TW": "Mirage 是英語“海市蜃楼”。",
+        "ja": "英語で「蜃気楼」を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:outlander",
+      "summary": {
+        "en": "A blend of outland and -er, describing an adventurer heading for distant, unknown lands.",
+        "zh-CN": "由 outland（远方、异域）与 -er 组合，指向遥远未知之地的探险者。",
+        "zh-TW": "由 outland（遠方、异域）與 -er 組合，指向遥遠未知之地的探险者。",
+        "ja": "outlandと-erを組み合わせ、遠い未知の地へ向かう冒険者を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:delica-d5",
+      "summary": {
+        "en": "Delica comes from delivery car; D:5 marks the fifth generation and large-minivan category.",
+        "zh-CN": "Delica 源自 delivery car（配送车）；D:5 表示第五代及大型 MPV 级别。",
+        "zh-TW": "Delica 源自 delivery car（配送車）；D:5 表示第五代及大型 MPV 级別。",
+        "ja": "Delicaはdelivery carに由来し、D:5は5代目と大型ミニバンを表す。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:delica-mini",
+      "summary": {
+        "en": "Delica comes from delivery car; Mini identifies a smaller Delica-series model.",
+        "zh-CN": "Delica 源自 delivery car（配送车）；Mini 表明这是 Delica 系列中的小型车型。",
+        "zh-TW": "Delica 源自 delivery car（配送車）；Mini 表明這是 Delica 系列中的小型車型。",
+        "ja": "Delicaはdelivery carに由来し、Miniはデリカシリーズの小型車を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:triton",
+      "summary": {
+        "en": "TRI refers to Mitsubishi’s three diamonds and TON to a one-ton pickup.",
+        "zh-CN": "TRI 指三菱标志上的三颗钻石，TON 指一吨级皮卡。",
+        "zh-TW": "TRI 指三菱標誌上的三顆鑽石，TON 指一噸級皮卡。",
+        "ja": "TRIは三菱のスリーダイヤ、TONは1トン積みピックアップを表す。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:pajero",
+      "summary": {
+        "en": "Named after a wild cat native to southern Argentina.",
+        "zh-CN": "取名自阿根廷南部的一种野生猫科动物。",
+        "zh-TW": "取名自阿根廷南部的一種野生猫科動物。",
+        "ja": "アルゼンチン南部に生息する野生のネコ科動物にちなむ。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:jeep",
+      "summary": {
+        "en": "Jeep originated as an abbreviation of GP, meaning General Purpose.",
+        "zh-CN": "Jeep 源自 GP（General Purpose，多用途）的简称。",
+        "zh-TW": "Jeep 源自 GP（General Purpose，多用途）的简稱。",
+        "ja": "General Purpose（多目的）の略称GPに由来する。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:diamante",
+      "summary": {
+        "en": "Diamante means diamond in Spanish.",
+        "zh-CN": "Diamante 是西班牙语“钻石”。",
+        "zh-TW": "Diamante 是西班牙語“钻石”。",
+        "ja": "スペイン語で「ダイヤモンド」を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:ek-wagon",
+      "summary": {
+        "en": "eK is wordplay on “ii kei,” meaning a good kei car.",
+        "zh-CN": "eK 是“いい軽”（好轻型车）的谐音文字游戏。",
+        "zh-TW": "eK 是“いい軽”（好轻型車）的谐音文字游戏。",
+        "ja": "「いい軽（いい軽自動車）」をもじった車名。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mitsubishi:ek-space",
+      "summary": {
+        "en": "eK is wordplay on “ii kei,” meaning a good kei car.",
+        "zh-CN": "eK 是“いい軽”（好轻型车）的谐音文字游戏。",
+        "zh-TW": "eK 是“いい軽”（好轻型車）的谐音文字游戏。",
+        "ja": "「いい軽（いい軽自動車）」をもじった車名。"
+      },
+      "source_language": "ja",
+      "source_title": "車名の意味・由来",
+      "source_url": "https://faq.mitsubishi-motors.co.jp/category/show/825?site_domain=default&sort=sort_access&sort_order=asc",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:fit",
+      "summary": {
+        "en": "Fit means “just right,” reflecting a car that fits people’s lives and everyday situations.",
+        "zh-CN": "Fit 意为“恰到好处”，寄托适合日常各种生活场景的愿望。",
+        "zh-TW": "Fit 意為“恰到好處”，寄托适合日常各種生活場景的願望。",
+        "ja": "英語で「ぴったり」の意味。暮らしのあらゆる場面にフィットする願いを込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "〖フィット〗FITの名前の由来を教えて",
+      "source_url": "https://www.honda.co.jp/customer/auto/fit/faq/qa044/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:civic",
+      "summary": {
+        "en": "Civic means “of the citizens”; Honda says it was conceived as a car for people.",
+        "zh-CN": "Civic 意为“市民的”；本田称其目标是打造真正为市民而生的汽车。",
+        "zh-TW": "Civic 意為“市民的”；本田稱其目標是打造真正為市民而生的汽車。",
+        "ja": "「市民の」という意味。市民のための車を追求した名前。"
+      },
+      "source_language": "ja",
+      "source_title": "〖CIVIC〗シビックの名前の由来を教えて",
+      "source_url": "https://www.honda.co.jp/customer/auto/civic/faq/qa001/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:cr-v",
+      "summary": {
+        "en": "The initials stand for Comfortable Runabout Vehicle.",
+        "zh-CN": "CR-V 是 Comfortable Runabout Vehicle（舒适自在行驶的车辆）的首字母组合。",
+        "zh-TW": "CR-V 是 Comfortable Runabout Vehicle（舒适自在行驶的車辆）的首字母組合。",
+        "ja": "Comfortable Runabout Vehicleの頭文字。快適で軽快に自由に楽しめる車を目指した。"
+      },
+      "source_language": "ja",
+      "source_title": "〖CR-V〗CR-Vの名前の由来を教えて",
+      "source_url": "https://www.honda.co.jp/customer/auto/cr-v/faq/qa250/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:freed",
+      "summary": {
+        "en": "A coined name from Freedom; it also suggests Free plus do (to act).",
+        "zh-CN": "由 Freedom（自由）造词，也包含 Free（自由）+ do（行动）的含义。",
+        "zh-TW": "由 Freedom（自由）造詞，也包含 Free（自由）+ do（行動）的含義。",
+        "ja": "Freedomからの造語で、Free＋do（行動する）の意味も込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "オーナーならご存じですよね? 名前のヒミツ!",
+      "source_url": "https://www.honda.co.jp/magazine/article/2020Win009/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:insight",
+      "summary": {
+        "en": "Insight means insight or discernment, expressing foresight into a new era.",
+        "zh-CN": "Insight 意为“洞察力、眼识”，寄托洞察新时代到来的寓意。",
+        "zh-TW": "Insight 意為“洞察力、眼識”，寄托洞察新時代到來的寓意。",
+        "ja": "英語で「洞察力」「眼識」。新しい時代の到来を見通す思いを込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "オーナーならご存じですよね? 名前のヒミツ!",
+      "source_url": "https://www.honda.co.jp/magazine/article/2020Win009/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:jade",
+      "summary": {
+        "en": "Jade means jadeite; Honda associates it with beauty and enduring value.",
+        "zh-CN": "Jade 意为“翡翠”，本田将其与高贵之美和恒久价值相联系。",
+        "zh-TW": "Jade 意為“翡翠”，本田將其與高贵之美和恒久价值相联系。",
+        "ja": "翡翠の意味。高貴な美しさと変わらない価値を重ねた。"
+      },
+      "source_language": "ja",
+      "source_title": "オーナーならご存じですよね? 名前のヒミツ!",
+      "source_url": "https://www.honda.co.jp/magazine/article/2020Win009/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:legend",
+      "summary": {
+        "en": "Legend means a legend; it was named with the aim of creating a new one.",
+        "zh-CN": "Legend 意为“传奇”，寄托创造新传奇的愿望。",
+        "zh-TW": "Legend 意為“傳奇”，寄托創造新傳奇的願望。",
+        "ja": "「伝説」の意味。新たな伝説をもたらす車を目指した。"
+      },
+      "source_language": "ja",
+      "source_title": "オーナーならご存じですよね? 名前のヒミツ!",
+      "source_url": "https://www.honda.co.jp/magazine/article/2020Win009/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:nsx",
+      "summary": {
+        "en": "Honda’s official article expands NSX as “New Sports eXperience.”",
+        "zh-CN": "本田官方文章将 NSX 释为 New Sports eXperience（全新运动体验）。",
+        "zh-TW": "本田官方文章將 NSX 释為 New Sports eXperience（全新运動體验）。",
+        "ja": "Honda公式記事では「New Sports eXperience」と説明。"
+      },
+      "source_language": "ja",
+      "source_title": "オーナーならご存じですよね? 名前のヒミツ!",
+      "source_url": "https://www.honda.co.jp/magazine/article/2020Win009/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:n-series",
+      "summary": {
+        "en": "N carries the legacy of the N360 and represents New, Next, Nippon, and Norimono.",
+        "zh-CN": "N 延续 N360 的传承，也代表 New、Next、Nippon、Norimono。",
+        "zh-TW": "N 延續 N360 的傳承，也代表 New、Next、Nippon、Norimono。",
+        "ja": "N360の系譜を受け継ぎ、New・Next・Nippon・Norimonoを表す。"
+      },
+      "source_language": "ja",
+      "source_title": "オーナーならご存じですよね? 名前のヒミツ!",
+      "source_url": "https://www.honda.co.jp/magazine/article/2020Win009/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:odyssey",
+      "summary": {
+        "en": "Means a long adventurous journey, from the ancient Greek epic Odysseia.",
+        "zh-CN": "意为“漫长的冒险旅程”，源自古希腊史诗《奥德赛》。",
+        "zh-TW": "意為“漫長的冒险旅程”，源自古希腊史诗《奥德赛》。",
+        "ja": "「長い冒険旅行」の意味。古代ギリシャの叙事詩Odysseiaに由来。"
+      },
+      "source_language": "ja",
+      "source_title": "〖ODYSSEY〗オデッセイの名前の由来を教えて",
+      "source_url": "https://www.honda.co.jp/customer/auto/odyssey/faq/qa005/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:stepwgn",
+      "summary": {
+        "en": "Named with the wish to help people step up in every situation; WGN is a stylized abbreviation of wagon.",
+        "zh-CN": "寄托“在各种场景中都能更进一步”的愿望；WGN 是 Wagon 的图形化写法。",
+        "zh-TW": "寄托“在各種場景中都能更進一步”的願望；WGN 是 Wagon 的图形化写法。",
+        "ja": "あらゆる場面でステップアップできる願いを込めた。WGNはワゴンの略称をロゴ化した表記。"
+      },
+      "source_language": "ja",
+      "source_title": "〖ステップ ワゴン〗STEP WGNの名前の由来を教えて",
+      "source_url": "https://www.honda.co.jp/customer/auto/stepwgn/faq/qa043/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:acura:nsx",
+      "summary": {
+        "en": "Acura says NS-X represented “New,” “Sportscar,” and an “unknown world”; American Honda selected “New Sports eXperimental,” later dropping the hyphen for production.",
+        "zh-CN": "Acura 说明 NS-X 概念名代表 New、Sportscar 与 unknown world；American Honda 选定 New Sports eXperimental，量产时去掉连字符。",
+        "zh-TW": "Acura 说明 NS-X 概念名代表 New、Sportscar 與 unknown world；American Honda 選定 New Sports eXperimental，量产時去掉连字符。",
+        "ja": "AcuraによればNS-Xの構想はNew・Sportscar・unknown world。米HondaがNew Sports eXperimentalを選び、量産名ではハイフンを外した。"
+      },
+      "source_language": "en",
+      "source_title": "Acura Marks 30 Years Since Debut of Iconic NSX Supercar",
+      "source_url": "https://www.acura.com/news-and-press/press-release-detail?article=10838-en",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:subaru:forester",
+      "summary": {
+        "en": "Forester means a person who lives in or nurtures the forest.",
+        "zh-CN": "Forester 意为“居住在森林中的人”或“培育森林的人”。",
+        "zh-TW": "Forester 意為“居住在森林中的人”或“培育森林的人”。",
+        "ja": "英語で「森に住む人」「森をはぐくむ人」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "フォレスターの車名の由来を教えてください。",
+      "source_url": "https://faq.subaru.jp/faq/show/2705?site_domain=default",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:subaru:impreza",
+      "summary": {
+        "en": "A coined name based on Impresa, meaning a crest or motto.",
+        "zh-CN": "Impreza 是基于 impresa（纹章、格言）创制的名称。",
+        "zh-TW": "Impreza 是基於 impresa（纹章、格言）創制的名稱。",
+        "ja": "「紋章」「金言」などの意味を持つImpresaをもとにした造語。"
+      },
+      "source_language": "ja",
+      "source_title": "インプレッサの車名の由来を教えてください。",
+      "source_url": "https://faq.subaru.jp/faq/show/11622?site_domain=default",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:subaru:levorg",
+      "summary": {
+        "en": "Blends LEGACY, REVOLUTION, and TOURING, expressing heritage and a new touring-car era.",
+        "zh-CN": "由 LEGACY、REVOLUTION、TOURING 组合，表达承袭传统并开创新旅行车时代。",
+        "zh-TW": "由 LEGACY、REVOLUTION、TOURING 組合，表達承袭傳统并開創新旅行車時代。",
+        "ja": "LEGACY・REVOLUTION・TOURINGを組み合わせ、伝承を継ぎ新たな時代を拓く思いを込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "レヴォーグの車名の由来を教えてください。",
+      "source_url": "https://faq.subaru.jp/faq/show/2698?site_domain=default",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:subaru:brz",
+      "summary": {
+        "en": "B is Boxer engine, R is rear-wheel drive, and Z means ultimate.",
+        "zh-CN": "B 表示 Boxer 发动机，R 表示后轮驱动，Z 表示终极。",
+        "zh-TW": "B 表示 Boxer 發動机，R 表示后轮驱動，Z 表示终极。",
+        "ja": "BはBOXERエンジン、RはRear Wheel Drive、Zは究極を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "SUBARU BRZの車名の由来を教えてください。",
+      "source_url": "https://faq.subaru.jp/faq/show/2707?site_domain=default",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:subaru:crosstrek",
+      "summary": {
+        "en": "A blend of crossover and trekking, for a car that moves freely between city and country.",
+        "zh-CN": "由 crossover 与 trekking 组合，表达自在穿行城市与郊外、轻松旅行。",
+        "zh-TW": "由 crossover 與 trekking 組合，表達自在穿行城市與郊外、轻松旅行。",
+        "ja": "CROSSOVERとTREKKINGの造語。都市も郊外も自在に移動し、軽やかに旅する車を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "クロストレックの車名の由来を教えてください。",
+      "source_url": "https://faq.subaru.jp/faq/show/3866?site_domain=default",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:subaru:solterra",
+      "summary": {
+        "en": "A blend of SOL (sun) and TERRA (earth).",
+        "zh-CN": "由 SOL（太阳）与 TERRA（大地）组合而成。",
+        "zh-TW": "由 SOL（太阳）與 TERRA（大地）組合而成。",
+        "ja": "太陽を意味するSOLと、大地を意味するTERRAを組み合わせた。"
+      },
+      "source_language": "ja",
+      "source_title": "ソルテラの車名の由来を教えてください。",
+      "source_url": "https://faq.subaru.jp/faq/show/2523?site_domain=default",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:subaru:outback",
+      "summary": {
+        "en": "Outback means remote or undeveloped land, including Australia’s untouched interior; the official source explains “Legacy Outback.”",
+        "zh-CN": "Outback 意为“偏远腹地、未开发之地”，也指澳大利亚保留原始自然的内陆；官方解释的名称是 Legacy Outback。",
+        "zh-TW": "Outback 意為“偏遠腹地、未開發之地”，也指澳大利亚保留原始自然的內陸；官方解释的名稱是 Legacy Outback。",
+        "ja": "奥地・未開の地、自然の残るオーストラリア内陸部を指す。公式説明はLegacy Outback全体。"
+      },
+      "source_language": "ja",
+      "source_title": "レガシィ アウトバックの車名の由来を教えてください。",
+      "source_url": "https://faq.subaru.jp/faq/show/2697?site_domain=default",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:subaru:alcyone-svx",
+      "summary": {
+        "en": "Alcyone is named after the brightest star in the Pleiades; this source does not expand SVX.",
+        "zh-CN": "Alcyone 取自昴星团中最亮的昴宿六；该来源未解释 SVX。",
+        "zh-TW": "Alcyone 取自昴星团中最亮的昴宿六；該來源未解释 SVX。",
+        "ja": "アルシオーネはプレアデス星団で最も輝くアルキオネに由来。この資料ではSVXは説明していない。"
+      },
+      "source_language": "ja",
+      "source_title": "ヒストリー｜SUBARUのクルマづくり",
+      "source_url": "https://www.subaru.jp/manufacturing/history/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:daihatsu:mira-es",
+      "summary": {
+        "en": "e:S abbreviates Eco (ecology and economy) and Smart.",
+        "zh-CN": "e:S 是 Eco（生态、经济）与 Smart 的缩写。",
+        "zh-TW": "e:S 是 Eco（生態、經濟）與 Smart 的縮写。",
+        "ja": "e:SはEco（ecology・economy）とSmartの略。"
+      },
+      "source_language": "ja",
+      "source_title": "国内販売車種｜会社案内｜ダイハツ工業株式会社 企業情報サイト",
+      "source_url": "https://www.daihatsu.com/jp/company/car_model/car_jp.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:daihatsu:taft",
+      "summary": {
+        "en": "A name built around the concept “Tough & Almighty Fun Tool.”",
+        "zh-CN": "名称基于 Tough & Almighty Fun Tool（坚韧、全能、有趣的工具车）这一概念。",
+        "zh-TW": "名稱基於 Tough & Almighty Fun Tool（坚韧、全能、有趣的工具車）這一概念。",
+        "ja": "Tough & Almighty Fun Toolをコンセプトにした名称。"
+      },
+      "source_language": "ja",
+      "source_title": "国内販売車種｜会社案内｜ダイハツ工業株式会社 企業情報サイト",
+      "source_url": "https://www.daihatsu.com/jp/company/car_model/car_jp.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:daihatsu:move",
+      "summary": {
+        "en": "Move means to move or move people emotionally; Daihatsu hoped the car would bring new excitement.",
+        "zh-CN": "Move 意为“移动、感动”；大发希望它带给乘员新的感动。",
+        "zh-TW": "Move 意為“移動、感動”；大發希望它帶给乘员新的感動。",
+        "ja": "英語で「動かす」「感動させる」の意味。乗る人に新たな感動を与える思いを込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "国内販売車種｜会社案内｜ダイハツ工業株式会社 企業情報サイト",
+      "source_url": "https://www.daihatsu.com/jp/company/car_model/car_jp.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:daihatsu:move-canbus",
+      "summary": {
+        "en": "CANBUS combines CAN (can do anything) with BUS (mini-bus design), while evoking canvas/cloth.",
+        "zh-CN": "CANBUS 结合 CAN（无所不能）与 BUS（迷你巴士），同时借用 canvas/帆布意象。",
+        "zh-TW": "CANBUS 結合 CAN（無所不能）與 BUS（迷你巴士），同時借用 canvas/帆布意象。",
+        "ja": "CAN（何でもできる）とBUS（ミニバスのようなデザイン）を組み合わせ、CANVASのイメージも持たせた。"
+      },
+      "source_language": "ja",
+      "source_title": "国内販売車種｜会社案内｜ダイハツ工業株式会社 企業情報サイト",
+      "source_url": "https://www.daihatsu.com/jp/company/car_model/car_jp.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:daihatsu:tanto",
+      "summary": {
+        "en": "Italian for very spacious or many, with a wish to bring lots of happiness.",
+        "zh-CN": "意大利语意为“非常宽敞、很多”，寄托带来许多幸福的愿望。",
+        "zh-TW": "意大利語意為“非常寬敞、很多”，寄托帶來许多幸福的願望。",
+        "ja": "イタリア語で「とても広い」「たくさんの」。多くの幸せを願った。"
+      },
+      "source_language": "ja",
+      "source_title": "国内販売車種｜会社案内｜ダイハツ工業株式会社 企業情報サイト",
+      "source_url": "https://www.daihatsu.com/jp/company/car_model/car_jp.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:daihatsu:hijet",
+      "summary": {
+        "en": "A coined name for a car with higher performance than the Midget.",
+        "zh-CN": "创制名称，表示性能高于 Midget 的车型。",
+        "zh-TW": "創制名稱，表示性能高於 Midget 的車型。",
+        "ja": "ミゼットより高い性能を備えた車を表す造語。"
+      },
+      "source_language": "ja",
+      "source_title": "国内販売車種｜会社案内｜ダイハツ工業株式会社 企業情報サイト",
+      "source_url": "https://www.daihatsu.com/jp/company/car_model/car_jp.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:daihatsu:atrai",
+      "summary": {
+        "en": "A coined name from French attrait, meaning charm or attachment.",
+        "zh-CN": "源自法语 attrait，意为“魅力、吸引力”。",
+        "zh-TW": "源自法語 attrait，意為“魅力、吸引力”。",
+        "ja": "フランス語のattrait（魅力・愛着）からの造語。"
+      },
+      "source_language": "ja",
+      "source_title": "国内販売車種｜会社案内｜ダイハツ工業株式会社 企業情報サイト",
+      "source_url": "https://www.daihatsu.com/jp/company/car_model/car_jp.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:daihatsu:rocky",
+      "summary": {
+        "en": "Rocky evokes a rock smoothed by a river: strength with a refined impression.",
+        "zh-CN": "名称表达岩石经河水冲磨后仍蕴含力量、又显洗练的印象。",
+        "zh-TW": "名稱表達岩石經河水冲磨后仍蕴含力量、又顯洗练的印象。",
+        "ja": "川で磨かれた岩のように、力強さと洗練を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "国内販売車種｜会社案内｜ダイハツ工業株式会社 企業情報サイト",
+      "source_url": "https://www.daihatsu.com/jp/company/car_model/car_jp.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:daihatsu:gran-max",
+      "summary": {
+        "en": "A blend of Grand and Maximum, expressing a high-capacity vehicle offering maximum benefit.",
+        "zh-CN": "由 Grand 与 Maximum 组合，表达以大容量为用户带来最大效益。",
+        "zh-TW": "由 Grand 與 Maximum 組合，表達以大容量為用戶帶來最大效益。",
+        "ja": "GrandとMaximumを組み合わせ、大容量で最大の利便をもたらす意味。"
+      },
+      "source_language": "ja",
+      "source_title": "国内販売車種｜会社案内｜ダイハツ工業株式会社 企業情報サイト",
+      "source_url": "https://www.daihatsu.com/jp/company/car_model/car_jp.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:isuzu:d-max",
+      "summary": {
+        "en": "D draws on Diesel, Direct Injection, Design, Durability, and Dragon; MAX expresses maximizing the vehicle’s attributes and lineup.",
+        "zh-CN": "D 取自 Diesel（柴油）、Direct Injection（直喷）、Design（设计）、Durability（耐久）与 Dragon（龙）；MAX 表达多项性能与车型阵容的最大化。",
+        "zh-TW": "D 取自 Diesel（柴油）、Direct Injection（直喷）、Design（设计）、Durability（耐久）與 Dragon（龍）；MAX 表達多项性能與車型阵容的最大化。",
+        "ja": "DはDiesel・Direct Injection・Design・Durability・Dragon。MAXは性能やラインアップの最大化を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "いすゞ、タイでピックアップ・トラックをフルモデルチェンジ ―GMと共同開発の次世代世界戦略車―",
+      "source_url": "https://www.isuzu.co.jp/newsroom/assets/pdf/20020516_01.pdf",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:s-cross",
+      "summary": {
+        "en": "S-CROSS means Smart Crossover, used as a sub-name to present a new crossover.",
+        "zh-CN": "S-CROSS 表示 Smart Crossover（智慧跨界），作为副名称突出新型跨界车定位。",
+        "zh-TW": "S-CROSS 表示 Smart Crossover（智慧跨界），作為副名稱突出新型跨界車定位。",
+        "ja": "新しいクロスオーバー車を表すサブネームで、S-CROSSはSmart Crossoverを意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    }
+  ]
+}

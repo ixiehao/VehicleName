@@ -1,0 +1,394 @@
+{
+  "models": [
+    {
+      "id": "model:suzuki:alto",
+      "summary": {
+        "en": "Alto is Italian for “high” or “excellent.”",
+        "zh-CN": "意大利语，意为“高、优秀”。",
+        "zh-TW": "義大利語，意為「高、優秀」。",
+        "ja": "イタリア語で「高い」「優れた」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:alto-lapin",
+      "summary": {
+        "en": "Lapin is French for “rabbit,” chosen to suit the car’s cute design.",
+        "zh-CN": "Lapin 是法语“兔子”，铃木称名字与可爱设计相衬。",
+        "zh-TW": "Lapin 是法語「兔子」，鈴木稱名稱與可愛設計相襯。",
+        "ja": "Lapinはフランス語で「ウサギ」。かわいいデザインや響きに合わせた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:every",
+      "summary": {
+        "en": "“Every” means “everywhere,” evoking a nimble van that can go anywhere.",
+        "zh-CN": "意为“无论去哪里”，寓意灵活、能装、走得远。",
+        "zh-TW": "意為「無論去哪裡」，寓意靈活、能裝、走得遠。",
+        "ja": "「どこへでも」の意。積載性と軽快な走りを備えた車をイメージ。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:cappuccino",
+      "summary": {
+        "en": "Cappuccino refers to cinnamon-spiced espresso; Suzuki linked the small cup and its distinctive feel to this little open car.",
+        "zh-CN": "Cappuccino 指加肉桂的浓缩咖啡；铃木将小杯饮品与这款小型敞篷车的形象相连。",
+        "zh-TW": "Cappuccino 指加肉桂的濃縮咖啡；鈴木將小杯飲品與這款小型敞篷車的形象相連。",
+        "ja": "カプチーノはシナモン入りエスプレッソ。小さなカップの洒落た飲み物と、小さなオープンカーを重ねた名前です。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:carry",
+      "summary": {
+        "en": "“Carry” means to transport or carry things.",
+        "zh-CN": "英语意为“搬运、载运”。",
+        "zh-TW": "英語意為「搬運、載運」。",
+        "ja": "英語で「運ぶ」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:kei",
+      "summary": {
+        "en": "“Kei” refers to Japan’s kei-car class and the hope of setting a new standard for it.",
+        "zh-CN": "取自日本轻型车“Kei”，寄望成为新一代轻型车标准之一。",
+        "zh-TW": "取自日本輕型車「Kei」，寄望成為新一代輕型車標準之一。",
+        "ja": "軽自動車の「Kei」から。これからの軽自動車の標準の一つとなる願いを込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:jimny",
+      "summary": {
+        "en": "A coined name chosen for ease of pronunciation and memorability.",
+        "zh-CN": "铃木称这是创制名称，取其易发音、易记忆。",
+        "zh-TW": "鈴木稱這是創製名稱，取其易發音、易記憶。",
+        "ja": "発音しやすく、覚えやすいことなどから作られた造語。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:suzulight",
+      "summary": {
+        "en": "A blend of “Suzu” (Suzuki) and “light,” with a wish for the car to shine in its field.",
+        "zh-CN": "由“铃木”的“铃”与 light（光）组合，寄托成为闪亮车型的愿望。",
+        "zh-TW": "由「鈴木」的「鈴」與 light（光）組合，寄託成為閃亮車型的願望。",
+        "ja": "スズキの「スズ」と「ライト（光明）」を合わせ、業界で輝く車への願いを込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:spacia",
+      "summary": {
+        "en": "A coined name from “space,” highlighting a roomy, practical family interior.",
+        "zh-CN": "由 space（空间）造词，强调宽敞、实用的家庭空间。",
+        "zh-TW": "由 space（空間）造詞，強調寬敞、實用的家庭空間。",
+        "ja": "英語の「SPACE（空間）」からの造語。広い室内と使いやすい家族の空間を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:cervo",
+      "summary": {
+        "en": "Italian for “stag,” evoking elegance, agility, and the animal’s graceful movement.",
+        "zh-CN": "意大利语“雄鹿”，呼应优雅流线与轻快活力。",
+        "zh-TW": "義大利語「雄鹿」，呼應優雅流線與輕快活力。",
+        "ja": "イタリア語で「牡鹿」。優雅なスタイルと軽快な躍動感を重ねた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:twin",
+      "summary": {
+        "en": "“Twin” refers to two powertrains and two seats.",
+        "zh-CN": "Twin（双）对应两种动力，以及两张座椅。",
+        "zh-TW": "Twin（雙）對應兩種動力，以及兩張座椅。",
+        "ja": "ハイブリッドとガソリンの2種類の動力、そして2つのシートを表す。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:hustler",
+      "summary": {
+        "en": "Evokes an energetic, quick-to-act person, matching the car’s character.",
+        "zh-CN": "取“积极行动、反应敏捷的人”之意，铃木称与车型形象相合。",
+        "zh-TW": "取「積極行動、反應敏捷的人」之意，鈴木稱與車型形象相合。",
+        "ja": "何事にも行動的に取り組み、俊敏に動く人のイメージを重ねた。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:palette",
+      "summary": {
+        "en": "Like a painter’s palette, it suggests many colors and ways of life.",
+        "zh-CN": "以调色板比喻丰富多彩的生活方式。",
+        "zh-TW": "以調色盤比喻豐富多彩的生活方式。",
+        "ja": "絵の具のパレットのように、多彩な暮らしを楽しめる車を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:fronte",
+      "summary": {
+        "en": "Derived from “frontier,” expressing a pioneering spirit.",
+        "zh-CN": "源自 frontier（前沿、开拓），寓意开拓精神。",
+        "zh-TW": "源自 frontier（前沿、開拓），寓意開拓精神。",
+        "ja": "業界の先駆者を意味する「フロンティア」の精神から。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:wagon-r",
+      "summary": {
+        "en": "“R” stands for “Revolution” and “Relaxation”: a new category that brings more ease to life.",
+        "zh-CN": "R 代表 Revolution（革新）与 Relaxation（放松），寄托开创新类别、让生活更从容之意。",
+        "zh-TW": "R 代表 Revolution（革新）與 Relaxation（放鬆），寄託開創新類別、讓生活更從容之意。",
+        "ja": "Rは「Revolution」と「Relaxation」の頭文字。新カテゴリーと暮らしのゆとりを表す。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:mr-wagon",
+      "summary": {
+        "en": "The concept-car name was retained; Suzuki also associated it with “Magical Relax.”",
+        "zh-CN": "沿用概念车名称，也寄托“魔幻般放松”的意味。",
+        "zh-TW": "沿用概念車名稱，也寄託「魔幻般放鬆」的意味。",
+        "ja": "コンセプトカーの名前を継承し、「マジカル・リラックス」の意味も込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:xbee",
+      "summary": {
+        "en": "A coined name from “X (Crossover) to Be Exciting.”",
+        "zh-CN": "由“X (Crossover) to Be Exciting”组合造词。",
+        "zh-TW": "由「X (Crossover) to Be Exciting」組合造詞。",
+        "ja": "「X (CROSS OVER) to Be Exciting」から作られた造語。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:fronx",
+      "summary": {
+        "en": "A blend of “frontier” and “crossover.”",
+        "zh-CN": "由 frontier（前沿）与 crossover（跨界）组合而成。",
+        "zh-TW": "由 frontier（前沿）與 crossover（跨界）組合而成。",
+        "ja": "「フロンティア」と「クロスオーバー」を掛け合わせた造語。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:ignis",
+      "summary": {
+        "en": "A coined name from “ignition,” with the wish to spark people’s enthusiasm for travel.",
+        "zh-CN": "源自 ignition（点火），寄望点燃人们随心出行的热情。",
+        "zh-TW": "源自 ignition（點火），寄望點燃人們隨心出行的熱情。",
+        "ja": "「点火」を意味するIGNITIONから。人々の心に火を灯す願いを込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:vitara",
+      "summary": {
+        "en": "Escudo refers to an old Iberian currency; Suzuki evokes the romance and adventure of old Spanish gold coins.",
+        "zh-CN": "对应日文名 Escudo，源自旧伊比利亚货币单位；铃木联想到古西班牙金币与冒险气息。",
+        "zh-TW": "對應日文名 Escudo，源自舊伊比利亞貨幣單位；鈴木聯想到古西班牙金幣與冒險氣息。",
+        "ja": "昔のスペインなどの通貨単位。古スペイン金貨と冒険心のイメージを重ねた。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:aerio",
+      "summary": {
+        "en": "A blend of “Air” and Spanish “Rio” (river), suggesting a roomy cabin and smooth travel.",
+        "zh-CN": "由 Air（空气）与西班牙语 Rio（河流）组合，寓意空间宽敞、行驶流畅。",
+        "zh-TW": "由 Air（空氣）與西班牙語 Rio（河流）組合，寓意空間寬敞、行駛流暢。",
+        "ja": "Air（空気）とスペイン語Rio（川）の造語。広い室内と流れるような走りを表す。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:cultus",
+      "summary": {
+        "en": "Rooted in Latin for “worship”; Suzuki links it to culture and the idea that thoughtful cars are culture.",
+        "zh-CN": "词源为拉丁语“崇敬”；铃木将其联系到文化，并表达“有思想的汽车也是文化”。",
+        "zh-TW": "詞源為拉丁語「崇敬」；鈴木將其聯繫到文化，並表達「有思想的汽車也是文化」。",
+        "ja": "ラテン語の「崇拝」が語源。文化につながり、「思想のある車は文化」という願いを込めた。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:kizashi",
+      "summary": {
+        "en": "From the Japanese word “kizashi” (兆し), meaning a sign or portent of change.",
+        "zh-CN": "来自日语“兆し”，意为征兆，寄托迎来变化与进化之意。",
+        "zh-TW": "來自日語「兆し」，意為徵兆，寄託迎來變化與進化之意。",
+        "ja": "日本語の「兆し」から。新たな進化や変化の気配を感じてほしいという願い。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:swift",
+      "summary": {
+        "en": "English for “light and quick.”",
+        "zh-CN": "英语意为“轻快、快速”。",
+        "zh-TW": "英語意為「輕快、快速」。",
+        "ja": "英語で「軽快・快速」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:splash",
+      "summary": {
+        "en": "“Splash” means water scattering; the name wishes for fresh, lively days with the car.",
+        "zh-CN": "意为水花飞溅，寄望与车相伴的日子清新有活力。",
+        "zh-TW": "意為水花飛濺，寄望與車相伴的日子清新有活力。",
+        "ja": "水がはねる意。毎日をみずみずしく新鮮に過ごしてほしいという願い。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:solio",
+      "summary": {
+        "en": "Spanish for “throne” or “king.”",
+        "zh-CN": "西班牙语，意为“王座、国王”。",
+        "zh-TW": "西班牙語，意為「王座、國王」。",
+        "ja": "スペイン語で「玉座、王様」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:baleno",
+      "summary": {
+        "en": "Italian for “flash of light,” with a wish to be a bright presence in everyday life.",
+        "zh-CN": "意大利语意为“闪光”，寄望成为日常生活中闪亮的存在。",
+        "zh-TW": "義大利語意為「閃光」，寄望成為日常生活中閃亮的存在。",
+        "ja": "イタリア語で「閃光」。毎日の暮らしの中で輝く存在への願い。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:sx4",
+      "summary": {
+        "en": "“S” suggests sport, “X” crossover, and “4” four-wheel drive and four-season capability.",
+        "zh-CN": "S 指运动，X 指跨界融合，4 对应四驱技术与四季适用。",
+        "zh-TW": "S 指運動，X 指跨界融合，4 對應四驅技術與四季適用。",
+        "ja": "Sport X-over 4wheel（4season）の略。スポーツ性、融合、四駆と四季を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:fengyu",
+      "summary": {
+        "en": "S-CROSS means “Smart Crossover,” distinguishing it as a new crossover model.",
+        "zh-CN": "S-CROSS 是 Smart Crossover（智慧跨界）的缩写，表示新型跨界车。",
+        "zh-TW": "S-CROSS 是 Smart Crossover（智慧跨界）的縮寫，表示新型跨界車。",
+        "ja": "S-CROSSは「Smart Crossover」の略。新しいクロスオーバー車を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:x-90",
+      "summary": {
+        "en": "The production model retained the name used for its 1993 Tokyo and European motor-show concept.",
+        "zh-CN": "沿用了 1993 年东京及欧洲车展概念车的名称。",
+        "zh-TW": "沿用了 1993 年東京及歐洲車展概念車的名稱。",
+        "ja": "1993年の東京・欧州モーターショーに出品したコンセプトカーの車名を継承。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ四輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
+      "canonical_name_column": "en"
+    }
+  ]
+}

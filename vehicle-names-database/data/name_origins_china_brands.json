@@ -1,0 +1,43 @@
+{
+  "models": [
+    {
+      "id": "model:great-wall:big-dog",
+      "summary": {
+        "en": "GWM says HAVAL Dagou’s name was chosen by users through an online vote; its logo, trim names, and colors were co-created as well.",
+        "zh-CN": "长城官方称，哈弗大狗的名称由用户线上投票选出；车型标识、配置名称与车色也由用户共创。",
+        "zh-TW": "長城官方稱，哈弗大狗的名稱由用戶線上投票選出；車型標識、配置名稱與車色也由用戶共創。",
+        "ja": "長城汽車によると、哈弗大狗（HAVAL Dagou）の名称はオンライン投票でユーザーが選び、ロゴやグレード名、車体色もユーザーとの共創で決まりました。"
+      },
+      "source_language": "en",
+      "source_title": "Auto China 2020: GWM Rebranded as Global Mobility Technology Company to Empower Intelligent Safety Experience",
+      "source_url": "https://www.gwm-global.com/news/1155916.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mg:mg4",
+      "summary": {
+        "en": "SAIC says the unified global name MG4 EV carries the meaning “MG FOR ELECTRIC”; the model was marketed in China as MG MULAN.",
+        "zh-CN": "上汽官方说明，车型的全球统一名称 MG4 EV 寓意“MG FOR ELECTRIC”；该车型在中国市场曾以 MG MULAN 名义销售。",
+        "zh-TW": "上汽官方說明，車型的全球統一名稱 MG4 EV 寓意「MG FOR ELECTRIC」；該車型在中國市場曾以 MG MULAN 名義銷售。",
+        "ja": "上汽は、世界統一名「MG4 EV」に「MG FOR ELECTRIC」という意味を込めたと説明しています。このモデルは中国では「MG MULAN」の名で販売されました。"
+      },
+      "source_language": "zh-CN",
+      "source_title": "MG品牌全明星阵容闪耀成都车展 开启百年庆典",
+      "source_url": "https://www.saicmotor.com/m/xwzx/xwk/2023/58936.shtml",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:nio:firefly",
+      "summary": {
+        "en": "NIO says firefly draws on the insect’s small size, agility, light, and energy; the first car shares the brand’s name.",
+        "zh-CN": "蔚来官方称，firefly（萤火虫）取意于萤火虫的小巧、灵动、发光与活力；首款车型沿用品牌名称。",
+        "zh-TW": "蔚來官方稱，firefly（螢火蟲）取意於螢火蟲的小巧、靈動、發光與活力；首款車型沿用品牌名稱。",
+        "ja": "NIOによると、fireflyはホタルの小ささ、俊敏さ、光、活力に着想を得た名称で、最初の車種はブランド名をそのまま採用しています。"
+      },
+      "source_language": "en",
+      "source_title": "NIO's new firefly brand makes its global debut at NIO Day 2024 and opens pre-orders in China",
+      "source_url": "https://www.firefly.world/news/20241221002",
+      "canonical_name_column": "en"
+    }
+  ]
+}

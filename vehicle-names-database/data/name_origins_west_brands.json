@@ -1,0 +1,212 @@
+{
+  "models": [
+    {
+      "id": "model:chevrolet:corvette",
+      "summary": {
+        "en": "Chevrolet says the Corvette was named after a class of small, fast, maneuverable warships.",
+        "zh-CN": "雪佛兰称 Corvette 得名于一种小型、快速且机动灵活的军舰。",
+        "zh-TW": "雪佛蘭稱 Corvette 得名於一種小型、快速且機動靈活的軍艦。",
+        "ja": "Chevroletによると、Corvetteは小型で高速・高機動な軍艦の艦種にちなんだ名前です。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "The Mid-Engine Corvette Collector's Edition",
+      "source_url": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/about/new-roads-issue-12/teasers/02-pdfs/CHEVY_OWNER_NR15_CORVETTE_interactive_rev102020.pdf"
+    },
+    {
+      "id": "model:alfa-romeo:tonale",
+      "summary": {
+        "en": "Tonale takes its name from the Alpine Passo del Tonale; Alfa Romeo links it to the nearby Stelvio Pass and their shared sense of drama and harmony.",
+        "zh-CN": "Tonale 得名于阿尔卑斯山的托纳莱山口；阿尔法·罗密欧将它与附近的斯泰尔维奥山口联系起来，强调两地共有的激情与和谐。",
+        "zh-TW": "Tonale 得名於阿爾卑斯山的托納萊山口；愛快·羅密歐將它與附近的斯泰爾維奧山口連結，強調兩地共有的激情與和諧。",
+        "ja": "Tonaleはアルプスのトナーレ峠にちなむ名前。近くのステルヴィオ峠との地理的なつながりや、両地の躍動感と調和を重ねています。"
+      },
+      "source_language": "it",
+      "canonical_name_column": "en",
+      "source_title": "Nuova concept car Alfa Romeo Tonale: quando l'elettrificazione incontra la bellezza e il dinamismo",
+      "source_url": "https://www.media.stellantis.com/it-it/alfa-romeo/press/nuova-concept-car-alfa-romeo-tonale-quando-l-elettrificazione-incontra-la-bellezza-e-il-dinamismo-1"
+    },
+    {
+      "id": "model:ferrari:portofino",
+      "summary": {
+        "en": "Ferrari named it after Portofino, the Italian coastal town associated with elegance, sportiness and understated luxury.",
+        "zh-CN": "法拉利以意大利海滨小镇 Portofino 命名；官方称它令人联想到优雅、运动感与含蓄的奢华。",
+        "zh-TW": "法拉利以義大利海濱小鎮 Portofino 命名；官方稱它令人聯想到優雅、運動感與含蓄的奢華。",
+        "ja": "イタリアの海辺の町ポルトフィーノにちなむ名前。Ferrariは同地を優雅さ、スポーティさ、控えめなラグジュアリーの象徴と説明しています。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "The Ferrari Portofino revealed",
+      "source_url": "https://www.ferrari.com/content/dam/ferrari-fcom/old/pdf/cs_ferrari_portofino_reveal_gbr.pdf"
+    },
+    {
+      "id": "model:ferrari:roma",
+      "summary": {
+        "en": "Ferrari chairman John Elkann said the name Roma encapsulates the best of Italy: elegance, innovation and technological excellence.",
+        "zh-CN": "法拉利董事长约翰·埃尔坎表示，Roma 之名凝聚了意大利的优雅、创新与技术卓越。",
+        "zh-TW": "法拉利董事長約翰·埃爾坎表示，Roma 之名凝聚了義大利的優雅、創新與技術卓越。",
+        "ja": "Ferrari会長のジョン・エルカンは、Romaという名にイタリアの優雅さ、革新性、技術力が凝縮されていると述べています。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "President of Italy meets new Ferrari Roma",
+      "source_url": "https://www.ferrari.com/en-CH/corporate/articles/president-of-italy-meets-new-ferrari-roma-corp"
+    },
+    {
+      "id": "model:land-rover:range-rover-velar",
+      "summary": {
+        "en": "Velar was the code name for the first 26 pre-production Range Rovers. JLR says it comes from Latin velare, “to veil or cover,” to conceal their identity.",
+        "zh-CN": "Velar 曾是首批 26 辆揽胜预生产原型车的代号；捷豹路虎称其源自拉丁语 velare（遮掩、覆盖），用于隐藏原型车身份。",
+        "zh-TW": "Velar 曾是首批 26 輛Range Rover預生產原型車的代號；捷豹路虎稱其源自拉丁語 velare（遮掩、覆蓋），用來隱藏原型車身分。",
+        "ja": "Velarは初期のRange Rover試作車26台に付けられたコードネーム。身元を隠すため、ラテン語のvelare（覆う、隠す）から名付けられました。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Introducing Range Rover Velar",
+      "source_url": "https://media.jlr.com/corporate/news/2017/02/introducing-range-rover-velar"
+    },
+    {
+      "id": "model:land-rover:defender",
+      "summary": {
+        "en": "Land Rover says military versions inspired the Defender name; introduced in 1990, it reflected the vehicle's trusted, rugged character and distinguished it from Discovery.",
+        "zh-CN": "路虎称，军用版本启发了 Defender 这一名称；该名于 1990 年启用，既体现车辆可靠、坚韧的特质，也用于与 Discovery 区分。",
+        "zh-TW": "Land Rover稱，軍用版本啟發了Defender這個名稱；該名稱於1990年啟用，既體現車輛可靠、堅韌的特質，也用來與Discovery區分。",
+        "ja": "Land Roverによると、軍用モデルがDefenderという名称の着想につながりました。1990年に採用され、信頼性と頑丈さを表すとともにDiscoveryと区別する役割もありました。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "The Defender Story",
+      "source_url": "https://www.landrover.co.uk/defender-world/heritage/the-defender-story.html"
+    },
+    {
+      "id": "model:mclaren:senna",
+      "summary": {
+        "en": "McLaren created the Senna in honour of Ayrton Senna; the company says the name reflects his fearless focus and determination.",
+        "zh-CN": "迈凯伦以车手艾尔顿·塞纳命名此车以示纪念；官方称其名称呼应塞纳无畏专注、不断突破极限的精神。",
+        "zh-TW": "麥拉倫以車手艾爾頓·冼拿命名此車以示紀念；官方稱其名稱呼應冼拿無畏專注、不斷突破極限的精神。",
+        "ja": "McLarenはアイルトン・セナへの敬意を込めて命名。恐れを知らず、限界を押し広げる彼の集中力と決意を表しています。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "Senna30",
+      "source_url": "https://www.mclaren.com/cars/uk_en/post/senna30"
+    },
+    {
+      "id": "model:mclaren:600lt",
+      "summary": {
+        "en": "LT means Longtail, continuing the lineage begun by McLaren's F1 GTR Longtail; the badge marks a more extreme, lightweight, track-focused branch.",
+        "zh-CN": "LT 是 Longtail（长尾）的缩写，延续自迈凯伦 F1 GTR Longtail；该标识用于更极致、轻量且偏赛道的车型。",
+        "zh-TW": "LT 是 Longtail（長尾）的縮寫，延續自麥拉倫 F1 GTR Longtail；此標識用於更極致、輕量且偏向賽道的車款。",
+        "ja": "LTはLongtailの略で、McLaren F1 GTR Longtailから続く系譜を示します。軽量化とサーキット志向を強めたモデルに付く名称です。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "LT: 10 Year Celebration",
+      "source_url": "https://www.mclaren.com/cars/au_en/lt-10-year-celebration"
+    },
+    {
+      "id": "model:mclaren:765lt",
+      "summary": {
+        "en": "LT means Longtail, continuing the lineage begun by McLaren's F1 GTR Longtail; the badge marks a more extreme, lightweight, track-focused branch.",
+        "zh-CN": "LT 是 Longtail（长尾）的缩写，延续自迈凯伦 F1 GTR Longtail；该标识用于更极致、轻量且偏赛道的车型。",
+        "zh-TW": "LT 是 Longtail（長尾）的縮寫，延續自麥拉倫 F1 GTR Longtail；此標識用於更極致、輕量且偏向賽道的車款。",
+        "ja": "LTはLongtailの略で、McLaren F1 GTR Longtailから続く系譜を示します。軽量化とサーキット志向を強めたモデルに付く名称です。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "LT: 10 Year Celebration",
+      "source_url": "https://www.mclaren.com/cars/au_en/lt-10-year-celebration"
+    },
+    {
+      "id": "model:opel:astra",
+      "summary": {
+        "en": "Opel adopted the Astra name from its British sister model, the Vauxhall Astra, when the compact-car line replaced the Kadett in 1991.",
+        "zh-CN": "1991 年紧凑型车由 Kadett 更名换代时，欧宝采用了英国姊妹品牌 Vauxhall Astra 的车型名称。",
+        "zh-TW": "1991年緊湊型車由Kadett更名換代時，Opel採用了英國姊妹品牌Vauxhall Astra的車名。",
+        "ja": "1991年、コンパクトカーのKadettを引き継ぐ際、Opelは英国の姉妹ブランドVauxhallで使われていたAstraの車名を採用しました。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "30 Years Opel Astra: Compact Bestseller and Ambassador of Change",
+      "source_url": "https://www.media.stellantis.com/em-en/opel/press/30-years-opel-astra-compact-bestseller-and-ambassador-of-change"
+    },
+    {
+      "id": "model:opel:calibra",
+      "summary": {
+        "en": "Opel says Calibra derives from English calibre—rank, quality or ability—chosen to emphasize the coupe's distinctive character and quality.",
+        "zh-CN": "欧宝称 Calibra 源自英语 calibre，意为品级、质量或能力；取此名是为了强调这款轿跑的独特个性与品质。",
+        "zh-TW": "Opel稱Calibra源自英語calibre，意為品級、品質或能力；取此名是為了強調這款轎跑的獨特個性與品質。",
+        "ja": "Opelによると、Calibraは英語calibre（品格・品質・能力）に由来し、クーペの個性と品質を強調するために選ばれました。"
+      },
+      "source_language": "it",
+      "canonical_name_column": "en",
+      "source_title": "25 anni di Opel Calibra",
+      "source_url": "https://www.media.stellantis.com/it-it/opel/press/25-anni-di-opel-calibra"
+    },
+    {
+      "id": "model:rolls-royce:cullinan",
+      "summary": {
+        "en": "Rolls-Royce says Cullinan is named after the largest gem-quality rough diamond ever discovered.",
+        "zh-CN": "劳斯莱斯称 Cullinan 得名于迄今发现的最大宝石级钻石原石。",
+        "zh-TW": "勞斯萊斯稱Cullinan得名於迄今發現的最大寶石級鑽石原石。",
+        "ja": "Rolls-Royceによると、Cullinanは発見された中で最大の宝石品質の原石ダイヤモンドにちなんだ名前です。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "A Spirit of Bold Innovation: The Extraordinary History of the Spectre Name",
+      "source_url": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0404548EN?language=en"
+    },
+    {
+      "id": "model:rolls-royce:ghost",
+      "summary": {
+        "en": "“Silver Ghost” began as a press nickname inspired by the car's silver paint and brightwork, then became Rolls-Royce's official model name.",
+        "zh-CN": "“Silver Ghost” 最初是媒体因车辆的银色车漆与镀银饰件而起的称呼，后来成为劳斯莱斯的正式车型名。",
+        "zh-TW": "「Silver Ghost」最初是媒體因車輛的銀色車漆與鍍銀飾件而起的稱呼，後來成為勞斯萊斯的正式車名。",
+        "ja": "「Silver Ghost」は銀色の塗装と銀メッキの装飾に注目した報道関係者らの呼び名が、のちにRolls-Royceの正式な車名になりました。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "A Spirit of Bold Innovation: The Extraordinary History of the Spectre Name",
+      "source_url": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0404548EN?language=en"
+    },
+    {
+      "id": "model:rolls-royce:phantom",
+      "summary": {
+        "en": "Rolls-Royce groups Phantom with Ghost, Wraith and Spectre as an ethereal name evoking silence, refinement and mystery.",
+        "zh-CN": "劳斯莱斯将 Phantom 与 Ghost、Wraith、Spectre 并列为带有空灵意象的车名，用以联想到静谧、精致与神秘。",
+        "zh-TW": "勞斯萊斯將Phantom與Ghost、Wraith、Spectre並列為帶有空靈意象的車名，用以聯想到靜謐、精緻與神祕。",
+        "ja": "Rolls-RoyceはPhantomをGhost、Wraith、Spectreと並ぶ幻想的な名前と位置づけ、静けさ、洗練、神秘を想起させると説明しています。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "A Spirit of Bold Innovation: The Extraordinary History of the Spectre Name",
+      "source_url": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0404548EN?language=en"
+    },
+    {
+      "id": "model:rolls-royce:spectre",
+      "summary": {
+        "en": "Rolls-Royce says Spectre evokes silence, refinement and mystery, continuing its tradition of ethereal names for near-silent cars.",
+        "zh-CN": "劳斯莱斯称 Spectre 寓意静谧、精致与神秘，延续品牌以空灵意象命名、呼应近乎无声行驶的传统。",
+        "zh-TW": "勞斯萊斯稱Spectre寓意靜謐、精緻與神祕，延續品牌以空靈意象命名、呼應近乎無聲行駛的傳統。",
+        "ja": "Rolls-Royceによると、Spectreは静けさ、洗練、神秘を表し、ほぼ無音の走行にちなんだ同社の幻想的な命名伝統を受け継いでいます。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "A Spirit of Bold Innovation: The Extraordinary History of the Spectre Name",
+      "source_url": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0404548EN?language=en"
+    },
+    {
+      "id": "model:rolls-royce:wraith",
+      "summary": {
+        "en": "Rolls-Royce groups Wraith with Ghost, Phantom and Spectre as an ethereal name evoking silence, refinement and mystery.",
+        "zh-CN": "劳斯莱斯将 Wraith 与 Ghost、Phantom、Spectre 并列为带有空灵意象的车名，用以联想到静谧、精致与神秘。",
+        "zh-TW": "勞斯萊斯將Wraith與Ghost、Phantom、Spectre並列為帶有空靈意象的車名，用以聯想到靜謐、精緻與神祕。",
+        "ja": "Rolls-RoyceはWraithをGhost、Phantom、Spectreと並ぶ幻想的な名前と位置づけ、静けさ、洗練、神秘を想起させると説明しています。"
+      },
+      "source_language": "en",
+      "canonical_name_column": "en",
+      "source_title": "A Spirit of Bold Innovation: The Extraordinary History of the Spectre Name",
+      "source_url": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0404548EN?language=en"
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "models": [
+    {
+      "id": "model:audi:tt",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Audi says TT recalls the Isle of Man Tourist Trophy and the sporty NSU TT of the 1960s.",
+        "zh-CN": "奥迪称 TT 令人联想到曼岛 Tourist Trophy 摩托车赛，也呼应 20 世纪 60 年代的 NSU TT。",
+        "zh-TW": "Audi 表示 TT 令人聯想到曼島 Tourist Trophy 摩托車賽，也呼應 1960 年代的 NSU TT。",
+        "ja": "Audiによると、TTはマン島のTourist Trophyと、1960年代のスポーティなNSU TTを想起させます。"
+      },
+      "source_language": "en",
+      "source_title": "A timeless design icon: The Audi TT turns 25",
+      "source_url": "https://www.audi.com/en/press-releases/a-timeless-design-icon-the-audi-tt-turns-25-15317"
+    },
+    {
+      "id": "model:audi:quattro",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Audi says quattro is Italian for “four” and refers to power being delivered to all four wheels.",
+        "zh-CN": "奥迪称 quattro 在意大利语中意为“四”，并指动力传至四个车轮。",
+        "zh-TW": "Audi 表示 quattro 在義大利語中意為「四」，並指動力傳至四個車輪。",
+        "ja": "Audiによると、quattroはイタリア語で「4」を意味し、4輪すべてに動力を伝えることを表します。"
+      },
+      "source_language": "en",
+      "source_title": "40 facts about 40 years of Audi Sport GmbH",
+      "source_url": "https://uploads.audi-mediacenter.com/system/production/uploaded_files/25227/file/eb2bdb5e3b084678ef0e35b0887ebf9f695cb346/231010_40_Fakten_40_Jahre_Audi_Sport_GmbH_EN.pdf?1696861806=&disposition=attachment"
+    },
+    {
+      "id": "model:alfa-romeo:mito",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Alfa Romeo says MiTo links Milano, where the car was designed, with Torino, where it was built.",
+        "zh-CN": "阿尔法·罗密欧称 MiTo 连接 Milano（设计地）与 Torino（生产地）。",
+        "zh-TW": "Alfa Romeo 表示 MiTo 連結 Milano（設計地）與 Torino（生產地）。",
+        "ja": "Alfa Romeoによると、MiToは車両のデザイン地Milanoと生産地Torinoを結び付けた名称です。"
+      },
+      "source_language": "en",
+      "source_title": "Alfa Romeo MiTo",
+      "source_url": "https://www.media.stellantis.com/uk-en/alfa-romeo/press/alfa-romeo-mito-4"
+    },
+    {
+      "id": "model:alfa-romeo:stelvio",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Alfa Romeo named Stelvio after Italy’s famous Stelvio Pass, a high-altitude road with more than 75 bends.",
+        "zh-CN": "阿尔法·罗密欧称 Stelvio 取名自意大利著名的斯泰尔维奥山口及其盘山公路。",
+        "zh-TW": "Alfa Romeo 表示 Stelvio 取名自義大利著名的史泰爾維奧山口及其山路。",
+        "ja": "Alfa Romeoは、イタリアの名高いステルヴィオ峠と、75以上のカーブが続く道にちなみStelvioと名付けました。"
+      },
+      "source_language": "en",
+      "source_title": "WORLD PREVIEW: ALFA ROMEO STELVIO",
+      "source_url": "https://www.media.stellantis.com/uk-en/alfa-romeo/press/world-preview-alfa-romeo-stelvio"
+    },
+    {
+      "id": "model:citroen:ami",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "For the 2020 electric Ami, Citroën says the name is the French equivalent of “friend”; this does not refer to the historic Ami 6.",
+        "zh-CN": "雪铁龙称，2020 年电动 Ami 的名称是法语“朋友”；此解释不适用于历史车型 Ami 6。",
+        "zh-TW": "Citroën 表示，2020 年電動 Ami 的名稱是法語「朋友」；此解釋不適用於歷史車款 Ami 6。",
+        "ja": "Citroënによると、2020年の電動Amiの名はフランス語で「友人」に当たります。歴代Ami 6の説明ではありません。"
+      },
+      "source_language": "es",
+      "source_title": "CITROËN AMI: UN NOMBRE, DOS VEHÍCULOS REVOLUCIONARIOS",
+      "source_url": "https://www.media.stellantis.com/es-es/citroen/press/citroen-ami-un-nombre-dos-vehiculos-revolucionarios"
+    },
+    {
+      "id": "model:citroen:ds",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Citroën’s official heritage materials call the original DS “La Déesse” (“the goddess”); they do not present DS as an acronym.",
+        "zh-CN": "雪铁龙官方历史资料将经典 DS 称为“La Déesse”（“女神”）；资料没有说 DS 是缩写。",
+        "zh-TW": "Citroën 官方歷史資料將經典 DS 稱為「La Déesse」（「女神」）；資料沒有說 DS 是縮寫。",
+        "ja": "Citroënの公式資料は初代DSを「La Déesse（女神）」と呼んでいます。DSが略語だとは説明していません。"
+      },
+      "source_language": "de",
+      "source_title": "Citroën DS: Die legendäre „Göttin“",
+      "source_url": "https://www.media.stellantis.com/de-de/ds/press/citroen-ds-die-legendare-gottin"
+    },
+    {
+      "id": "model:ds:ds-3",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "DS Automobiles links its DS name to the original Citroën DS, traditionally called “La Déesse” (“the goddess”); this explains the DS prefix, not the number or series suffix.",
+        "zh-CN": "DS Automobiles 将 DS 名称与经典雪铁龙 DS 的历史传承相连；后者常称“La Déesse”（“女神”）。这里只解释 DS 前缀，不解释数字或系列后缀。",
+        "zh-TW": "DS Automobiles 將 DS 名稱與經典 Citroën DS 的歷史傳承連結；後者常稱「La Déesse」（「女神」）。此處只解釋 DS 前綴，不解釋數字或系列後綴。",
+        "ja": "DS Automobilesは、DSの名称を「La Déesse（女神）」と呼ばれた初代Citroën DSの伝統に結び付けています。説明はDSの接頭部のみで、数字やシリーズ名は対象外です。"
+      },
+      "source_language": "de",
+      "source_title": "Key-Facts DS Automobiles",
+      "source_url": "https://www.media.stellantis.com/de-de/ds/press/key-facts-ds-automobiles"
+    },
+    {
+      "id": "model:ds:ds-4",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "DS Automobiles links its DS name to the original Citroën DS, traditionally called “La Déesse” (“the goddess”); this explains the DS prefix, not the number or series suffix.",
+        "zh-CN": "DS Automobiles 将 DS 名称与经典雪铁龙 DS 的历史传承相连；后者常称“La Déesse”（“女神”）。这里只解释 DS 前缀，不解释数字或系列后缀。",
+        "zh-TW": "DS Automobiles 將 DS 名稱與經典 Citroën DS 的歷史傳承連結；後者常稱「La Déesse」（「女神」）。此處只解釋 DS 前綴，不解釋數字或系列後綴。",
+        "ja": "DS Automobilesは、DSの名称を「La Déesse（女神）」と呼ばれた初代Citroën DSの伝統に結び付けています。説明はDSの接頭部のみで、数字やシリーズ名は対象外です。"
+      },
+      "source_language": "de",
+      "source_title": "Key-Facts DS Automobiles",
+      "source_url": "https://www.media.stellantis.com/de-de/ds/press/key-facts-ds-automobiles"
+    },
+    {
+      "id": "model:ds:ds-4s",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "DS Automobiles links its DS name to the original Citroën DS, traditionally called “La Déesse” (“the goddess”); this explains the DS prefix, not the number or series suffix.",
+        "zh-CN": "DS Automobiles 将 DS 名称与经典雪铁龙 DS 的历史传承相连；后者常称“La Déesse”（“女神”）。这里只解释 DS 前缀，不解释数字或系列后缀。",
+        "zh-TW": "DS Automobiles 將 DS 名稱與經典 Citroën DS 的歷史傳承連結；後者常稱「La Déesse」（「女神」）。此處只解釋 DS 前綴，不解釋數字或系列後綴。",
+        "ja": "DS Automobilesは、DSの名称を「La Déesse（女神）」と呼ばれた初代Citroën DSの伝統に結び付けています。説明はDSの接頭部のみで、数字やシリーズ名は対象外です。"
+      },
+      "source_language": "de",
+      "source_title": "Key-Facts DS Automobiles",
+      "source_url": "https://www.media.stellantis.com/de-de/ds/press/key-facts-ds-automobiles"
+    },
+    {
+      "id": "model:ds:ds-5",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "DS Automobiles links its DS name to the original Citroën DS, traditionally called “La Déesse” (“the goddess”); this explains the DS prefix, not the number or series suffix.",
+        "zh-CN": "DS Automobiles 将 DS 名称与经典雪铁龙 DS 的历史传承相连；后者常称“La Déesse”（“女神”）。这里只解释 DS 前缀，不解释数字或系列后缀。",
+        "zh-TW": "DS Automobiles 將 DS 名稱與經典 Citroën DS 的歷史傳承連結；後者常稱「La Déesse」（「女神」）。此處只解釋 DS 前綴，不解釋數字或系列後綴。",
+        "ja": "DS Automobilesは、DSの名称を「La Déesse（女神）」と呼ばれた初代Citroën DSの伝統に結び付けています。説明はDSの接頭部のみで、数字やシリーズ名は対象外です。"
+      },
+      "source_language": "de",
+      "source_title": "Key-Facts DS Automobiles",
+      "source_url": "https://www.media.stellantis.com/de-de/ds/press/key-facts-ds-automobiles"
+    },
+    {
+      "id": "model:ds:ds-5ls",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "DS Automobiles links its DS name to the original Citroën DS, traditionally called “La Déesse” (“the goddess”); this explains the DS prefix, not the number or series suffix.",
+        "zh-CN": "DS Automobiles 将 DS 名称与经典雪铁龙 DS 的历史传承相连；后者常称“La Déesse”（“女神”）。这里只解释 DS 前缀，不解释数字或系列后缀。",
+        "zh-TW": "DS Automobiles 將 DS 名稱與經典 Citroën DS 的歷史傳承連結；後者常稱「La Déesse」（「女神」）。此處只解釋 DS 前綴，不解釋數字或系列後綴。",
+        "ja": "DS Automobilesは、DSの名称を「La Déesse（女神）」と呼ばれた初代Citroën DSの伝統に結び付けています。説明はDSの接頭部のみで、数字やシリーズ名は対象外です。"
+      },
+      "source_language": "de",
+      "source_title": "Key-Facts DS Automobiles",
+      "source_url": "https://www.media.stellantis.com/de-de/ds/press/key-facts-ds-automobiles"
+    },
+    {
+      "id": "model:ds:ds-6",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "DS Automobiles links its DS name to the original Citroën DS, traditionally called “La Déesse” (“the goddess”); this explains the DS prefix, not the number or series suffix.",
+        "zh-CN": "DS Automobiles 将 DS 名称与经典雪铁龙 DS 的历史传承相连；后者常称“La Déesse”（“女神”）。这里只解释 DS 前缀，不解释数字或系列后缀。",
+        "zh-TW": "DS Automobiles 將 DS 名稱與經典 Citroën DS 的歷史傳承連結；後者常稱「La Déesse」（「女神」）。此處只解釋 DS 前綴，不解釋數字或系列後綴。",
+        "ja": "DS Automobilesは、DSの名称を「La Déesse（女神）」と呼ばれた初代Citroën DSの伝統に結び付けています。説明はDSの接頭部のみで、数字やシリーズ名は対象外です。"
+      },
+      "source_language": "de",
+      "source_title": "Key-Facts DS Automobiles",
+      "source_url": "https://www.media.stellantis.com/de-de/ds/press/key-facts-ds-automobiles"
+    },
+    {
+      "id": "model:ds:ds-7",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "DS Automobiles links its DS name to the original Citroën DS, traditionally called “La Déesse” (“the goddess”); this explains the DS prefix, not the number or series suffix.",
+        "zh-CN": "DS Automobiles 将 DS 名称与经典雪铁龙 DS 的历史传承相连；后者常称“La Déesse”（“女神”）。这里只解释 DS 前缀，不解释数字或系列后缀。",
+        "zh-TW": "DS Automobiles 將 DS 名稱與經典 Citroën DS 的歷史傳承連結；後者常稱「La Déesse」（「女神」）。此處只解釋 DS 前綴，不解釋數字或系列後綴。",
+        "ja": "DS Automobilesは、DSの名称を「La Déesse（女神）」と呼ばれた初代Citroën DSの伝統に結び付けています。説明はDSの接頭部のみで、数字やシリーズ名は対象外です。"
+      },
+      "source_language": "de",
+      "source_title": "Key-Facts DS Automobiles",
+      "source_url": "https://www.media.stellantis.com/de-de/ds/press/key-facts-ds-automobiles"
+    },
+    {
+      "id": "model:ds:ds-9",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "DS Automobiles links its DS name to the original Citroën DS, traditionally called “La Déesse” (“the goddess”); this explains the DS prefix, not the number or series suffix.",
+        "zh-CN": "DS Automobiles 将 DS 名称与经典雪铁龙 DS 的历史传承相连；后者常称“La Déesse”（“女神”）。这里只解释 DS 前缀，不解释数字或系列后缀。",
+        "zh-TW": "DS Automobiles 將 DS 名稱與經典 Citroën DS 的歷史傳承連結；後者常稱「La Déesse」（「女神」）。此處只解釋 DS 前綴，不解釋數字或系列後綴。",
+        "ja": "DS Automobilesは、DSの名称を「La Déesse（女神）」と呼ばれた初代Citroën DSの伝統に結び付けています。説明はDSの接頭部のみで、数字やシリーズ名は対象外です。"
+      },
+      "source_language": "de",
+      "source_title": "Key-Facts DS Automobiles",
+      "source_url": "https://www.media.stellantis.com/de-de/ds/press/key-facts-ds-automobiles"
+    },
+    {
+      "id": "model:maserati:grecale",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Maserati says Grecale is named after a strong north-easterly wind over the Mediterranean.",
+        "zh-CN": "玛莎拉蒂称 Grecale 取名自地中海的强劲东北风。",
+        "zh-TW": "Maserati 表示 Grecale 取名自地中海的強勁東北風。",
+        "ja": "Maseratiによると、Grecaleは地中海に吹く強い北東風にちなんでいます。"
+      },
+      "source_language": "en",
+      "source_title": "Grecale: The New Maserati SUV",
+      "source_url": "https://www.maserati.com/us/en/news/new-maserati-suv"
+    },
+    {
+      "id": "model:maserati:ghibli",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Maserati says Ghibli takes its name from a powerful, warm North African wind that carries sand.",
+        "zh-CN": "玛莎拉蒂称 Ghibli 取名自北非一种强劲、温暖且夹带沙尘的风。",
+        "zh-TW": "Maserati 表示 Ghibli 取名自北非一種強勁、溫暖且夾帶沙塵的風。",
+        "ja": "Maseratiによると、Ghibliは砂を運ぶ、北アフリカの強く暖かな風にちなんでいます。"
+      },
+      "source_language": "en",
+      "source_title": "The Maserati Ghibli: A powerful car named for a powerful wind celebrates 55 years",
+      "source_url": "https://www.maserati.com/mt/en/news/the-maserati-ghibli-a-powerful-car-named-for-a-powerful-wind-celebrates-55-years"
+    },
+    {
+      "id": "model:maserati:khamsin",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Maserati says Khamsin takes its name from a hot North African desert wind in Egypt and Libya.",
+        "zh-CN": "玛莎拉蒂称 Khamsin 取名自吹过埃及和利比亚的北非炎热沙漠风。",
+        "zh-TW": "Maserati 表示 Khamsin 取名自吹過埃及與利比亞的北非炎熱沙漠風。",
+        "ja": "Maseratiによると、Khamsinはエジプトやリビアに吹く北アフリカの熱い砂漠風にちなみます。"
+      },
+      "source_language": "it",
+      "source_title": "Khamsin",
+      "source_url": "https://www.maserati.com/it/it/brand/auto-storiche/gran-turismo/khamsin"
+    },
+    {
+      "id": "model:maserati:levante",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Maserati says Levante is named after a warm Mediterranean wind that can shift from a breeze to a powerful gust.",
+        "zh-CN": "玛莎拉蒂称 Levante 取名自地中海暖风，这种风可由微风转为强劲气流。",
+        "zh-TW": "Maserati 表示 Levante 取名自地中海暖風，這種風可由微風轉為強勁氣流。",
+        "ja": "Maseratiによると、Levanteはそよ風から強風へ変わる地中海の暖風にちなんでいます。"
+      },
+      "source_language": "en",
+      "source_title": "Maserati Levante Debuts At The Geneva Motor Show",
+      "source_url": "https://www.maserati.com/gb/en/news/maserati-levante-debuts-at-the-geneva-motor-show"
+    },
+    {
+      "id": "model:mini:cooper",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "MINI says racing designer John Cooper designed the Mini Cooper and lent the car his name.",
+        "zh-CN": "MINI 称赛车设计师 John Cooper 参与设计 Mini Cooper，并将自己的名字赋予该车型。",
+        "zh-TW": "MINI 表示賽車設計師 John Cooper 參與設計 Mini Cooper，並將自己的名字賦予這款車。",
+        "ja": "MINIによると、レーシングカー設計者John CooperがMini Cooperを設計し、自身の名を車名に冠しました。"
+      },
+      "source_language": "en",
+      "source_title": "The Story of British Racing Green. Everybody’s Darling.",
+      "source_url": "https://www.mini.com/en_MS/home/heritage/the-british-racing-green-story.html"
+    },
+    {
+      "id": "model:mini:jcw",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "MINI spells out JCW as John Cooper Works and links the line to John Cooper’s racing legacy; this explains the initials, not its other trim labels.",
+        "zh-CN": "MINI 将 JCW 展开为 John Cooper Works，并将该系列与 John Cooper 的赛车传承相连；这里只解释缩写，不解释其他配置名。",
+        "zh-TW": "MINI 將 JCW 展開為 John Cooper Works，並將此系列與 John Cooper 的賽車傳承連結；此處只解釋縮寫，不解釋其他車型標記。",
+        "ja": "MINIはJCWをJohn Cooper Worksと表記し、このシリーズをJohn Cooperのレースの伝統に結び付けています。ほかの仕様名は説明していません。"
+      },
+      "source_language": "en",
+      "source_title": "Story of a Legend",
+      "source_url": "https://www.mini.com/en_MS/home/heritage/story-of-a-legend.html"
+    },
+    {
+      "id": "model:seat:arona",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "SEAT identifies Arona as one of its models named after Spanish municipalities; the namesake is the municipality of Arona in Tenerife.",
+        "zh-CN": "SEAT 将 Arona 列为以西班牙市镇命名的车型之一；其同名地是特内里费岛的 Arona 市镇。",
+        "zh-TW": "SEAT 將 Arona 列為以西班牙市鎮命名的車款之一；其同名地是特內里費島的 Arona 市鎮。",
+        "ja": "SEATはAronaをスペインの自治体名にちなむモデルの一つと説明しています。同名の自治体はテネリフェ島にあります。"
+      },
+      "source_language": "en",
+      "source_title": "Taking my city everywhere I go",
+      "source_url": "https://www.seat.com/company/news/company/take-my-city-everywhere"
+    },
+    {
+      "id": "model:seat:ateca",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "SEAT says Ateca takes its name from the Spanish municipality of Ateca in Aragón.",
+        "zh-CN": "SEAT 称 Ateca 取名自西班牙阿拉贡自治区的 Ateca 市镇。",
+        "zh-TW": "SEAT 表示 Ateca 取名自西班牙阿拉貢自治區的 Ateca 市鎮。",
+        "ja": "SEATによると、Atecaはスペイン・アラゴン州の自治体Atecaにちなんでいます。"
+      },
+      "source_language": "en",
+      "source_title": "Annual Report 2016",
+      "source_url": "https://www.seat.com/content/dam/public/seat-website/company/annual-report/historical-reports/pdf/others-annual_report_2016-info-NA-NA-september-2018.pdf"
+    },
+    {
+      "id": "model:seat:ibiza",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "SEAT says Ibiza follows its tradition of Spanish place names and was chosen for the island’s youthful, Mediterranean image.",
+        "zh-CN": "SEAT 称 Ibiza 延续了以西班牙地名命名的传统，并因该岛年轻、地中海式的形象而被选中。",
+        "zh-TW": "SEAT 表示 Ibiza 延續以西班牙地名命名的傳統，並因該島年輕、地中海式的形象而被選中。",
+        "ja": "SEATによると、Ibizaはスペインの地名を使う伝統に沿い、島の若々しく地中海的なイメージから選ばれました。"
+      },
+      "source_language": "en",
+      "source_title": "Annual Report 2014",
+      "source_url": "https://www.seat.com/content/dam/public/seat-website/company/annual-report/past-reports/pdf/others-annual_report_2014-info-NA-NA-september-2018.pdf"
+    },
+    {
+      "id": "model:seat:leon",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "SEAT lists León among its models named after Spanish cities and towns.",
+        "zh-CN": "SEAT 将 León 列入以西班牙城市和市镇命名的车型名单。",
+        "zh-TW": "SEAT 將 León 列入以西班牙城市與市鎮命名的車款名單。",
+        "ja": "SEATはLeónを、スペインの都市や町にちなんで名付けたモデルの一つに挙げています。"
+      },
+      "source_language": "en",
+      "source_title": "#SEATseekingName Has Its Winner",
+      "source_url": "https://www.seat.com/company/news/cars/new-large-suv-name-winner"
+    },
+    {
+      "id": "model:seat:tarraco",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "SEAT named Tarraco after Tarragona’s ancient name; the model name was selected by popular vote.",
+        "zh-CN": "SEAT 称 Tarraco 取名自塔拉戈纳的古称，名称由公众投票选出。",
+        "zh-TW": "SEAT 表示 Tarraco 取名自塔拉戈納的古稱，車名由大眾投票選出。",
+        "ja": "SEATはTarracoをタラゴナの古称にちなみ、一般投票で選んだと説明しています。"
+      },
+      "source_language": "en",
+      "source_title": "Presenting the new flagship model, SEAT Tarraco large SUV",
+      "source_url": "https://www.seat.com/company/news/cars/tarraco-large-suv-presentation"
+    },
+    {
+      "id": "model:lamborghini:miura",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Lamborghini says Miura takes its name from a famous breed of Spanish fighting bulls.",
+        "zh-CN": "兰博基尼称 Miura 取名自西班牙著名的斗牛品种。",
+        "zh-TW": "Lamborghini 表示 Miura 取名自西班牙著名的鬥牛品種。",
+        "ja": "Lamborghiniによると、Miuraはスペインの有名な闘牛の品種にちなんでいます。"
+      },
+      "source_language": "en",
+      "source_title": "Milestones",
+      "source_url": "https://www.lamborghini.com/en-en/history/milestones"
+    },
+    {
+      "id": "model:lamborghini:jalpa",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Lamborghini says Jalpa is named after a famous breed of fighting bulls.",
+        "zh-CN": "兰博基尼称 Jalpa 取名自一种著名的斗牛品种。",
+        "zh-TW": "Lamborghini 表示 Jalpa 取名自一種著名的鬥牛品種。",
+        "ja": "Lamborghiniによると、Jalpaは有名な闘牛の品種にちなんで名付けられました。"
+      },
+      "source_language": "en",
+      "source_title": "Lamborghini Jalpa: 40th Anniversary",
+      "source_url": "https://www.lamborghini.com/en-en/news/lamborghini-jalpa-40th-anniversary"
+    },
+    {
+      "id": "model:lamborghini:murcielago",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Lamborghini says Murciélago was named after the famous bull spared in an epic bullfight.",
+        "zh-CN": "兰博基尼称 Murciélago 取名自一头在传奇斗牛中获赦免的著名公牛。",
+        "zh-TW": "Lamborghini 表示 Murciélago 取名自一頭在傳奇鬥牛中獲赦免的著名公牛。",
+        "ja": "Lamborghiniによると、Murciélagoは伝説的な闘牛で助命された有名な雄牛にちなみます。"
+      },
+      "source_language": "en",
+      "source_title": "Milestones",
+      "source_url": "https://www.lamborghini.com/en-en/history/milestones"
+    },
+    {
+      "id": "model:lamborghini:urraco",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Lamborghini says Urraco literally means “little bull.”",
+        "zh-CN": "兰博基尼称 Urraco 字面意思是“小公牛”。",
+        "zh-TW": "Lamborghini 表示 Urraco 字面意思是「小公牛」。",
+        "ja": "Lamborghiniによると、Urracoは文字どおり「小さな雄牛」を意味します。"
+      },
+      "source_language": "en",
+      "source_title": "Lamborghini Urraco: innovation turns 50",
+      "source_url": "https://www.lamborghini.com/en-en/news/lamborghini-urraco-innovation-turns-50"
+    },
+    {
+      "id": "model:bentley:bentayga",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Bentley says Bentayga is named after Roque Bentayga, a mountain peak on Gran Canaria.",
+        "zh-CN": "宾利称 Bentayga 取名自大加那利岛的罗克·本塔伊加山峰。",
+        "zh-TW": "Bentley 表示 Bentayga 取名自大加那利島的羅克・本塔伊加山峰。",
+        "ja": "Bentleyによると、Bentaygaはグラン・カナリア島の山頂Roque Bentaygaにちなんでいます。"
+      },
+      "source_language": "en",
+      "source_title": "Bentayga Vehicle Specifications",
+      "source_url": "https://www.bentleymedia.com/attachment/58a1cc5b-134c-4e9e-8e59-121bdcad4824"
+    },
+    {
+      "id": "model:bentley:mulsanne",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Bentley says Mulsanne is named after the Le Mans corner where the marque built its racing reputation.",
+        "zh-CN": "宾利称 Mulsanne 取名自勒芒赛道的 Mulsanne 弯角，宾利曾在此建立赛车声誉。",
+        "zh-TW": "Bentley 表示 Mulsanne 取名自勒芒賽道的 Mulsanne 彎角，Bentley 曾在此建立賽車聲譽。",
+        "ja": "Bentleyによると、Mulsanneはブランドがレースで名声を築いたル・マンのミュルザンヌ・コーナーにちなみます。"
+      },
+      "source_language": "en",
+      "source_title": "2010 Mulsanne",
+      "source_url": "https://www.bentleymedia.com/fr/heritage-collection/2010-mulsanne-dk10fej"
+    },
+    {
+      "id": "model:ferrari:f40",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Ferrari says the F40 was created to celebrate the company’s 40th anniversary.",
+        "zh-CN": "法拉利称 F40 是为庆祝公司成立 40 周年而打造。",
+        "zh-TW": "Ferrari 表示 F40 是為慶祝公司成立 40 週年而打造。",
+        "ja": "Ferrariによると、F40は創業40周年を記念して作られました。"
+      },
+      "source_language": "en",
+      "source_title": "F40, Extreme Supercar for the Few",
+      "source_url": "https://www.ferrari.com/en-HU/history/moments/1987/enzos-dream/more"
+    },
+    {
+      "id": "model:ferrari:sf90",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Ferrari says SF90 refers to the 90th anniversary of Scuderia Ferrari; this explains the SF90 element, not “Stradale.”",
+        "zh-CN": "法拉利称 SF90 指向 Scuderia Ferrari 成立 90 周年；这里只解释 SF90，不解释“Stradale”。",
+        "zh-TW": "Ferrari 表示 SF90 指向 Scuderia Ferrari 成立 90 週年；此處只解釋 SF90，不解釋「Stradale」。",
+        "ja": "FerrariによるとSF90はScuderia Ferrari創設90周年を表します。説明の対象はSF90部分で、「Stradale」は含みません。"
+      },
+      "source_language": "en",
+      "source_title": "The Ferrari SF90 Stradale – the new series-production supercar",
+      "source_url": "https://cdn.ferrari.com/cms/network/media/pdf/pr_ferrari_sf90_stradale_gbr.pdf"
+    },
+    {
+      "id": "model:ferrari:purosangue",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Ferrari says Purosangue is Italian for “thoroughbred.”",
+        "zh-CN": "法拉利称 Purosangue 在意大利语中意为“纯种马”。",
+        "zh-TW": "Ferrari 表示 Purosangue 在義大利語中意為「純種馬」。",
+        "ja": "Ferrariによると、Purosangueはイタリア語で「純血種」を意味します。"
+      },
+      "source_language": "en",
+      "source_title": "Ferrari Purosangue: Unlike Any Other",
+      "source_url": "https://www.ferrari.com/content/dam/ferrari-fcom/old/pdf/CS_Ferrari_Purosangue_GBR_final.pdf"
+    },
+    {
+      "id": "model:ferrari:daytona-sp3",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Ferrari says the Daytona badge nods to its 1–2–3 finish at the 1967 24 Hours of Daytona; this does not explain “SP3.”",
+        "zh-CN": "法拉利称 Daytona 标记呼应其在 1967 年戴通纳 24 小时赛包揽前三；此解释不涉及“SP3”。",
+        "zh-TW": "Ferrari 表示 Daytona 標記呼應其在 1967 年 Daytona 24 小時賽包辦前三；此解釋不涉及「SP3」。",
+        "ja": "Ferrariによると、Daytonaの名は1967年デイトナ24時間レースでの1・2・3位を記念しています。「SP3」は説明していません。"
+      },
+      "source_language": "en",
+      "source_title": "The Golden Era of Closed Wheel Racing",
+      "source_url": "https://www.ferrari.com/en-US/magazine/articles/the-golden-era-of-closed-wheel-racing"
+    },
+    {
+      "id": "model:ferrari:enzo",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Ferrari says the Enzo model recalls the memory of the company’s founder, Enzo Ferrari.",
+        "zh-CN": "法拉利称 Enzo 车型旨在让人想起公司创始人恩佐·法拉利。",
+        "zh-TW": "Ferrari 表示 Enzo 車款旨在讓人想起公司創辦人恩佐・法拉利。",
+        "ja": "Ferrariによると、Enzoは創業者エンツォ・フェラーリの記憶を呼び起こすモデルです。"
+      },
+      "source_language": "ja",
+      "source_title": "すべてが名前の中に – Enzo Ferrari",
+      "source_url": "https://www.ferrari.com/ja-JP/magazine/articles/all-in-the-name-the-enzo-ferrari"
+    },
+    {
+      "id": "model:aston-martin:db4",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Aston Martin says DB stands for David Brown, who acquired the company; this explains the shared initials, not the model number.",
+        "zh-CN": "阿斯顿·马丁称 DB 代表收购公司的 David Brown；这里只解释共同首字母，不解释车型数字。",
+        "zh-TW": "Aston Martin 表示 DB 代表收購公司的 David Brown；此處只解釋共同字母，不解釋車型數字。",
+        "ja": "Aston Martinによると、DBは同社を買収したDavid Brownの頭文字です。共通の頭文字のみの説明で、型番は対象外です。"
+      },
+      "source_language": "en",
+      "source_title": "Celebrating 70 years of the Aston Martin DB bloodline",
+      "source_url": "https://www.astonmartin.com/en-gb/our-world/news/2018/4/25/celebrating-70-years-of-the-aston-martin-db-bloodline"
+    },
+    {
+      "id": "model:aston-martin:db5",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Aston Martin says DB stands for David Brown, who acquired the company; this explains the shared initials, not the model number.",
+        "zh-CN": "阿斯顿·马丁称 DB 代表收购公司的 David Brown；这里只解释共同首字母，不解释车型数字。",
+        "zh-TW": "Aston Martin 表示 DB 代表收購公司的 David Brown；此處只解釋共同字母，不解釋車型數字。",
+        "ja": "Aston Martinによると、DBは同社を買収したDavid Brownの頭文字です。共通の頭文字のみの説明で、型番は対象外です。"
+      },
+      "source_language": "en",
+      "source_title": "Celebrating 70 years of the Aston Martin DB bloodline",
+      "source_url": "https://www.astonmartin.com/en-gb/our-world/news/2018/4/25/celebrating-70-years-of-the-aston-martin-db-bloodline"
+    },
+    {
+      "id": "model:aston-martin:db6",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Aston Martin says DB stands for David Brown, who acquired the company; this explains the shared initials, not the model number.",
+        "zh-CN": "阿斯顿·马丁称 DB 代表收购公司的 David Brown；这里只解释共同首字母，不解释车型数字。",
+        "zh-TW": "Aston Martin 表示 DB 代表收購公司的 David Brown；此處只解釋共同字母，不解釋車型數字。",
+        "ja": "Aston Martinによると、DBは同社を買収したDavid Brownの頭文字です。共通の頭文字のみの説明で、型番は対象外です。"
+      },
+      "source_language": "en",
+      "source_title": "Celebrating 70 years of the Aston Martin DB bloodline",
+      "source_url": "https://www.astonmartin.com/en-gb/our-world/news/2018/4/25/celebrating-70-years-of-the-aston-martin-db-bloodline"
+    },
+    {
+      "id": "model:aston-martin:db7",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Aston Martin says DB stands for David Brown, who acquired the company; this explains the shared initials, not the model number.",
+        "zh-CN": "阿斯顿·马丁称 DB 代表收购公司的 David Brown；这里只解释共同首字母，不解释车型数字。",
+        "zh-TW": "Aston Martin 表示 DB 代表收購公司的 David Brown；此處只解釋共同字母，不解釋車型數字。",
+        "ja": "Aston Martinによると、DBは同社を買収したDavid Brownの頭文字です。共通の頭文字のみの説明で、型番は対象外です。"
+      },
+      "source_language": "en",
+      "source_title": "Celebrating 70 years of the Aston Martin DB bloodline",
+      "source_url": "https://www.astonmartin.com/en-gb/our-world/news/2018/4/25/celebrating-70-years-of-the-aston-martin-db-bloodline"
+    },
+    {
+      "id": "model:aston-martin:db9",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Aston Martin says DB stands for David Brown, who acquired the company; this explains the shared initials, not the model number.",
+        "zh-CN": "阿斯顿·马丁称 DB 代表收购公司的 David Brown；这里只解释共同首字母，不解释车型数字。",
+        "zh-TW": "Aston Martin 表示 DB 代表收購公司的 David Brown；此處只解釋共同字母，不解釋車型數字。",
+        "ja": "Aston Martinによると、DBは同社を買収したDavid Brownの頭文字です。共通の頭文字のみの説明で、型番は対象外です。"
+      },
+      "source_language": "en",
+      "source_title": "Celebrating 70 years of the Aston Martin DB bloodline",
+      "source_url": "https://www.astonmartin.com/en-gb/our-world/news/2018/4/25/celebrating-70-years-of-the-aston-martin-db-bloodline"
+    },
+    {
+      "id": "model:aston-martin:db11",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Aston Martin says DB stands for David Brown, who acquired the company; this explains the shared initials, not the model number.",
+        "zh-CN": "阿斯顿·马丁称 DB 代表收购公司的 David Brown；这里只解释共同首字母，不解释车型数字。",
+        "zh-TW": "Aston Martin 表示 DB 代表收購公司的 David Brown；此處只解釋共同字母，不解釋車型數字。",
+        "ja": "Aston Martinによると、DBは同社を買収したDavid Brownの頭文字です。共通の頭文字のみの説明で、型番は対象外です。"
+      },
+      "source_language": "en",
+      "source_title": "Celebrating 70 years of the Aston Martin DB bloodline",
+      "source_url": "https://www.astonmartin.com/en-gb/our-world/news/2018/4/25/celebrating-70-years-of-the-aston-martin-db-bloodline"
+    },
+    {
+      "id": "model:aston-martin:db12",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Aston Martin says DB stands for David Brown, who acquired the company; this explains the shared initials, not the model number.",
+        "zh-CN": "阿斯顿·马丁称 DB 代表收购公司的 David Brown；这里只解释共同首字母，不解释车型数字。",
+        "zh-TW": "Aston Martin 表示 DB 代表收購公司的 David Brown；此處只解釋共同字母，不解釋車型數字。",
+        "ja": "Aston Martinによると、DBは同社を買収したDavid Brownの頭文字です。共通の頭文字のみの説明で、型番は対象外です。"
+      },
+      "source_language": "en",
+      "source_title": "Celebrating 70 years of the Aston Martin DB bloodline",
+      "source_url": "https://www.astonmartin.com/en-gb/our-world/news/2018/4/25/celebrating-70-years-of-the-aston-martin-db-bloodline"
+    },
+    {
+      "id": "model:aston-martin:dbs",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Aston Martin says DB stands for David Brown, who acquired the company; this explains the shared initials, not the model suffix.",
+        "zh-CN": "阿斯顿·马丁称 DB 代表收购公司的 David Brown；这里只解释共同首字母，不解释车型后缀。",
+        "zh-TW": "Aston Martin 表示 DB 代表收購公司的 David Brown；此處只解釋共同字母，不解釋車型後綴。",
+        "ja": "Aston Martinによると、DBは同社を買収したDavid Brownの頭文字です。共通の頭文字のみの説明で、型番の接尾辞は対象外です。"
+      },
+      "source_language": "en",
+      "source_title": "Celebrating 70 years of the Aston Martin DB bloodline",
+      "source_url": "https://www.astonmartin.com/en-gb/our-world/news/2018/4/25/celebrating-70-years-of-the-aston-martin-db-bloodline"
+    },
+    {
+      "id": "model:aston-martin:dbx",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Aston Martin says the DB initials in DBX belong to David Brown; this does not explain the X.",
+        "zh-CN": "阿斯顿·马丁称 DBX 中的 DB 是 David Brown 的首字母；该来源没有解释 X。",
+        "zh-TW": "Aston Martin 表示 DBX 中的 DB 是 David Brown 的字首；該來源沒有解釋 X。",
+        "ja": "Aston Martinによると、DBXのDBはDavid Brownの頭文字です。この資料ではXの由来は説明されていません。"
+      },
+      "source_language": "en",
+      "source_title": "DBX",
+      "source_url": "https://www.astonmartin.com/en-us/campaigns/dbx-casablanca"
+    },
+    {
+      "id": "model:aston-martin:valhalla",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Aston Martin says Valhalla is named after the warriors’ paradise in ancient Norse mythology.",
+        "zh-CN": "阿斯顿·马丁称 Valhalla 取名自古诺斯神话中的战士乐园。",
+        "zh-TW": "Aston Martin 表示 Valhalla 取名自古諾斯神話中的戰士樂園。",
+        "ja": "Aston Martinによると、Valhallaは古代北欧神話に登場する戦士の楽園にちなんでいます。"
+      },
+      "source_language": "en",
+      "source_title": "The Aston Martin Valhalla: AM-RB 003 continues ‘V’ car tradition",
+      "source_url": "https://www.astonmartin.com/en-au/our-world/news/2019/06/18/the-aston-martin-valhalla-am-rb-003-continues-v-car-tradition"
+    },
+    {
+      "id": "model:aston-martin:valkyrie",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Aston Martin says Valkyrie takes its name from ancient Norse mythology; the release connects it with power, honour and being chosen by the gods.",
+        "zh-CN": "阿斯顿·马丁称 Valkyrie 取名自古诺斯神话；官方发布将其与力量、荣誉及被诸神选中联系起来。",
+        "zh-TW": "Aston Martin 表示 Valkyrie 取名自古諾斯神話；官方發布將其與力量、榮耀及受諸神選中連結。",
+        "ja": "Aston Martinによると、Valkyrieは古代北欧神話にちなみます。公式発表は力、名誉、神々に選ばれることと結び付けています。"
+      },
+      "source_language": "en",
+      "source_title": "Aston Martin Valkyrie",
+      "source_url": "https://media.astonmartin.com/the-aston-martin-valkyrie-am-rb-001-hypercar-takes-its-name-from-the-gods-images/?lang=eng"
+    },
+    {
+      "id": "model:lotus:eletre",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Lotus says Eletre means “coming to life” in some Eastern European languages; it does not name a specific language.",
+        "zh-CN": "路特斯称 Eletre 在一些东欧语言中意为“焕发生机”；官方没有指明具体语言。",
+        "zh-TW": "Lotus 表示 Eletre 在一些東歐語言中意為「煥發新生」；官方沒有指明具體語言。",
+        "ja": "Lotusによると、Eletreは一部の東欧言語で「生命が始まること」を意味しますが、特定の言語は示されていません。"
+      },
+      "source_language": "en",
+      "source_title": "Lotus Eletre: the world’s first electric Hyper-SUV",
+      "source_url": "https://media.lotuscars.com/en/news-articles/lotus-eletre-the-world%E2%80%99s-first-electric-hyper-suv.html"
+    },
+    {
+      "id": "model:lotus:emira",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Lotus says Emira appears in several ancient languages and often translates as “commander” or “leader.”",
+        "zh-CN": "路特斯称 Emira 见于多种古代语言，常译作“指挥者”或“领袖”。",
+        "zh-TW": "Lotus 表示 Emira 見於多種古代語言，常譯作「指揮者」或「領袖」。",
+        "ja": "Lotusによると、Emiraは複数の古代言語に見られ、「指揮官」や「指導者」と訳されることが多い名称です。"
+      },
+      "source_language": "en",
+      "source_title": "Lotus Emira",
+      "source_url": "https://media.lotuscars.com/en/models/emira.html"
+    },
+    {
+      "id": "model:cupra:born",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "CUPRA says Born takes its name from the El Born quarter of Barcelona, which also inspired its design.",
+        "zh-CN": "CUPRA 称 Born 取名自巴塞罗那的 El Born 街区，该街区也为车辆设计提供了灵感。",
+        "zh-TW": "CUPRA 表示 Born 取名自巴塞隆納的 El Born 街區，該街區也為車輛設計帶來靈感。",
+        "ja": "CUPRAによると、Bornはバルセロナのエル・ボルン地区にちなみ、その地区はデザインの着想源にもなりました。"
+      },
+      "source_language": "en",
+      "source_title": "Annual Report 2021",
+      "source_url": "https://www.seat.com/content/dam/public/seat-website/company/annual-report/historical-reports/pdf/others-annual-report-2021-march-2022.pdf"
+    },
+    {
+      "id": "model:cupra:formentor",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "CUPRA says Formentor is named after Cape Formentor on the island of Mallorca.",
+        "zh-CN": "CUPRA 称 Formentor 取名自马略卡岛的 Formentor 海岬。",
+        "zh-TW": "CUPRA 表示 Formentor 取名自馬略卡島的 Formentor 海岬。",
+        "ja": "CUPRAによると、Formentorはマヨルカ島のフォルメントール岬にちなんで名付けられました。"
+      },
+      "source_language": "en",
+      "source_title": "E-mobility and car reveals at the Geneva Motor Show 2019",
+      "source_url": "https://www.seat.com/company/news/company/e-mobility-geneva-motor-show-2019"
+    }
+  ]
+}

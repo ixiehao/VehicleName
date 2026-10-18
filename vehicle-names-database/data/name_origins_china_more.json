@@ -1,0 +1,108 @@
+{
+  "models": [
+    {
+      "id": "model:byd:qin",
+      "summary": {
+        "en": "BYD says it uses Chinese dynasties as vehicle names; this model is named after the Qin dynasty.",
+        "zh-CN": "比亚迪官方称以中国朝代作为车型名称；此车型名取自秦朝。",
+        "zh-TW": "比亞迪官方表示以中國朝代作為車型名稱；此車型名取自秦朝。",
+        "ja": "BYDは中国の王朝名を車名に採用していると説明しています。この車名は秦朝に由来します。"
+      },
+      "source_language": "zh-CN",
+      "canonical_name_column": "en",
+      "source_title": "比亚迪与《黑神话：悟空》达成全球战略合作，携手书写中国神话",
+      "source_url": "https://www.byd.com/cn/news/2024/detail551"
+    },
+    {
+      "id": "model:byd:han",
+      "summary": {
+        "en": "BYD says it uses Chinese dynasties as vehicle names; this model is named after the Han dynasty.",
+        "zh-CN": "比亚迪官方称以中国朝代作为车型名称；此车型名取自汉朝。",
+        "zh-TW": "比亞迪官方表示以中國朝代作為車型名稱；此車型名取自漢朝。",
+        "ja": "BYDは中国の王朝名を車名に採用していると説明しています。この車名は漢朝に由来します。"
+      },
+      "source_language": "zh-CN",
+      "canonical_name_column": "en",
+      "source_title": "比亚迪与《黑神话：悟空》达成全球战略合作，携手书写中国神话",
+      "source_url": "https://www.byd.com/cn/news/2024/detail551"
+    },
+    {
+      "id": "model:byd:tang",
+      "summary": {
+        "en": "BYD says it uses Chinese dynasties as vehicle names; this model is named after the Tang dynasty.",
+        "zh-CN": "比亚迪官方称以中国朝代作为车型名称；此车型名取自唐朝。",
+        "zh-TW": "比亞迪官方表示以中國朝代作為車型名稱；此車型名取自唐朝。",
+        "ja": "BYDは中国の王朝名を車名に採用していると説明しています。この車名は唐朝に由来します。"
+      },
+      "source_language": "zh-CN",
+      "canonical_name_column": "en",
+      "source_title": "比亚迪与《黑神话：悟空》达成全球战略合作，携手书写中国神话",
+      "source_url": "https://www.byd.com/cn/news/2024/detail551"
+    },
+    {
+      "id": "model:byd:song",
+      "summary": {
+        "en": "BYD says it uses Chinese dynasties as vehicle names; this model is named after the Song dynasty.",
+        "zh-CN": "比亚迪官方称以中国朝代作为车型名称；此车型名取自宋朝。",
+        "zh-TW": "比亞迪官方表示以中國朝代作為車型名稱；此車型名取自宋朝。",
+        "ja": "BYDは中国の王朝名を車名に採用していると説明しています。この車名は宋朝に由来します。"
+      },
+      "source_language": "zh-CN",
+      "canonical_name_column": "en",
+      "source_title": "比亚迪与《黑神话：悟空》达成全球战略合作，携手书写中国神话",
+      "source_url": "https://www.byd.com/cn/news/2024/detail551"
+    },
+    {
+      "id": "model:byd:yuan",
+      "summary": {
+        "en": "BYD says it uses Chinese dynasties as vehicle names; this model is named after the Yuan dynasty.",
+        "zh-CN": "比亚迪官方称以中国朝代作为车型名称；此车型名取自元朝。",
+        "zh-TW": "比亞迪官方表示以中國朝代作為車型名稱；此車型名取自元朝。",
+        "ja": "BYDは中国の王朝名を車名に採用していると説明しています。この車名は元朝に由来します。"
+      },
+      "source_language": "zh-CN",
+      "canonical_name_column": "en",
+      "source_title": "比亚迪与《黑神话：悟空》达成全球战略合作，携手书写中国神话",
+      "source_url": "https://www.byd.com/cn/news/2024/detail551"
+    },
+    {
+      "id": "model:maxus:mifa-9",
+      "summary": {
+        "en": "SAIC says MIFA comes from Maximum, Intelligent, Friendly, Artistic. This explains “MIFA,” not the number 9.",
+        "zh-CN": "上汽官方称，MIFA 源自 Maximum、Intelligent、Friendly、Artistic，寓意极致、智慧、友好与优雅；该释名不涉及数字“9”。",
+        "zh-TW": "上汽官方表示，MIFA 源自 Maximum、Intelligent、Friendly、Artistic，寓意極致、智慧、友好與優雅；此釋名不涉及數字「9」。",
+        "ja": "上汽によると、MIFAはMaximum、Intelligent、Friendly、Artisticに由来し、極致・知性・親しみやすさ・優雅さを表します。数字の「9」は説明されていません。"
+      },
+      "source_language": "zh-CN",
+      "canonical_name_column": "en",
+      "source_title": "上汽大通MAXUS MIFA 9广州车展首发",
+      "source_url": "https://www.saicmotor.com/chinese/xwzx/xwk/2021/56253.shtml"
+    },
+    {
+      "id": "model:maxus:maxus-mifa",
+      "summary": {
+        "en": "SAIC says MIFA comes from Maximum, Intelligent, Friendly, Artistic, representing excellence, intelligence, friendliness, and elegance.",
+        "zh-CN": "上汽官方称，MIFA 源自 Maximum、Intelligent、Friendly、Artistic，寓意极致、智慧、友好与优雅。",
+        "zh-TW": "上汽官方表示，MIFA 源自 Maximum、Intelligent、Friendly、Artistic，寓意極致、智慧、友好與優雅。",
+        "ja": "上汽によると、MIFAはMaximum、Intelligent、Friendly、Artisticに由来し、極致・知性・親しみやすさ・優雅さを表します。"
+      },
+      "source_language": "zh-CN",
+      "canonical_name_column": "en",
+      "source_title": "上汽大通MAXUS MIFA 9广州车展首发",
+      "source_url": "https://www.saicmotor.com/chinese/xwzx/xwk/2021/56253.shtml"
+    },
+    {
+      "id": "model:roewe:rx5",
+      "summary": {
+        "en": "SAIC says “R” represents Roewe's super internet SUV and brand philosophy; “X” evokes the unknown and the synergy of car and internet. The source does not explain “5.”",
+        "zh-CN": "上汽官方说明，“R”代表荣威超级互联网SUV，也体现品牌理念；“X”寓意无限未知及汽车与互联网的融合。来源未解释“5”。",
+        "zh-TW": "上汽官方說明，「R」代表榮威超級互聯網SUV，也體現品牌理念；「X」寓意無限未知及汽車與互聯網的融合。來源未解釋「5」。",
+        "ja": "上汽によると、「R」はRoeweのインターネットSUVとブランド理念を表し、「X」は未知の可能性や自動車とインターネットの融合を示します。数字の「5」は説明されていません。"
+      },
+      "source_language": "zh-CN",
+      "canonical_name_column": "en",
+      "source_title": "上汽全球首款量产互联网汽车命名“荣威RX5” 将亮相北京车展",
+      "source_url": "https://www.saicmotor.com/chinese/xwzx/xwk/2016/44079.shtml"
+    }
+  ]
+}

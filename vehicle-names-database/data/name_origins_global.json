@@ -1,0 +1,524 @@
+{
+  "models": [
+    {
+      "id": "model:volkswagen:passat",
+      "summary": {
+        "en": "Volkswagen’s 1973 account connects Passat with Italian passata (“crossing”) and the trade winds.",
+        "zh-CN": "大众1973年的说明将 Passat 与意大利语 passata（“穿越”）及信风意象联系起来。",
+        "zh-TW": "福斯 1973 年的說明將 Passat 與義大利語 passata（「穿越」）及信風意象連結。",
+        "ja": "フォルクスワーゲンの1973年の説明では、Passatはイタリア語のpassata（「横断」）と貿易風に結び付けられています。"
+      },
+      "source_language": "en",
+      "source_title": "Passat B1 (1973–1980)",
+      "source_url": "https://www.volkswagen-newsroom.com/en/passat-b1-19731980-19534",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:volkswagen:tiguan",
+      "summary": {
+        "en": "A portmanteau of “Tiger” and the German word “Leguan” (iguana), chosen by an Auto Bild readers’ poll.",
+        "zh-CN": "由 Tiger（老虎）与德语 Leguan（鬣蜥）合成，名称由《Auto Bild》读者投票选出。",
+        "zh-TW": "由 Tiger（老虎）與德語 Leguan（鬣蜥）合成，名稱由《Auto Bild》讀者票選。",
+        "ja": "Tiger（トラ）とドイツ語のLeguan（イグアナ）を組み合わせた造語で、Auto Bild誌の読者投票で選ばれました。"
+      },
+      "source_language": "en",
+      "source_title": "The new Tiguan EDITION 20: Volkswagen celebrates two decades of a success story",
+      "source_url": "https://www.volkswagen-newsroom.com/en/press-releases/the-new-tiguan-edition-20-volkswagen-celebrates-two-decades-of-a-success-story-20508",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:volkswagen:touareg",
+      "summary": {
+        "en": "Volkswagen says the name refers to the Tuareg people of the Sahara.",
+        "zh-CN": "大众称，名称取自撒哈拉地区的图阿雷格人。",
+        "zh-TW": "福斯表示，名稱取自撒哈拉地區的圖阿雷格人。",
+        "ja": "フォルクスワーゲンによると、名称はサハラ地域のトゥアレグ族に由来します。"
+      },
+      "source_language": "en",
+      "source_title": "20 years of the Touareg",
+      "source_url": "https://www.volkswagen-newsroom.com/en/20-years-of-the-volkswagen-touareg-exclusive-special-edition-model-for-the-anniversary-7984/20-years-of-the-touareg-7990",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:volkswagen:t-roc",
+      "summary": {
+        "en": "Volkswagen links T to Tiguan and Touareg, and Roc to English “rock”; this explains the name elements, not any other suffix.",
+        "zh-CN": "大众称 T 呼应 Tiguan、Touareg，Roc 取自英语 rock（岩石）；这里只解释名称构成，不延伸解释其他后缀。",
+        "zh-TW": "福斯表示 T 呼應 Tiguan、Touareg，Roc 取自英語 rock（岩石）；此處只解釋名稱構成，不延伸解釋其他後綴。",
+        "ja": "フォルクスワーゲンによると、TはTiguanとTouareg、Rocは英語のrockにちなみます。名称の要素のみを説明し、他の接尾辞は解釈しません。"
+      },
+      "source_language": "en",
+      "source_title": "Summary – T-Roc exceeds boundaries of its class",
+      "source_url": "https://www.volkswagen-newsroom.com/en/the-t-roc-2692/summary-t-roc-exceeds-boundaries-of-its-class-2704",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:skoda:kodiaq",
+      "summary": {
+        "en": "Škoda named it after the Kodiak bear; the spelling draws on the Alutiiq language of Alaska.",
+        "zh-CN": "斯柯达称名称取自科迪亚克熊，拼写参考阿拉斯加原住民阿鲁提克语。",
+        "zh-TW": "Škoda 表示名稱取自科迪亞克熊，拼寫參考阿拉斯加原住民阿魯提克語。",
+        "ja": "Škodaによると、名称はコディアックヒグマにちなみ、綴りはアラスカの先住民言語アリューティク語を参考にしています。"
+      },
+      "source_language": "en",
+      "source_title": "As strong as a bear: ŠKODA's large SUV is called Kodiaq",
+      "source_url": "https://www.skoda-storyboard.com/en/press-releases/strong-bear-skodas-large-suv-called-kodiaq/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:skoda:karoq",
+      "summary": {
+        "en": "The name combines Alutiiq words for “car” and “arrow.”",
+        "zh-CN": "名称由阿鲁提克语中表示“汽车”和“箭”的词组合而成。",
+        "zh-TW": "名稱由阿魯提克語中表示「汽車」和「箭」的詞組合而成。",
+        "ja": "名称はアリューティク語で「車」と「矢」を表す語を組み合わせたものです。"
+      },
+      "source_language": "en",
+      "source_title": "New compact SUV is called ŠKODA KAROQ",
+      "source_url": "https://www.skoda-storyboard.com/en/press-releases/new-compact-suv-called-skoda-karoq/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:skoda:kamiq",
+      "summary": {
+        "en": "Škoda says Kamiq is an Inuit word for something that fits perfectly, like a second skin.",
+        "zh-CN": "斯柯达称 Kamiq 是因纽特语，意为贴合得恰到好处，如同第二层皮肤。",
+        "zh-TW": "Škoda 表示 Kamiq 是因紐特語，意為貼合得恰到好處，如同第二層皮膚。",
+        "ja": "Škodaによると、Kamiqはイヌイット語で、第二の皮膚のようにぴったり合うものを意味します。"
+      },
+      "source_language": "en",
+      "source_title": "ŠKODA KAMIQ – the new city SUV",
+      "source_url": "https://www.skoda-storyboard.com/en/press-releases/skoda-kamiq-the-new-city-suv/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:hyundai:kona",
+      "summary": {
+        "en": "Hyundai says Kona takes its name from the Kona district of Hawaii.",
+        "zh-CN": "现代称 Kona 名称取自夏威夷的科纳地区。",
+        "zh-TW": "現代表示 Kona 名稱取自夏威夷的科納地區。",
+        "ja": "ヒョンデによると、Konaはハワイ島のコナ地区にちなんでいます。"
+      },
+      "source_language": "sv",
+      "source_title": "Så fick modellerna sina namn",
+      "source_url": "https://www.hyundai.com/se/sv/om-oss/nyheter-och-artiklar/saa-fick-modellerna-sina-namn.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:hyundai:tucson",
+      "summary": {
+        "en": "Hyundai says Tucson is named after the city of Tucson, Arizona.",
+        "zh-CN": "现代称 Tucson 以美国亚利桑那州图森市命名。",
+        "zh-TW": "現代表示 Tucson 以美國亞利桑那州圖森市命名。",
+        "ja": "ヒョンデによると、Tucsonは米国アリゾナ州ツーソン市にちなんでいます。"
+      },
+      "source_language": "sv",
+      "source_title": "Så fick modellerna sina namn",
+      "source_url": "https://www.hyundai.com/se/sv/om-oss/nyheter-och-artiklar/saa-fick-modellerna-sina-namn.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:hyundai:santa-fe",
+      "summary": {
+        "en": "Hyundai says Santa Fe shares its name with the city of Santa Fe, New Mexico.",
+        "zh-CN": "现代称 Santa Fe 与美国新墨西哥州圣菲市同名。",
+        "zh-TW": "現代表示 Santa Fe 與美國新墨西哥州聖塔菲市同名。",
+        "ja": "ヒョンデによると、Santa Feは米国ニューメキシコ州のサンタフェ市にちなんでいます。"
+      },
+      "source_language": "sv",
+      "source_title": "Så fick modellerna sina namn",
+      "source_url": "https://www.hyundai.com/se/sv/om-oss/nyheter-och-artiklar/saa-fick-modellerna-sina-namn.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:hyundai:ioniq",
+      "summary": {
+        "en": "Hyundai says IONIQ combines “ion” and “unique”; this entry explains only the shared name, not the model numbers or suffixes.",
+        "zh-CN": "现代称 IONIQ 由 ion（离子）与 unique（独特）组合而成；这里只解释共同名称，不解释型号数字或后缀。",
+        "zh-TW": "現代表示 IONIQ 由 ion（離子）與 unique（獨特）組合而成；此處只解釋共同名稱，不解釋型號數字或後綴。",
+        "ja": "ヒョンデによると、IONIQはionとuniqueを組み合わせた名称です。共通名称のみの説明で、型番の数字や接尾辞は説明しません。"
+      },
+      "source_language": "sv",
+      "source_title": "Så fick modellerna sina namn",
+      "source_url": "https://www.hyundai.com/se/sv/om-oss/nyheter-och-artiklar/saa-fick-modellerna-sina-namn.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:renault:clio",
+      "summary": {
+        "en": "Renault says Clio was inspired by Clio, the Muse of History in Greek mythology.",
+        "zh-CN": "雷诺称 Clio 的灵感来自希腊神话中的历史女神克利俄。",
+        "zh-TW": "雷諾表示 Clio 的靈感來自希臘神話中的歷史女神克利俄。",
+        "ja": "ルノーによると、Clioはギリシャ神話の歴史の女神クレイオに着想を得ています。"
+      },
+      "source_language": "en",
+      "source_title": "Clio 2025: 35 years of success and a sixth generation",
+      "source_url": "https://www.renaultgroup.com/en/magazine/our-group-news/new-clio-the-legend-enters-its-sixth-chapter/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:porsche:taycan",
+      "summary": {
+        "en": "Porsche says Taycan combines two Turkic-origin terms, roughly meaning “soul of a spirited young horse.”",
+        "zh-CN": "保时捷称 Taycan 由两个突厥语词组合而来，大意为“活力骏马之魂”。",
+        "zh-TW": "保時捷表示 Taycan 由兩個突厥語詞組合而成，大意為「活力駿馬之魂」。",
+        "ja": "ポルシェによると、Taycanはテュルク系言語由来の二語からなり、「若く活気ある馬の魂」といった意味です。"
+      },
+      "source_language": "en",
+      "source_title": "The Genesis of “Taycan”",
+      "source_url": "https://newsroom.porsche.com/en/products/porsche-taycan-name-meaning-soul-spirited-young-horse-electric-sports-car-electromobility-emobility-16292.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:porsche:panamera",
+      "summary": {
+        "en": "Porsche links the Panamera name to the Carrera Panamericana endurance race, which it says the model could win.",
+        "zh-CN": "保时捷将 Panamera 与卡雷拉泛美公路赛联系起来，称该车型具备赢得这项耐力赛的实力。",
+        "zh-TW": "保時捷將 Panamera 與卡雷拉泛美公路賽連結，表示該車型具備贏得這項耐力賽的實力。",
+        "ja": "ポルシェはPanameraをカレラ・パナメリカーナ耐久レースに結び付け、この車が勝てる性能を備えると説明しています。"
+      },
+      "source_language": "en",
+      "source_title": "Mission E becomes Taycan",
+      "source_url": "https://newsroom.porsche.com/en/products/porsche-taycan-mission-e-name-of-series-production-electric-sports-car-electromobility-concept-study-70-years-sportscar-15602.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:porsche:cayenne",
+      "summary": {
+        "en": "Porsche says Cayenne denotes “fieriness.”",
+        "zh-CN": "保时捷称 Cayenne 寓意“炽烈、热情”。",
+        "zh-TW": "保時捷表示 Cayenne 寓意「熾烈、熱情」。",
+        "ja": "ポルシェによると、Cayenneは「燃えるような情熱」を表します。"
+      },
+      "source_language": "en",
+      "source_title": "Mission E becomes Taycan",
+      "source_url": "https://newsroom.porsche.com/en/products/porsche-taycan-mission-e-name-of-series-production-electric-sports-car-electromobility-concept-study-70-years-sportscar-15602.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:porsche:macan",
+      "summary": {
+        "en": "Porsche says Macan derives from the Indonesian word for “tiger.”",
+        "zh-CN": "保时捷称 Macan 源自印度尼西亚语，意为“老虎”。",
+        "zh-TW": "保時捷表示 Macan 源自印尼語，意為「老虎」。",
+        "ja": "ポルシェによると、Macanはインドネシア語で「トラ」を意味する言葉に由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Mission E becomes Taycan",
+      "source_url": "https://newsroom.porsche.com/en/products/porsche-taycan-mission-e-name-of-series-production-electric-sports-car-electromobility-concept-study-70-years-sportscar-15602.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:fiat:panda",
+      "summary": {
+        "en": "Fiat says Panda was named in honour of Empanda, the Roman goddess and patroness of travellers.",
+        "zh-CN": "菲亚特称 Panda 是为纪念罗马女神、旅行者的守护神恩潘达而命名。",
+        "zh-TW": "Fiat 表示 Panda 是為紀念羅馬女神、旅行者的守護神恩潘達而命名。",
+        "ja": "フィアットによると、Pandaはローマの女神で旅人の守護神でもあるエンパンダに敬意を表して名付けられました。"
+      },
+      "source_language": "en",
+      "source_title": "THE FIAT PANDA – FORTY YEARS OF FUN, AFFORDABLE MOBILITY",
+      "source_url": "https://www.media.stellantis.com/uk-en/fiat/press/the-fiat-panda-forty-years-of-fun-affordable-mobility",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ford:mustang",
+      "summary": {
+        "en": "Ford says the Mustang name was inspired by a World War II fighter plane; the pony branding came later.",
+        "zh-CN": "福特称 Mustang 名称的灵感来自二战战斗机；小马形象是后来采用的品牌元素。",
+        "zh-TW": "福特表示 Mustang 名稱的靈感來自二戰戰鬥機；小馬形象是後來採用的品牌元素。",
+        "ja": "フォードによると、Mustangの名称は第二次世界大戦の戦闘機に着想を得たもので、ポニーの意匠は後から加わりました。"
+      },
+      "source_language": "en",
+      "source_title": "FORD MUSTANG 10-MILLION STRONG",
+      "source_url": "https://media.ford.com/content/dam/fordmedia/North%20America/US/2018/08/08/Mustang-10-Million-Trivia.pdf",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kia:telluride",
+      "summary": {
+        "en": "Kia describes Telluride as named for the Colorado town; the maker also draws on that namesake in its design story.",
+        "zh-CN": "起亚称 Telluride 取名自科罗拉多州同名小镇，并在官方设计说明中呼应该地。",
+        "zh-TW": "起亞表示 Telluride 取名自科羅拉多州同名小鎮，並在官方設計說明中呼應該地。",
+        "ja": "起亜によると、Tellurideはコロラド州の同名の町にちなんだ名称で、公式のデザイン説明でもその町を参照しています。"
+      },
+      "source_language": "en",
+      "source_title": "KIA RELEASES TEASER IMAGES OF ALL-NEW 2027 TELLURIDE",
+      "source_url": "https://www.kiamedia.com/us/en/media/pressreleases/23789/kia-releases-teaser-images-of-all-new-2027-telluride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:peugeot:2008",
+      "summary": {
+        "en": "Peugeot’s naming rules assign the first digit to vehicle segment, the central zero to the brand mark, and the final digit to the generation; this is the published numbering rule, not a separate etymology.",
+        "zh-CN": "标致的命名规则中，首位数字表示车型级别，中间的 0 是品牌标记，末位数字表示世代；这是官方公布的编号规则，并非另行推断的词源。",
+        "zh-TW": "Peugeot 的命名規則中，首位數字表示車型級別，中間的 0 是品牌標記，末位數字表示世代；這是官方公布的編號規則，並非另行推測的詞源。",
+        "ja": "プジョーの命名規則では、先頭の数字は車格、中央の0はブランド記号、末尾の数字は世代を示します。これは公表された番号規則で、別の語源を推測するものではありません。"
+      },
+      "source_language": "de",
+      "source_title": "Peugeot lanciert den 301 und justiert seine Nomenklatur neu",
+      "source_url": "https://www.media.stellantis.com/de-de/peugeot/press/peugeot-lanciert-den-301-und-justiert-seine-nomenklatur-neu",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:peugeot:3008",
+      "summary": {
+        "en": "Peugeot says the double zero in its numbering marks van-architecture models such as the 3008; the central zero is also its brand mark.",
+        "zh-CN": "标致称，编号中的双零用于标记采用厢式车架构的车型（如 3008）；中间的零也代表品牌标记。",
+        "zh-TW": "Peugeot 表示，編號中的雙零用於標記採用廂式車架構的車型（如 3008）；中間的零也代表品牌標記。",
+        "ja": "プジョーによると、数字の中央の二つのゼロは3008などバン・アーキテクチャのモデルを示し、中央のゼロはブランド記号でもあります。"
+      },
+      "source_language": "de",
+      "source_title": "Peugeot lanciert den 301 und justiert seine Nomenklatur neu",
+      "source_url": "https://www.media.stellantis.com/de-de/peugeot/press/peugeot-lanciert-den-301-und-justiert-seine-nomenklatur-neu",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:peugeot:301",
+      "summary": {
+        "en": "Peugeot says “1” endings were chosen for new models aimed at expanding into international markets; the central zero is its brand mark.",
+        "zh-CN": "标致称，末位为“1”用于面向国际市场拓展的新车型；中间的零是品牌标记。",
+        "zh-TW": "Peugeot 表示，末位為「1」用於面向國際市場拓展的新車型；中間的零是品牌標記。",
+        "ja": "プジョーによると、末尾が「1」の名称は国際市場を広げる新モデル向けに選ばれ、中央のゼロはブランド記号です。"
+      },
+      "source_language": "de",
+      "source_title": "Peugeot lanciert den 301 und justiert seine Nomenklatur neu",
+      "source_url": "https://www.media.stellantis.com/de-de/peugeot/press/peugeot-lanciert-den-301-und-justiert-seine-nomenklatur-neu",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:volvo:xc40",
+      "summary": {
+        "en": "Volvo uses XC as an abbreviation of “Cross Country”; this explains only the XC prefix, not the model number.",
+        "zh-CN": "沃尔沃将 XC 用作 Cross Country 的缩写；这里只解释 XC 前缀，不解释型号数字。",
+        "zh-TW": "Volvo 將 XC 用作 Cross Country 的縮寫；此處只解釋 XC 前綴，不解釋型號數字。",
+        "ja": "ボルボではXCをCross Countryの略称として使用しています。XCの接頭部のみの説明で、型番の数字は説明しません。"
+      },
+      "source_language": "de",
+      "source_title": "Ab ins Abenteuer: Legendärer Volvo V70 XC als Vorfahre heutiger Cross Country Modelle",
+      "source_url": "https://www.volvocars.com/de/media/press-releases/39FBDCC910EB5AA0/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:volvo:xc60",
+      "summary": {
+        "en": "Volvo uses XC as an abbreviation of “Cross Country”; this explains only the XC prefix, not the model number.",
+        "zh-CN": "沃尔沃将 XC 用作 Cross Country 的缩写；这里只解释 XC 前缀，不解释型号数字。",
+        "zh-TW": "Volvo 將 XC 用作 Cross Country 的縮寫；此處只解釋 XC 前綴，不解釋型號數字。",
+        "ja": "ボルボではXCをCross Countryの略称として使用しています。XCの接頭部のみの説明で、型番の数字は説明しません。"
+      },
+      "source_language": "de",
+      "source_title": "Ab ins Abenteuer: Legendärer Volvo V70 XC als Vorfahre heutiger Cross Country Modelle",
+      "source_url": "https://www.volvocars.com/de/media/press-releases/39FBDCC910EB5AA0/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:volvo:xc90",
+      "summary": {
+        "en": "Volvo uses XC as an abbreviation of “Cross Country”; this explains only the XC prefix, not the model number.",
+        "zh-CN": "沃尔沃将 XC 用作 Cross Country 的缩写；这里只解释 XC 前缀，不解释型号数字。",
+        "zh-TW": "Volvo 將 XC 用作 Cross Country 的縮寫；此處只解釋 XC 前綴，不解釋型號數字。",
+        "ja": "ボルボではXCをCross Countryの略称として使用しています。XCの接頭部のみの説明で、型番の数字は説明しません。"
+      },
+      "source_language": "de",
+      "source_title": "Ab ins Abenteuer: Legendärer Volvo V70 XC als Vorfahre heutiger Cross Country Modelle",
+      "source_url": "https://www.volvocars.com/de/media/press-releases/39FBDCC910EB5AA0/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:x1",
+      "summary": {
+        "en": "BMW says X first identified four-wheel drive and later became its X-model family marker; this explains only X, not the number.",
+        "zh-CN": "宝马称 X 最初用于标示四轮驱动，后来成为 X 车型系列标识；这里只解释 X 前缀，不解释数字。",
+        "zh-TW": "BMW 表示 X 最初用於標示四輪驅動，後來成為 X 車型系列標識；此處只解釋 X 前綴，不解釋數字。",
+        "ja": "BMWによると、Xは当初四輪駆動を示し、後にXモデル群の記号となりました。Xのみの説明で、数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "15 years of BMW X models.",
+      "source_url": "https://www.press.bmwgroup.com/global/article/detail/T0194923EN/15-years-of-bmw-x-models",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:x2",
+      "summary": {
+        "en": "BMW says X first identified four-wheel drive and later became its X-model family marker; this explains only X, not the number.",
+        "zh-CN": "宝马称 X 最初用于标示四轮驱动，后来成为 X 车型系列标识；这里只解释 X 前缀，不解释数字。",
+        "zh-TW": "BMW 表示 X 最初用於標示四輪驅動，後來成為 X 車型系列標識；此處只解釋 X 前綴，不解釋數字。",
+        "ja": "BMWによると、Xは当初四輪駆動を示し、後にXモデル群の記号となりました。Xのみの説明で、数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "15 years of BMW X models.",
+      "source_url": "https://www.press.bmwgroup.com/global/article/detail/T0194923EN/15-years-of-bmw-x-models",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:x3",
+      "summary": {
+        "en": "BMW says X first identified four-wheel drive and later became its X-model family marker; this explains only X, not the number.",
+        "zh-CN": "宝马称 X 最初用于标示四轮驱动，后来成为 X 车型系列标识；这里只解释 X 前缀，不解释数字。",
+        "zh-TW": "BMW 表示 X 最初用於標示四輪驅動，後來成為 X 車型系列標識；此處只解釋 X 前綴，不解釋數字。",
+        "ja": "BMWによると、Xは当初四輪駆動を示し、後にXモデル群の記号となりました。Xのみの説明で、数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "15 years of BMW X models.",
+      "source_url": "https://www.press.bmwgroup.com/global/article/detail/T0194923EN/15-years-of-bmw-x-models",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:x4",
+      "summary": {
+        "en": "BMW says X first identified four-wheel drive and later became its X-model family marker; this explains only X, not the number.",
+        "zh-CN": "宝马称 X 最初用于标示四轮驱动，后来成为 X 车型系列标识；这里只解释 X 前缀，不解释数字。",
+        "zh-TW": "BMW 表示 X 最初用於標示四輪驅動，後來成為 X 車型系列標識；此處只解釋 X 前綴，不解釋數字。",
+        "ja": "BMWによると、Xは当初四輪駆動を示し、後にXモデル群の記号となりました。Xのみの説明で、数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "15 years of BMW X models.",
+      "source_url": "https://www.press.bmwgroup.com/global/article/detail/T0194923EN/15-years-of-bmw-x-models",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:x5",
+      "summary": {
+        "en": "BMW says X first identified four-wheel drive and later became its X-model family marker; this explains only X, not the number.",
+        "zh-CN": "宝马称 X 最初用于标示四轮驱动，后来成为 X 车型系列标识；这里只解释 X 前缀，不解释数字。",
+        "zh-TW": "BMW 表示 X 最初用於標示四輪驅動，後來成為 X 車型系列標識；此處只解釋 X 前綴，不解釋數字。",
+        "ja": "BMWによると、Xは当初四輪駆動を示し、後にXモデル群の記号となりました。Xのみの説明で、数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "15 years of BMW X models.",
+      "source_url": "https://www.press.bmwgroup.com/global/article/detail/T0194923EN/15-years-of-bmw-x-models",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:x6",
+      "summary": {
+        "en": "BMW says X first identified four-wheel drive and later became its X-model family marker; this explains only X, not the number.",
+        "zh-CN": "宝马称 X 最初用于标示四轮驱动，后来成为 X 车型系列标识；这里只解释 X 前缀，不解释数字。",
+        "zh-TW": "BMW 表示 X 最初用於標示四輪驅動，後來成為 X 車型系列標識；此處只解釋 X 前綴，不解釋數字。",
+        "ja": "BMWによると、Xは当初四輪駆動を示し、後にXモデル群の記号となりました。Xのみの説明で、数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "15 years of BMW X models.",
+      "source_url": "https://www.press.bmwgroup.com/global/article/detail/T0194923EN/15-years-of-bmw-x-models",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:x7",
+      "summary": {
+        "en": "BMW says X first identified four-wheel drive and later became its X-model family marker; this explains only X, not the number.",
+        "zh-CN": "宝马称 X 最初用于标示四轮驱动，后来成为 X 车型系列标识；这里只解释 X 前缀，不解释数字。",
+        "zh-TW": "BMW 表示 X 最初用於標示四輪驅動，後來成為 X 車型系列標識；此處只解釋 X 前綴，不解釋數字。",
+        "ja": "BMWによると、Xは当初四輪駆動を示し、後にXモデル群の記号となりました。Xのみの説明で、数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "15 years of BMW X models.",
+      "source_url": "https://www.press.bmwgroup.com/global/article/detail/T0194923EN/15-years-of-bmw-x-models",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mercedes-benz:eqa",
+      "summary": {
+        "en": "Mercedes-Benz says EQ stands for “Electric Intelligence” and draws on the brand values emotion and intelligence; this explains only EQ, not the model letters or numbers.",
+        "zh-CN": "奔驰称 EQ 是 Electric Intelligence（电动智能）的缩写，源自品牌价值“情感”与“智能”；这里只解释 EQ，不解释车型字母或数字。",
+        "zh-TW": "賓士表示 EQ 是 Electric Intelligence（電動智慧）的縮寫，源自品牌價值「情感」與「智慧」；此處只解釋 EQ，不解釋車型字母或數字。",
+        "ja": "メルセデス・ベンツによると、EQはElectric Intelligenceの略で、ブランド価値のEmotionとIntelligenceに由来します。EQのみの説明で、車名の他の文字や数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "EQ Session II: EQ world: Services and experiences",
+      "source_url": "https://media.mercedes-benz.com/article/e58de6cd-13e6-4cf5-8374-8fa90de4c9d9",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mercedes-benz:eqb",
+      "summary": {
+        "en": "Mercedes-Benz says EQ stands for “Electric Intelligence” and draws on the brand values emotion and intelligence; this explains only EQ, not the model letters or numbers.",
+        "zh-CN": "奔驰称 EQ 是 Electric Intelligence（电动智能）的缩写，源自品牌价值“情感”与“智能”；这里只解释 EQ，不解释车型字母或数字。",
+        "zh-TW": "賓士表示 EQ 是 Electric Intelligence（電動智慧）的縮寫，源自品牌價值「情感」與「智慧」；此處只解釋 EQ，不解釋車型字母或數字。",
+        "ja": "メルセデス・ベンツによると、EQはElectric Intelligenceの略で、ブランド価値のEmotionとIntelligenceに由来します。EQのみの説明で、車名の他の文字や数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "EQ Session II: EQ world: Services and experiences",
+      "source_url": "https://media.mercedes-benz.com/article/e58de6cd-13e6-4cf5-8374-8fa90de4c9d9",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mercedes-benz:eqc",
+      "summary": {
+        "en": "Mercedes-Benz says EQ stands for “Electric Intelligence” and draws on the brand values emotion and intelligence; this explains only EQ, not the model letters or numbers.",
+        "zh-CN": "奔驰称 EQ 是 Electric Intelligence（电动智能）的缩写，源自品牌价值“情感”与“智能”；这里只解释 EQ，不解释车型字母或数字。",
+        "zh-TW": "賓士表示 EQ 是 Electric Intelligence（電動智慧）的縮寫，源自品牌價值「情感」與「智慧」；此處只解釋 EQ，不解釋車型字母或數字。",
+        "ja": "メルセデス・ベンツによると、EQはElectric Intelligenceの略で、ブランド価値のEmotionとIntelligenceに由来します。EQのみの説明で、車名の他の文字や数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "EQ Session II: EQ world: Services and experiences",
+      "source_url": "https://media.mercedes-benz.com/article/e58de6cd-13e6-4cf5-8374-8fa90de4c9d9",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mercedes-benz:eqe",
+      "summary": {
+        "en": "Mercedes-Benz says EQ stands for “Electric Intelligence” and draws on the brand values emotion and intelligence; this explains only EQ, not the model letters or numbers.",
+        "zh-CN": "奔驰称 EQ 是 Electric Intelligence（电动智能）的缩写，源自品牌价值“情感”与“智能”；这里只解释 EQ，不解释车型字母或数字。",
+        "zh-TW": "賓士表示 EQ 是 Electric Intelligence（電動智慧）的縮寫，源自品牌價值「情感」與「智慧」；此處只解釋 EQ，不解釋車型字母或數字。",
+        "ja": "メルセデス・ベンツによると、EQはElectric Intelligenceの略で、ブランド価値のEmotionとIntelligenceに由来します。EQのみの説明で、車名の他の文字や数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "EQ Session II: EQ world: Services and experiences",
+      "source_url": "https://media.mercedes-benz.com/article/e58de6cd-13e6-4cf5-8374-8fa90de4c9d9",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mercedes-benz:eqe-suv",
+      "summary": {
+        "en": "Mercedes-Benz says EQ stands for “Electric Intelligence” and draws on the brand values emotion and intelligence; this explains only EQ, not the model letters or numbers.",
+        "zh-CN": "奔驰称 EQ 是 Electric Intelligence（电动智能）的缩写，源自品牌价值“情感”与“智能”；这里只解释 EQ，不解释车型字母或数字。",
+        "zh-TW": "賓士表示 EQ 是 Electric Intelligence（電動智慧）的縮寫，源自品牌價值「情感」與「智慧」；此處只解釋 EQ，不解釋車型字母或數字。",
+        "ja": "メルセデス・ベンツによると、EQはElectric Intelligenceの略で、ブランド価値のEmotionとIntelligenceに由来します。EQのみの説明で、車名の他の文字や数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "EQ Session II: EQ world: Services and experiences",
+      "source_url": "https://media.mercedes-benz.com/article/e58de6cd-13e6-4cf5-8374-8fa90de4c9d9",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mercedes-benz:eqs",
+      "summary": {
+        "en": "Mercedes-Benz says EQ stands for “Electric Intelligence” and draws on the brand values emotion and intelligence; this explains only EQ, not the model letters or numbers.",
+        "zh-CN": "奔驰称 EQ 是 Electric Intelligence（电动智能）的缩写，源自品牌价值“情感”与“智能”；这里只解释 EQ，不解释车型字母或数字。",
+        "zh-TW": "賓士表示 EQ 是 Electric Intelligence（電動智慧）的縮寫，源自品牌價值「情感」與「智慧」；此處只解釋 EQ，不解釋車型字母或數字。",
+        "ja": "メルセデス・ベンツによると、EQはElectric Intelligenceの略で、ブランド価値のEmotionとIntelligenceに由来します。EQのみの説明で、車名の他の文字や数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "EQ Session II: EQ world: Services and experiences",
+      "source_url": "https://media.mercedes-benz.com/article/e58de6cd-13e6-4cf5-8374-8fa90de4c9d9",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mercedes-benz:eqs-suv",
+      "summary": {
+        "en": "Mercedes-Benz says EQ stands for “Electric Intelligence” and draws on the brand values emotion and intelligence; this explains only EQ, not the model letters or numbers.",
+        "zh-CN": "奔驰称 EQ 是 Electric Intelligence（电动智能）的缩写，源自品牌价值“情感”与“智能”；这里只解释 EQ，不解释车型字母或数字。",
+        "zh-TW": "賓士表示 EQ 是 Electric Intelligence（電動智慧）的縮寫，源自品牌價值「情感」與「智慧」；此處只解釋 EQ，不解釋車型字母或數字。",
+        "ja": "メルセデス・ベンツによると、EQはElectric Intelligenceの略で、ブランド価値のEmotionとIntelligenceに由来します。EQのみの説明で、車名の他の文字や数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "EQ Session II: EQ world: Services and experiences",
+      "source_url": "https://media.mercedes-benz.com/article/e58de6cd-13e6-4cf5-8374-8fa90de4c9d9",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mercedes-benz:eqv",
+      "summary": {
+        "en": "Mercedes-Benz says EQ stands for “Electric Intelligence” and draws on the brand values emotion and intelligence; this explains only EQ, not the model letters or numbers.",
+        "zh-CN": "奔驰称 EQ 是 Electric Intelligence（电动智能）的缩写，源自品牌价值“情感”与“智能”；这里只解释 EQ，不解释车型字母或数字。",
+        "zh-TW": "賓士表示 EQ 是 Electric Intelligence（電動智慧）的縮寫，源自品牌價值「情感」與「智慧」；此處只解釋 EQ，不解釋車型字母或數字。",
+        "ja": "メルセデス・ベンツによると、EQはElectric Intelligenceの略で、ブランド価値のEmotionとIntelligenceに由来します。EQのみの説明で、車名の他の文字や数字は説明しません。"
+      },
+      "source_language": "en",
+      "source_title": "EQ Session II: EQ world: Services and experiences",
+      "source_url": "https://media.mercedes-benz.com/article/e58de6cd-13e6-4cf5-8374-8fa90de4c9d9",
+      "canonical_name_column": "en"
+    }
+  ]
+}

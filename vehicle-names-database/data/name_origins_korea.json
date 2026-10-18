@@ -1,0 +1,173 @@
+{
+  "models": [
+    {
+      "id": "model:hyundai:palisade",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Hyundai says Palisade references a series of coastal cliffs.",
+        "zh-CN": "现代称，Palisade 取意于一系列海岸峭壁。",
+        "zh-TW": "現代表示，Palisade 取意於一系列海岸峭壁。",
+        "ja": "ヒョンデによると、Palisadeは海岸沿いに連なる断崖にちなみます。"
+      },
+      "source_language": "en",
+      "source_title": "Hyundai Announces Name of All-New 2020 Flagship SUV: Hyundai Palisade",
+      "source_url": "https://www.hyundai.com/content/hyundai/ww/data/news/data/2018/0000016066/attach/2020%20Hyundai%20Palisade%20Name%20Release%2011-8-18%20FINAL%20CG%20VERSION.pdf"
+    },
+    {
+      "id": "model:hyundai:pony",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Chosen in a public naming contest, Pony represented a beginning and people’s potential to Hyundai.",
+        "zh-CN": "Pony 由公开征名选出；现代称它象征新的开始与人的潜能。",
+        "zh-TW": "Pony 由公開徵名選出；現代表示它象徵新的開始與人的潛能。",
+        "ja": "Ponyは公募で選ばれた名称で、ヒョンデにとって「始まり」と人々の可能性を表しました。"
+      },
+      "source_language": "en",
+      "source_title": "PONY, the timeless",
+      "source_url": "https://www.hyundai.com/worldwide/en/brand-journal/heritage/pony-the-timeless"
+    },
+    {
+      "id": "model:kia:sportage",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Kia says Sportage blends “Sports” and “Portage.”",
+        "zh-CN": "起亚称，Sportage 是 “Sports” 与 “Portage” 的合成词。",
+        "zh-TW": "起亞表示，Sportage 是「Sports」與「Portage」的合成詞。",
+        "ja": "Kiaによると、Sportageは「Sports」と「Portage」を組み合わせた名称です。"
+      },
+      "source_language": "en",
+      "source_title": "Shaping the Sportage | The Evolution of an Urban SUV",
+      "source_url": "https://worldwide.kia.com/en/vehicle/vehicle-stories/shaping-the-sportage"
+    },
+    {
+      "id": "model:kia:seltos",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Kia says Seltos adapts “Celtos,” from Greek mythology; its “S” suggests speed and sportiness.",
+        "zh-CN": "起亚称，Seltos 改写自希腊神话中的 “Celtos”；字母 S 寓意速度与运动感。",
+        "zh-TW": "起亞表示，Seltos 改寫自希臘神話中的「Celtos」；字母 S 寓意速度與運動感。",
+        "ja": "Kiaによると、Seltosはギリシャ神話の「Celtos」をもとにした造語で、Sにはスピードとスポーティさを込めています。"
+      },
+      "source_language": "en",
+      "source_title": "What does Kia Seltos mean?",
+      "source_url": "https://www.kia.com/ua/discover-kia/ask/what-does-kia-seltos-mean.html"
+    },
+    {
+      "id": "model:kia:niro",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Kia says Niro combines “Near Zero” and “Hero,” reflecting its low-emissions and eco-car ambitions.",
+        "zh-CN": "起亚称，Niro 由 “Near Zero” 与 “Hero” 组合而成，呼应低排放与环保车型的定位。",
+        "zh-TW": "起亞表示，Niro 由「Near Zero」與「Hero」組合而成，呼應低排放與環保車款的定位。",
+        "ja": "Kiaによると、Niroは「Near Zero」と「Hero」を組み合わせた名称で、低排出と環境対応車への志向を表します。"
+      },
+      "source_language": "ko",
+      "source_title": "Kia 80 Years (Korean edition)",
+      "source_url": "https://worldwide.kia.com/ko/brand/our-brand/heritage/pdf/Kia_80_Years.pdf"
+    },
+    {
+      "id": "model:genesis:g70",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Genesis says “G” stands for Genesis and 70 denotes the midsize class.",
+        "zh-CN": "捷尼赛思称，G 代表 Genesis，70 对应中型级别。",
+        "zh-TW": "Genesis 表示，G 代表 Genesis，70 對應中型級距。",
+        "ja": "Genesisによると、GはGenesisを表し、70は中型クラスを示します。"
+      },
+      "source_language": "ko",
+      "source_title": "Genesis Opens a New Half-Century Chapter",
+      "source_url": "https://newsroom.genesis.com/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B0%98%EC%84%B8%EA%B8%B0-%EC%B2%AB%EC%9E%A5%EC%9D%84-%EC%97%B4%EB%8B%A4/"
+    },
+    {
+      "id": "model:genesis:g80",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Genesis says “G” stands for Genesis and 80 denotes the large-car class.",
+        "zh-CN": "捷尼赛思称，G 代表 Genesis，80 对应大型级别。",
+        "zh-TW": "Genesis 表示，G 代表 Genesis，80 對應大型級距。",
+        "ja": "Genesisによると、GはGenesisを表し、80は大型クラスを示します。"
+      },
+      "source_language": "ko",
+      "source_title": "Genesis Opens a New Half-Century Chapter",
+      "source_url": "https://newsroom.genesis.com/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B0%98%EC%84%B8%EA%B8%B0-%EC%B2%AB%EC%9E%A5%EC%9D%84-%EC%97%B4%EB%8B%A4/"
+    },
+    {
+      "id": "model:genesis:g90",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Genesis says “G” stands for Genesis and 90 identifies its flagship class.",
+        "zh-CN": "捷尼赛思称，G 代表 Genesis，90 标识其旗舰级别。",
+        "zh-TW": "Genesis 表示，G 代表 Genesis，90 標示其旗艦級距。",
+        "ja": "Genesisによると、GはGenesisを表し、90はブランドのフラッグシップを示します。"
+      },
+      "source_language": "ko",
+      "source_title": "Genesis Opens a New Half-Century Chapter",
+      "source_url": "https://newsroom.genesis.com/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B0%98%EC%84%B8%EA%B8%B0-%EC%B2%AB%EC%9E%A5%EC%9D%84-%EC%97%B4%EB%8B%A4/"
+    },
+    {
+      "id": "model:genesis:gv60",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Genesis says “GV” denotes a versatile luxury vehicle; 60 is the lineup’s lowest number and conveys dynamism.",
+        "zh-CN": "捷尼赛思称，GV 表示多用途豪华车型；60 是当时产品序列中最低的数字，强调动感。",
+        "zh-TW": "Genesis 表示，GV 代表多功能豪華車款；60 是當時產品序列中最低的數字，強調動感。",
+        "ja": "Genesisによると、GVは多才なラグジュアリー車を表し、60は当時のラインアップで最も低い数字として躍動感を強調します。"
+      },
+      "source_language": "ko",
+      "source_title": "Genesis Reveals GV60 Design",
+      "source_url": "https://newsroom.genesis.com/ko-ko/GV60-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%B5%9C%EC%B4%88-%EA%B3%B5%EA%B0%9C/"
+    },
+    {
+      "id": "model:genesis:gv70",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Genesis says “GV” denotes a versatile luxury vehicle and 70 the midsize class.",
+        "zh-CN": "捷尼赛思称，GV 表示多用途豪华车型，70 对应中型级别。",
+        "zh-TW": "Genesis 表示，GV 代表多功能豪華車款，70 對應中型級距。",
+        "ja": "Genesisによると、GVは多才なラグジュアリー車を表し、70は中型クラスを示します。"
+      },
+      "source_language": "ko",
+      "source_title": "Genesis Reveals GV70 Design",
+      "source_url": "https://newsroom.genesis.com/ko-ko/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4-%252C-%E3%80%8EGV70-%E3%80%8F%EB%94%94%EC%9E%90%EC%9D%B8-%EC%B5%9C%EC%B4%88-%EA%B3%B5%EA%B0%9C/"
+    },
+    {
+      "id": "model:genesis:gv80",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "Genesis says “GV” denotes a versatile luxury vehicle and 80 the large-car class.",
+        "zh-CN": "捷尼赛思称，GV 表示多用途豪华车型，80 对应大型级别。",
+        "zh-TW": "Genesis 表示，GV 代表多功能豪華車款，80 對應大型級距。",
+        "ja": "Genesisによると、GVは多才なラグジュアリー車を表し、80は大型クラスを示します。"
+      },
+      "source_language": "ko",
+      "source_title": "Genesis Reveals Flagship SUV GV80 Design",
+      "source_url": "https://newsroom.genesis.com/ko-ko/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4-%252C-%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD-SUV-GV80-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%B5%9C%EC%B4%88-%EA%B3%B5%EA%B0%9C/"
+    },
+    {
+      "id": "model:ssangyong:korando",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "KGM’s official heritage history glosses Korando as “Korean can do.”",
+        "zh-CN": "KGM 官方品牌历史将 Korando 释为 “Korean can do”（韩国人做得到）。",
+        "zh-TW": "KGM 官方品牌歷史將 Korando 解作「Korean can do」（韓國人做得到）。",
+        "ja": "KGMの公式ブランド史では、Korandoを「Korean can do」と説明しています。"
+      },
+      "source_language": "en",
+      "source_title": "Product History",
+      "source_url": "https://en.kg-mobility.com/br/brand/heritage/product-history"
+    },
+    {
+      "id": "model:ssangyong:torres",
+      "canonical_name_column": "en",
+      "summary": {
+        "en": "KGM says Torres takes its name from Chile’s Torres del Paine National Park.",
+        "zh-CN": "KGM 称，Torres 名称取自智利的百内国家公园（Torres del Paine）。",
+        "zh-TW": "KGM 表示，Torres 名稱取自智利的百內國家公園（Torres del Paine）。",
+        "ja": "KGMによると、Torresの名はチリのトレス・デル・パイネ国立公園に由来します。"
+      },
+      "source_language": "ko",
+      "source_title": "J100 name is Torres! Teaser images and video revealed",
+      "source_url": "https://allways.kg-mobility.com/j100%EC%B0%A8%EB%AA%85%EC%9D%80_%ED%86%A0%EB%A0%88%EC%8A%A4/"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "models": [
+    {
+      "id": "model:byd:denza-z9",
+      "summary": {
+        "en": "DENZA says “Z” in its Z series represents technology and the ultimate; this explains the series letter, not the number 9.",
+        "zh-CN": "腾势官方称，Z系列中的“Z”代表科技与极致；该说明只涉及系列字母，不解释数字“9”。",
+        "zh-TW": "騰勢官方表示，Z系列中的「Z」代表科技與極致；此說明僅涉及系列字母，不解釋數字「9」。",
+        "ja": "DENZA公式によると、Zシリーズの「Z」はテクノロジーと究極を表します。数字の「9」についての説明ではありません。"
+      },
+      "source_language": "zh-CN",
+      "source_title": "腾势Z9GT全球首秀！",
+      "source_url": "https://www.denza.com/cn/denza-voice/detail38.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:xpeng:mona-m03",
+      "summary": {
+        "en": "XPENG says MONA stands for “Made of New AI”; the source explains MONA, not the M03 designation.",
+        "zh-CN": "小鹏官方称，MONA 是“Made of New AI”的缩写；该说明解释的是 MONA，不涉及 M03。",
+        "zh-TW": "小鵬官方表示，MONA 是「Made of New AI」的縮寫；此說明解釋的是 MONA，不涉及 M03。",
+        "ja": "XPENG公式によると、MONAは「Made of New AI」の略称です。M03の意味についての説明ではありません。"
+      },
+      "source_language": "en",
+      "source_title": "XPENG Presents AI-powered Smart EV Innovations at Beijing Auto Show 2024",
+      "source_url": "https://www.xpeng.com/news/018f195d74068ef40cb22c9e8ab3015c",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:xiaomi:yu7",
+      "summary": {
+        "en": "Xiaomi says “YU” comes from the Chinese phrase 御风而行 (“ride the wind”); the source does not explain the number 7.",
+        "zh-CN": "小米官方说明，YU 源自“御风而行”，寓意驾风而行；来源未解释数字“7”。",
+        "zh-TW": "小米官方說明，YU 源自「御風而行」，寓意乘風而行；來源未解釋數字「7」。",
+        "ja": "Xiaomi公式によると、YUは中国語の「御風而行」（風に乗って進む）に由来します。数字の「7」についての説明はありません。"
+      },
+      "source_language": "en",
+      "source_title": "Xiaomi YU7 Officially Launches — High-Performance Luxury SUV Leads the Way With Advanced Technology",
+      "source_url": "https://www.mi.com/global/discover/article?id=4925",
+      "canonical_name_column": "en"
+    }
+  ]
+}
