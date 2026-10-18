@@ -29,6 +29,7 @@ python3 -m http.server 8000 --bind 127.0.0.1 --directory _site
 ## 验证
 
 ```sh
+node --check website/app.js
 node --check website/promotion.js
 git diff --check
 ```
