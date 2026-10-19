@@ -115,6 +115,7 @@ tbody tr:not(.loading-row):not(.empty-row):hover { background: #f8fbfa; }
 .model-id { display: block; margin-top: 4px; color: var(--quiet); font-family: ui-monospace,SFMono-Regular,Menlo,monospace; font-size: 9px; overflow-wrap: anywhere; }
 .status { display: inline-flex; margin-top: 8px; padding: 3px 7px; border-radius: 999px; color: #286252; background: #e4f2eb; font-size: 10px; font-weight: 680; line-height: 1.2; }
 .status.discontinued { color: #795c35; background: #f4eee2; }
+.status.order-suspended { color: #7a5c28; background: #fff2d7; }
 .status.concept { color: #6c527a; background: #f0eaf4; }
 .year { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
 .missing-value { color: #929f9c; font-size: 12px; font-style: italic; }

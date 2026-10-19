@@ -34,7 +34,7 @@ The database covers four areas of automotive terminology, each with names in 4 l
 | **Vehicle classes** `vehicle_classes` | CN/EU/JP/US classification systems + body styles + powertrain types | 6 subsystems |
 | **Glossary** `glossary` | 10 categories: powertrain, transmission, chassis, braking, safety, driver assist, new energy, body, lighting/comfort, tire/wheel | 72 terms |
 | **Brands** `brands` | 164 mainstream brands grouped by country | 164 entries |
-| **Models** `models` | Current + discontinued models (split per brand, with production years & status) | 3030 entries |
+| **Models** `models` | Current, order-suspended, discontinued, and concept models (split per brand, with production years & status) | 3032 entries |
 | **Cross-market aliases** `cross_market` | Same car under different names in different markets | 24 groups |
 
 Goals:
@@ -106,7 +106,7 @@ Common fields:
 | `verified` | `verified` (confirmed) / `pending` (needs review) |
 | `country` | Brand's home country (brands only) |
 | `segment` / `body_style` / `powertrain` | References into `vehicle_classes` ids |
-| `status` | `current` / `discontinued` / `concept` |
+| `status` | New-car sales state: `current` (new orders accepted in at least one covered market) / `order-suspended` (manufacturer paused new orders without confirming permanent discontinuation) / `discontinued` / `concept` |
 | `years` | Production years, e.g. `1966–present` |
 
 ---
@@ -127,7 +127,7 @@ Files under `data/models/` are split per brand/group:
 - Filename suggestion: `{region}_{brand}.json`, e.g. `jp_toyota.json`, `de_vw_group.json`, `cn_byd.json`.
 - Top-level shape: `{"models": [...]}`.
 - Each model entry needs: `id`, `brand`, `names{en,zh-CN,zh-TW,ja}`, `segment`, `body_style`, `powertrain`, `status`, `years`, `note`.
-- Discontinued models are kept with `status: "discontinued"` and the end year in `note`.
+- Judge status within the record's market scope and by new-car sales/order acceptance; used-car availability does not mean new cars are still on sale. If the manufacturer explicitly pauses new orders without confirming permanent discontinuation, use `status: "order-suspended"` and record the date and reason in `note`. Use `discontinued` only when sales/production have ended for the covered record. Separate a revived name or a different market generation when needed.
 - When a name is uncertain, set `verified: "pending"` and add an entry to `pending_verification.json`.
 
 Example entry:
@@ -170,7 +170,7 @@ Always run `validate.py` before opening a Pull Request.
 - Mazda: Japan formerly used `デミオ/アクセラ/アテンザ/ロードスター`; since 2019 unified to `MAZDA2/3/6` and `Roadster`.
 - Brand name variants across regions (Mercedes 賓士/平治, VW 福斯/福士, Volvo 富豪, Infiniti 無限, Subaru 速霸陸, Lexus 凌志) must be respected in Traditional Chinese content.
 - Japanese kei cars have strict size/displacement limits (`vehicle_classes.jp_categories`) — do not confuse with "microcars".
-- Model data distinguishes `current` vs `discontinued`; verify production years before citing historical models.
+- Model data distinguishes `current`, `order-suspended`, and `discontinued`; verify market scope and production years before citing historical models.
 
 ---
 
@@ -198,7 +198,7 @@ Full responsibility and privacy statements: [DISCLAIMER.md](DISCLAIMER.md) and [
 - **Data scale**: brands 63 → 164 (16 country groups), models 84 → 2041 (historical models since 1955 plus current models).
 - **Open source**: CC BY-SA 4.0 license, code-of-conduct / security / privacy / disclaimer docs, bilingual contribution guides, plus GitHub Issue/PR templates and a CI validation workflow.
 - **Project structure**: data split under `data/`, build & validation scripts `scripts/build.py` / `scripts/validate.py`, artifacts output to `dist/`.
-- **Fields enhanced**: models now carry `status` (current/discontinued/concept) and `years` (production years).
+- **Fields enhanced**: models now carry `status` (current/order-suspended/discontinued/concept) and `years` (production years). `order-suspended` means the manufacturer has paused new orders without confirming permanent discontinuation.
 
 ### Changelog
 

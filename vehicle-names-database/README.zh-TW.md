@@ -25,7 +25,7 @@
 | **車輛分類** `vehicle_classes` | 中國、歐洲、日本、美國分類體系，以及車身型式和動力種類 | 6 個子系統 |
 | **術語表** `glossary` | 動力、變速箱、底盤、煞車、安全、駕駛輔助、新能源、車身、照明舒適、輪胎輪圈等 10 類 | 72 條 |
 | **品牌** `brands` | 依國別整理的主流品牌 | 164 筆 |
-| **車型** `models` | 現行與停產車型，依品牌拆分，並記錄生產年份與狀態 | 3030 筆 |
+| **車型** `models` | 現售、暫停接單、停產與概念車型，依品牌拆分並記錄生產年份與狀態 | 3032 筆 |
 | **跨市場異名** `cross_market` | 同一車款在不同市場的名稱 | 24 組 |
 
 - `dist/vehicle-names-database.md` 是可直接閱讀或分享的表格版。
@@ -86,7 +86,7 @@ vehicle-names-database/
 }
 ```
 
-停產車型使用 `status: "discontinued"`。資料或譯名無法確認時，請設為 `verified: "pending"`，並登錄至 `pending_verification.json`。
+`status` 依資料記錄涵蓋的市場判斷，並以新車銷售／接受訂單為準；二手車仍在流通不代表新車仍在銷售。車廠明確暫停新訂單但未確認永久停產時，使用 `status: "order-suspended"`，並在 `note` 記錄公告日期與原因；已正式結束銷售或生產時才使用 `status: "discontinued"`。資料或譯名無法確認時，請設為 `verified: "pending"`，並登錄至 `pending_verification.json`。
 
 ## 建置與驗證
 

@@ -104,7 +104,7 @@
   }
 
   function rowMarkup(model) {
-    const state = ["current", "discontinued", "concept"].includes(String(model.status)) ? String(model.status) : "current";
+    const state = ["current", "order-suspended", "discontinued", "concept"].includes(String(model.status)) ? String(model.status) : "current";
     const labels = copy.languageLabels;
     const originColumn = model.name_origin ? nameOriginColumn(model) : "";
     return "<tr>" +

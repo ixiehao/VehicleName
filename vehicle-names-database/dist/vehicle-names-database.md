@@ -1,9 +1,9 @@
 # 多语言汽车车名资料库(Multilingual Vehicle Name Database)
 
-- **版本**:1.2.0 | **更新日期**:2026-08-10
+- **版本**:1.2.0 | **更新日期**:2026-10-19
 - **Schema 版本**:1.1.0
 - **覆盖语言**:`en` 英文 / `zh-CN` 简体中文 / `zh-TW` 繁体中文 / `ja` 日语
-- **条目统计**:品牌 164 · 车型 3030 · 跨市场异名 24 · 术语 72
+- **条目统计**:品牌 164 · 车型 3032 · 跨市场异名 24 · 术语 72
 - **状态标记**:`verified` = 已核实;`pending` = 待复核
 - **数据源**:本文件由 `scripts/build.py` 从 `data/` 生成,请勿直接编辑。
 
@@ -3652,17 +3652,18 @@
 | model:suzuki:eeco | Eeco | 铃木Eeco | — | — | class:cn:mpv | body:van | pt:ice | current · 2010–present | Maruti Suzuki印度市场微型面包车,2010年上市(Omni后继),含5/7座客运与货运版 |
 | model:suzuki:ertiga | Ertiga | Ertiga | Ertiga | エルティガ | class:eu:m | body:mpv | pt:ice | current · 2012–present | 三排座紧凑MPV,印度/印尼生产;马自达VX-1同源;丰田Rumion姊妹车 |
 | model:suzuki:every | Every | 浪迪（昌河铃木） | Every | エブリイ | class:jp:kei | body:van | pt:ice | current · 1982–present | K-car厢式货车,乘用版Every Wagon(1999-);马自达Scrum Van、三菱Minicab Van、日产NV100 Clipper同源 |
-| model:suzuki:fengyu | SX4 S-Cross | 锋驭 | SX4 CROSSOVER | エスクロス | class:eu:j | body:crossover | pt:ice | discontinued · 2013–2018 | 长安铃木锋驭,2013年底上市,1.6L/1.4T动力;2017年中期改款后更名骁途;2018年随长安铃木合资结束停产 |
+| model:suzuki:fengyu | SX4 S-Cross (China-market Fengyu) | 锋驭 | SX4 CROSSOVER | エスクロス | class:eu:j | body:crossover | pt:ice | discontinued · 2013–2018 | 此条指长安铃木中国市场的锋驭,2013年底上市、2017年中改后更名骁途,2018年停产;不代表海外SX4 S-Cross车系停产,后者另有在售记录 |
 | model:suzuki:fronte | Fronte | Fronte | Fronte | フロンテ | class:jp:kei | body:hatchback | pt:ice | discontinued · 1962–1989 | 铃木主力K-car系列(TLA→FEA→Fronte 360→7-S→7代),含Coupe/Hatch等衍生;官方历史资料库收录 |
 | model:suzuki:fronte-800 | Fronte 800 | Fronte 800 | Fronte 800 | フロンテ800 | class:eu:a | body:sedan | pt:ice | discontinued · 1965–1971 | 铃木首款普通尺寸轿车(非K-car),800cc;官方历史资料库收录 |
 | model:suzuki:fronx | Fronx | 铃木Fronx | — | — | class:cn:a0 | body:crossover | pt:ice | current · 2023–present | Maruti Suzuki印度市场小型跨界SUV,2023年上市,基于Baleno平台;2024年起出口日本等市场 |
-| model:suzuki:grand-vitara | Grand Vitara | 超级维特拉 | Grand Vitara | エスクード(2-3代) | class:eu:j | body:suv | pt:ice | discontinued · 1998–2019 | Vitara二代/三代的海外名(日本仍称Escudo),硬派梯形车架SUV;2019年停产,2022年印度以Grand Vitara之名复活(城市SUV,与丰田Hyryder姊妹车) |
+| model:suzuki:grand-vitara | Grand Vitara (1998–2019) | 超级维特拉（1998–2019） | Grand Vitara（1998–2019） | エスクード(2-3代) | class:eu:j | body:suv | pt:ice | discontinued · 1998–2019 | 1998–2019年的旧款Grand Vitara/Vitara二、三代海外名(日本称Escudo);印度2022年以Grand Vitara之名推出的是全新城市SUV,已另列为独立在售车型 |
+| model:suzuki:grand-vitara-india | Grand Vitara (India) | Grand Vitara（印度） | Grand Vitara（印度） | — | class:eu:j | body:suv | pt:hev | current · 2022–present | Maruti Suzuki印度市场的全新中型SUV,与旧款Grand Vitara不是同一代际;与Toyota Urban Cruiser Hyryder为姊妹车型,2025年推出配置更新 |
 | model:suzuki:hustler | Hustler | 哈斯拉 | Hustler | ハスラー | class:jp:kei | body:hatchback | pt:hev | current · 2014–present | SUV风格K-car;马自达Flair Crossover同源 |
 | model:suzuki:ignis | Ignis | 英格尼斯 | Ignis | イグニス | class:cn:a0 | body:hatchback | pt:ice | current · 2000–present | 小型跨界风格车;2000-2008年初代,2016年二代复活;大陆以进口名英格尼斯销售 |
 | model:suzuki:jimny | Jimny | 吉姆尼 | Jimny | ジムニー | class:eu:j | body:suv | pt:ice | current · 1970–present | 硬派越野车;日本含K-car版Jimny、1.5L版Jimny Sierra与五门Jimny Nomade;海外1985-1995年称Samurai(另行收录) |
 | model:suzuki:kei | Kei | Kei | Kei | Kei(ケイ) | class:jp:kei | body:hatchback | pt:ice | discontinued · 1998–2009 | 高顶K-car;马自达Laputa同源 |
 | model:suzuki:kizashi | Kizashi | 凯泽西 | Kizashi | キザシ | class:cn:b | body:sedan | pt:ice | discontinued · 2009–2016 | 铃木旗舰轿车;大陆以进口名凯泽西销售;2016年停产,铃木此后退出轿车市场 |
-| model:suzuki:landy | Landy | Landy | Landy | ランディ | class:eu:m | body:mpv | pt:ice | discontinued · 2007–2022 | 日产Serena换标OEM车型(3代),日本市场;2022年随铃木-日产合作调整停产;官方历史资料库收录 |
+| model:suzuki:landy | Landy | Landy | Landy | ランディ | class:eu:m | body:mpv | pt:hev | current · 2007–present | 日本市场MPV：前三代为日产Serena OEM（2007–2022），第四代起改由丰田OEM。2026年2月因达到计划销售数暂停接单，6月改款后重新上市 |
 | model:suzuki:liana-a6 | Liana A6 | 利亚纳A6 | — | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2013–2018 | 昌河铃木利亚纳A6,2013年改款,基于Aerio/Liana平台的两厢车,2018年停产 |
 | model:suzuki:lingyang | Lingyang | 羚羊 | 羚羊 | リンヤン | class:cn:a0 | body:sedan | pt:ice | discontinued · 2000–2011 | 长安铃木羚羊,基于第三代Suzuki Swift(Cultus)平台的中国特供三厢轿车,1.3L发动机,2000年上市,2004年改款,2011年停产 |
 | model:suzuki:maruti-800 | Maruti 800 | 玛鲁蒂800 | — | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 1983–2014 | Maruti Suzuki印度市场首款车型,基于铃木Fronte/Alto平台,1983年上市,2014年停产;累计产销超290万辆,印度国民车 |
@@ -3672,7 +3673,8 @@
 | model:suzuki:palette | Palette | Palette | Palette | パレット | class:jp:kei | body:hatchback | pt:ice | discontinued · 2008–2013 | 高顶滑门K-car(含SW版),Spacia初代前身;日产OEM名Roox;官方历史资料库收录 |
 | model:suzuki:qiyue | Alivio | 启悦 | Alivio | アリーヴィオ | class:cn:a | body:sedan | pt:ice | discontinued · 2014–2018 | 长安铃木启悦,基于Suzuki Alivio全球平台的中国特供三厢轿车(海外同款名Ciaz),1.6L发动机;2014年上市,2018年随长安铃木合资结束停产 |
 | model:suzuki:ritz | Ritz | 铃木Ritz | — | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2009–2016 | Maruti Suzuki印度市场小型掀背车,2009年上市,即Splash印度版;2016年停产,由新Baleno接替 |
-| model:suzuki:s-cross | S-Cross | 铃木S-Cross(印度) | — | — | class:eu:j | body:crossover | pt:ice | discontinued · 2015–2022 | Maruti Suzuki印度市场跨界车,2015年上市,2022年停产;与全球版SX4 S-Cross同源 |
+| model:suzuki:s-cross | S-Cross (India, 2015–2022) | S-Cross（印度，2015–2022） | S-Cross（印度，2015–2022） | — | class:eu:j | body:crossover | pt:ice | discontinued · 2015–2022 | Maruti Suzuki印度市场跨界车,2015年上市,2022年停产;与全球版SX4 S-Cross同源 |
+| model:suzuki:s-cross-global | S-Cross / SX4 S-Cross (Global) | S-Cross / SX4 S-Cross（国际版） | S-Cross / SX4 S-Cross（國際版） | — | class:eu:j | body:crossover | pt:hev | current · 2013–present | 铃木国际市场紧凑型跨界SUV,部分市场曾称SX4 S-Cross;第三代于2021年发布,2026年英国市场仍销售。与印度已于2022年停产的Maruti S-Cross、以及中国市场锋驭分开记录 |
 | model:suzuki:s-presso | S-Presso | 铃木S-Presso | — | — | class:cn:a00 | body:crossover | pt:ice | current · 2019–present | Maruti Suzuki印度市场微型跨界SUV,2019年上市;印尼/南非等市场亦有售 |
 | model:suzuki:samurai | Samurai | 吉姆尼武士 | Samurai | ジムニー(SJ) | class:eu:j | body:suv | pt:ice | discontinued · 1985–1995 | Jimny一代/二代的海外版(北美/欧洲等),日本本土称Jimny;美国曾因翻车争议遭媒体批评 |
 | model:suzuki:solio | Solio | Solio | Solio | ソリオ | class:jp:small | body:minivan | pt:hev | current · 2000–present | 滑门紧凑MPV,日本及港澳市场;三菱Delica D:2同源 |
@@ -3687,7 +3689,7 @@
 | model:suzuki:vitara-brezza | Vitara Brezza | 铃木Vitara Brezza | — | — | class:cn:a0 | body:suv | pt:ice | current · 2016–present | Maruti Suzuki印度市场小型SUV,2016年首发(印度本土开发),2022年换代;印度畅销SUV |
 | model:suzuki:wagon-r | Wagon R | 北斗星(昌河铃木) | Wagon R | ワゴンR | class:jp:kei | body:hatchback | pt:ice | current · 1993–present | 高顶K-car开创者;大陆昌河铃木北斗星为初代贴牌;马自达Flair同源;印度另有Wagon R |
 | model:suzuki:x-90 | X-90 | X90(未引入) | X-90 | X-90(エックス90) | class:eu:j | body:crossover | pt:ice | discontinued · 1995–1998 | 双门Targa顶小型SUV,源自Escudo底盘,主销北美;官方历史资料库收录 |
-| model:suzuki:xbee | XBee | XBee | XBee | クロスビー | class:jp:kei | body:crossover | pt:ice | discontinued · 2017–2022 | SUV风格K-car跨界车,复古设计;官方历史资料库收录 |
+| model:suzuki:xbee | XBee | XBee | XBee | クロスビー | class:eu:b | body:crossover | pt:hev | current · 2017–present | 日本市场1.2L紧凑型跨界车,并非K-car;铃木于2025年10月发布全面改款的新型XBee并继续销售 |
 | model:suzuki:xl6 | XL6 | 铃木XL6 | — | — | class:eu:m | body:mpv | pt:ice | current · 2019–present | Maruti Suzuki印度市场三排座跨界MPV,2019年上市(Ertiga的运动化衍生),6座布局 |
 | model:suzuki:xl7 | XL-7 | XL7 | XL7 | XL7(エックスエルセブン) | class:eu:j | body:suv | pt:ice | discontinued · 1998–2009 | Grand Vitara的三排座加长版,北美市场;2020年印尼以Ertiga XL7之名复活(跨界MPV,与初代无血缘) |
 
@@ -4258,5 +4260,5 @@
 
 ---
 
-> 本文件由 `scripts/build.py` 自动生成(2026-08-10)。
+> 本文件由 `scripts/build.py` 自动生成(2026-10-19)。
 > 许可证:CC BY-SA 4.0。详见仓库 LICENSE 与 README。

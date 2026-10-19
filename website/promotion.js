@@ -7,7 +7,7 @@
   const lang = supported.includes(requested) ? requested : "zh-CN";
   const copy = {
     en: {
-      meta: "VehicleName | A multilingual vehicle name index", desc: "Search 3,030 vehicle models across English, Simplified Chinese, Traditional Chinese, and Japanese.",
+      meta: "VehicleName | A multilingual vehicle name index", desc: "Search 3,032 vehicle models across English, Simplified Chinese, Traditional Chinese, and Japanese.",
       eyebrow: "GLOBAL VEHICLE NAME INDEX · FOUR LANGUAGES", title: "One vehicle. Different markets. Different names.", intro: "Find and compare vehicle names across English, Simplified Chinese, Traditional Chinese, and Japanese by model, brand, or record ID.",
       searchLabel: "Search a model, brand, year, or record ID", searchHint: "Search any of the four name languages, brand, model year, or record ID.", placeholder: "Corolla · 卡罗拉 · カローラ · Toyota",
       overviewKicker: "THE INDEX", overviewTitle: "Database at a glance", models: "models", brands: "Brands", terms: "Glossary terms", aliases: "Market aliases", updated: "Data updated",
@@ -24,10 +24,10 @@
       trust: "Regional names and sales status can change by market and over time. Confirm official naming with the manufacturer.",
       tableCaption: (count) => `Vehicle brands, ${count} four-language model names, and production years`, tableBrand: "Brand / ID",
       pageLabel: (page, pages) => `Page ${page} of ${pages}`, previous: "Previous", next: "Next", footerVersion: (version, date) => `Data v${version} · Updated ${date}`,
-      license: "CC BY-SA 4.0", statuses: { current: "Current", discontinued: "Discontinued", concept: "Concept" }
+      license: "CC BY-SA 4.0", statuses: { current: "Current", "order-suspended": "Orders paused", discontinued: "Discontinued", concept: "Concept" }
     },
     "zh-CN": {
-      meta: "汽车名称资料库｜VehicleName 四语车型速查", desc: "四语汽车名称资料库，收录 3,030 款车型，支持英文、简体中文、繁体中文与日文检索。",
+      meta: "汽车名称资料库｜VehicleName 四语车型速查", desc: "四语汽车名称资料库，收录 3,032 款车型，支持英文、简体中文、繁体中文与日文检索。",
       eyebrow: "全球汽车名称索引 · 四种语言", title: "同一款车，换个市场就换个名字。", intro: "按车型、品牌或数据编号检索，核对不同市场的英文、简体中文、繁体中文与日文车名。",
       searchLabel: "搜索车型、品牌、年份或数据编号", searchHint: "输入任一语言车名、品牌、年份或数据编号开始查找。", placeholder: "Corolla · 卡罗拉 · カローラ · Toyota",
       overviewKicker: "THE INDEX", overviewTitle: "资料库概览", models: "款车型", brands: "品牌", terms: "汽车术语", aliases: "跨市场异名", updated: "数据更新",
@@ -44,10 +44,10 @@
       trust: "地区名称与销售状态可能随市场和时间变化；正式用名请以制造商公布的信息为准。",
       tableCaption: (count) => `汽车品牌、${count} 款车型的四语名称与生产年份`, tableBrand: "品牌 / ID",
       pageLabel: (page, pages) => `第 ${page} / ${pages} 页`, previous: "上一页", next: "下一页", footerVersion: (version, date) => `数据版本 ${version} · 更新于 ${date}`,
-      license: "CC BY-SA 4.0", statuses: { current: "在售", discontinued: "停产", concept: "概念" }
+      license: "CC BY-SA 4.0", statuses: { current: "在售", "order-suspended": "暂停接单", discontinued: "停产", concept: "概念" }
     },
     "zh-TW": {
-      meta: "汽車名稱資料庫｜VehicleName 四語車型速查", desc: "四語汽車名稱資料庫，收錄 3,030 款車型，支援英文、簡體中文、繁體中文與日文搜尋。",
+      meta: "汽車名稱資料庫｜VehicleName 四語車型速查", desc: "四語汽車名稱資料庫，收錄 3,032 款車型，支援英文、簡體中文、繁體中文與日文搜尋。",
       eyebrow: "全球汽車名稱索引 · 四種語言", title: "同一款車，換個市場就換個名字。", intro: "依車型、品牌或資料編號搜尋，核對不同市場的英文、簡體中文、繁體中文與日文車名。",
       searchLabel: "搜尋車型、品牌、年份或資料編號", searchHint: "輸入任一語言車名、品牌、年份或資料編號即可查找。", placeholder: "Corolla · 卡羅拉 · カローラ · Toyota",
       overviewKicker: "THE INDEX", overviewTitle: "資料庫概覽", models: "款車型", brands: "品牌", terms: "汽車術語", aliases: "跨市場異名", updated: "資料更新",
@@ -64,10 +64,10 @@
       trust: "地區名稱與銷售狀態可能隨市場和時間變化；正式名稱請以製造商公布的資訊為準。",
       tableCaption: (count) => `汽車品牌、${count} 款車型的四語名稱與生產年份`, tableBrand: "品牌 / ID",
       pageLabel: (page, pages) => `第 ${page} / ${pages} 頁`, previous: "上一頁", next: "下一頁", footerVersion: (version, date) => `資料版本 ${version} · 更新於 ${date}`,
-      license: "CC BY-SA 4.0", statuses: { current: "現售", discontinued: "停產", concept: "概念" }
+      license: "CC BY-SA 4.0", statuses: { current: "現售", "order-suspended": "暫停接單", discontinued: "停產", concept: "概念" }
     },
     ja: {
-      meta: "車名データベース｜VehicleName 4言語対応", desc: "英語・簡体字中国語・繁体字中国語・日本語で3,030車種を検索できる自動車名称データベース。",
+      meta: "車名データベース｜VehicleName 4言語対応", desc: "英語・簡体字中国語・繁体字中国語・日本語で3,032車種を検索できる自動車名称データベース。",
       eyebrow: "世界の車名インデックス · 4言語", title: "同じ車でも、市場が変われば名前も変わる。", intro: "車種、ブランド、データ ID から、英語・簡体字中国語・繁体字中国語・日本語の車名を検索・比較できます。",
       searchLabel: "車種、ブランド、年式、またはデータ ID を検索", searchHint: "4言語の車名、ブランド、年式、データ ID で検索できます。", placeholder: "Corolla · カローラ · 卡罗拉 · Toyota",
       overviewKicker: "THE INDEX", overviewTitle: "データベース概要", models: "車種", brands: "ブランド", terms: "自動車用語", aliases: "市場別名称", updated: "データ更新日",
@@ -84,7 +84,7 @@
       trust: "地域名や販売状況は市場や時期によって異なる場合があります。正式名称はメーカーの情報をご確認ください。",
       tableCaption: (count) => `自動車ブランド、${count}車種の4言語名と生産年`, tableBrand: "ブランド / ID",
       pageLabel: (page, pages) => `${pages}ページ中 ${page}ページ`, previous: "前へ", next: "次へ", footerVersion: (version, date) => `データ ${version} · 更新日 ${date}`,
-      license: "CC BY-SA 4.0", statuses: { current: "販売中", discontinued: "生産終了", concept: "コンセプト" }
+      license: "CC BY-SA 4.0", statuses: { current: "販売中", "order-suspended": "新規受注停止", discontinued: "生産終了", concept: "コンセプト" }
     }
   };
 

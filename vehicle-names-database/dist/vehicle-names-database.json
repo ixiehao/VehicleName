@@ -3,7 +3,7 @@
   "meta": {
     "schema_version": "1.1.0",
     "database_version": "1.2.0",
-    "updated": "2026-08-10",
+    "updated": "2026-10-19",
     "title": "多语言汽车车名资料库 Multilingual Vehicle Name Database",
     "repository": "https://github.com/ixiehao/VehicleName",
     "languages": [
@@ -18,7 +18,7 @@
       "glossary_categories": 10,
       "glossary_terms": 72,
       "brands": 164,
-      "models": 3030,
+      "models": 3032,
       "cross_market_aliases": 24
     },
     "sources": [
@@ -51848,7 +51848,7 @@
         "id": "model:suzuki:fengyu",
         "brand": "Suzuki",
         "names": {
-          "en": "SX4 S-Cross",
+          "en": "SX4 S-Cross (China-market Fengyu)",
           "zh-CN": "锋驭",
           "zh-TW": "SX4 CROSSOVER",
           "ja": "エスクロス"
@@ -51858,7 +51858,7 @@
         "powertrain": "pt:ice",
         "status": "discontinued",
         "years": "2013–2018",
-        "note": "长安铃木锋驭,2013年底上市,1.6L/1.4T动力;2017年中期改款后更名骁途;2018年随长安铃木合资结束停产",
+        "note": "此条指长安铃木中国市场的锋驭,2013年底上市、2017年中改后更名骁途,2018年停产;不代表海外SX4 S-Cross车系停产,后者另有在售记录",
         "verified": "verified",
         "name_origin": {
           "summary": {
@@ -51952,9 +51952,9 @@
         "id": "model:suzuki:grand-vitara",
         "brand": "Suzuki",
         "names": {
-          "en": "Grand Vitara",
-          "zh-CN": "超级维特拉",
-          "zh-TW": "Grand Vitara",
+          "en": "Grand Vitara (1998–2019)",
+          "zh-CN": "超级维特拉（1998–2019）",
+          "zh-TW": "Grand Vitara（1998–2019）",
           "ja": "エスクード(2-3代)"
         },
         "segment": "class:eu:j",
@@ -51962,8 +51962,27 @@
         "powertrain": "pt:ice",
         "status": "discontinued",
         "years": "1998–2019",
-        "note": "Vitara二代/三代的海外名(日本仍称Escudo),硬派梯形车架SUV;2019年停产,2022年印度以Grand Vitara之名复活(城市SUV,与丰田Hyryder姊妹车)",
+        "note": "1998–2019年的旧款Grand Vitara/Vitara二、三代海外名(日本称Escudo);印度2022年以Grand Vitara之名推出的是全新城市SUV,已另列为独立在售车型",
         "verified": "verified"
+      },
+      {
+        "id": "model:suzuki:grand-vitara-india",
+        "brand": "Suzuki",
+        "names": {
+          "en": "Grand Vitara (India)",
+          "zh-CN": "Grand Vitara（印度）",
+          "zh-TW": "Grand Vitara（印度）",
+          "ja": "—"
+        },
+        "segment": "class:eu:j",
+        "body_style": "body:suv",
+        "powertrain": "pt:hev",
+        "status": "current",
+        "years": "2022–present",
+        "note": "Maruti Suzuki印度市场的全新中型SUV,与旧款Grand Vitara不是同一代际;与Toyota Urban Cruiser Hyryder为姊妹车型,2025年推出配置更新",
+        "verified": "verified",
+        "source_title": "Maruti Suzuki Grand Vitara updated with 6 Airbags as standard & new premium features",
+        "source_url": "https://www.marutisuzuki.com/corporate/media/press-releases/2025/april/maruti-suzuki-grand-vitara-updated-with-6-airbags-as-standard-amp-new-premium-features"
       },
       {
         "id": "model:suzuki:hustler",
@@ -52121,11 +52140,17 @@
         },
         "segment": "class:eu:m",
         "body_style": "body:mpv",
-        "powertrain": "pt:ice",
-        "status": "discontinued",
-        "years": "2007–2022",
-        "note": "日产Serena换标OEM车型(3代),日本市场;2022年随铃木-日产合作调整停产;官方历史资料库收录",
-        "verified": "verified"
+        "powertrain": "pt:hev",
+        "status": "current",
+        "years": "2007–present",
+        "note": "日本市场MPV：前三代为日产Serena OEM（2007–2022），第四代起改由丰田OEM。2026年2月因达到计划销售数暂停接单，6月改款后重新上市",
+        "verified": "verified",
+        "source_title": "スズキ、「ランディ」を一部仕様変更して発売",
+        "source_url": "https://www.suzuki.co.jp/release/a/2026/0601/",
+        "sales_pause_source_title": "スズキ「ランディ」安全装備の誤表記に関するお詫びと訂正",
+        "sales_pause_source_url": "https://www.suzuki.co.jp/car/notification/landy/",
+        "oem_source_title": "スズキ、新型「ランディ」を発売（トヨタ自動車よりOEM供給）",
+        "oem_source_url": "https://www.suzuki.co.jp/release/a/2022/0728/index.html"
       },
       {
         "id": "model:suzuki:liana-a6",
@@ -52308,9 +52333,9 @@
         "id": "model:suzuki:s-cross",
         "brand": "Suzuki",
         "names": {
-          "en": "S-Cross",
-          "zh-CN": "铃木S-Cross(印度)",
-          "zh-TW": "—",
+          "en": "S-Cross (India, 2015–2022)",
+          "zh-CN": "S-Cross（印度，2015–2022）",
+          "zh-TW": "S-Cross（印度，2015–2022）",
           "ja": "—"
         },
         "segment": "class:eu:j",
@@ -52332,6 +52357,25 @@
           "source_url": "https://www.suzuki.co.jp/corporate/faq/car/name.html",
           "canonical_name_column": "en"
         }
+      },
+      {
+        "id": "model:suzuki:s-cross-global",
+        "brand": "Suzuki",
+        "names": {
+          "en": "S-Cross / SX4 S-Cross (Global)",
+          "zh-CN": "S-Cross / SX4 S-Cross（国际版）",
+          "zh-TW": "S-Cross / SX4 S-Cross（國際版）",
+          "ja": "—"
+        },
+        "segment": "class:eu:j",
+        "body_style": "body:crossover",
+        "powertrain": "pt:hev",
+        "status": "current",
+        "years": "2013–present",
+        "note": "铃木国际市场紧凑型跨界SUV,部分市场曾称SX4 S-Cross;第三代于2021年发布,2026年英国市场仍销售。与印度已于2022年停产的Maruti S-Cross、以及中国市场锋驭分开记录",
+        "verified": "verified",
+        "source_title": "2026 Suzuki S-Cross | Suzuki Cars UK",
+        "source_url": "https://cars.suzuki.co.uk/new-cars/s-cross/"
       },
       {
         "id": "model:suzuki:s-presso",
@@ -52700,13 +52744,15 @@
           "zh-TW": "XBee",
           "ja": "クロスビー"
         },
-        "segment": "class:jp:kei",
+        "segment": "class:eu:b",
         "body_style": "body:crossover",
-        "powertrain": "pt:ice",
-        "status": "discontinued",
-        "years": "2017–2022",
-        "note": "SUV风格K-car跨界车,复古设计;官方历史资料库收录",
+        "powertrain": "pt:hev",
+        "status": "current",
+        "years": "2017–present",
+        "note": "日本市场1.2L紧凑型跨界车,并非K-car;铃木于2025年10月发布全面改款的新型XBee并继续销售",
         "verified": "verified",
+        "source_title": "スズキ、小型乗用車 新型「クロスビー」を発売",
+        "source_url": "https://www.suzuki.co.jp/release/a/2025/1002/index.html",
         "name_origin": {
           "summary": {
             "en": "A coined name from “X (Crossover) to Be Exciting.”",

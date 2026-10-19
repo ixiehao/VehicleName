@@ -31,7 +31,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
 MODELS_DIR = os.path.join(DATA_DIR, "models")
 LANGS = ("en", "zh-CN", "zh-TW", "ja")
-VALID_STATUS = ("current", "discontinued", "concept")
+VALID_STATUS = ("current", "order-suspended", "discontinued", "concept")
 OFFICIAL_ORIGIN_HOSTS = {
     "Suzuki": {"www.suzuki.co.jp"},
     "Toyota": {"www.toyota.co.jp", "toyota.jp"},

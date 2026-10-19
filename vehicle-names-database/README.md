@@ -34,7 +34,7 @@
 | **级别分类** `vehicle_classes` | 中国/欧洲/日本/美国分级体系 + 车身形式 + 动力类型 | 6 个子类 |
 | **专业术语** `glossary` | 动力、传动、底盘、制动、安全、智驾、新能源等 10 大类 | 72 条 |
 | **品牌** `brands` | 全球 164 个主流品牌(16 国分组) | 164 条 |
-| **车型** `models` | 现售 + 停产车型名录(按品牌拆分文件,含生产年份与状态) | 3030 条 |
+| **车型** `models` | 在售、暂停接单、停产与概念车型(按品牌拆分文件,含生产年份与状态) | 3032 条 |
 | **跨市场异名** `cross_market` | 同一车型在不同市场的不同名称对照 | 24 组 |
 
 设计目标:
@@ -106,7 +106,7 @@ vehicle-names-database/
 | `verified` | 校验状态:`verified`(已核实)/ `pending`(待核实) |
 | `country` | 品牌所属国家(仅品牌) |
 | `segment` / `body_style` / `powertrain` | 车型的级别 / 车身形式 / 动力类型(引用 `vehicle_classes` 中的 `id`) |
-| `status` | 车型状态:`current`(现售)/ `discontinued`(停产)/ `concept`(概念) |
+| `status` | 新车销售状态:`current`(记录范围内至少一个市场仍接受新车订单)/ `order-suspended`(厂商明确暂停新订单,但未确认永久停产)/ `discontinued`(记录范围内已停产或停止销售)/ `concept`(概念); `note` 须说明市场及同名换代情况 |
 | `years` | 生产年份区间,如 `1966–present` |
 
 ---
@@ -148,7 +148,7 @@ data/ 各文件合并后
 - 文件名建议:`{国别或集团}_{品牌}.json`,如 `jp_toyota.json`、`de_vw_group.json`、`cn_byd.json`。
 - 每个文件顶层为 `{"models": [...]}`。
 - 每款车型至少包含:`id`、`brand`、`names{en,zh-CN,zh-TW,ja}`、`segment`、`body_style`、`powertrain`、`status`、`years`、`note`。
-- 停产车型保留在文件中,`status: "discontinued"`,并在 `note` 中注明停产年份。
+- 状态按该条记录覆盖的市场判断,并以新车销售/接受订单为准;二手车仍在流通不代表新车仍在售。厂商明确暂停新订单但尚未宣布永久停产时,用 `status: "order-suspended"`,并在 `note` 记录公告日期与原因,不要误标为在售或停产。永久停售车型保留在文件中,用 `status: "discontinued"`,注明市场与停产年份。不能仅凭旧一代停产就把仍在售的同名车系标为停产;若同名车型中断后以不同平台/定位复活,应将历史车与现售新车分开记录,并在 `note` 中交代区别。
 - 名称不确定时,`verified: "pending"` 并登记到 `pending_verification.json`。
 
 示例条目:
@@ -222,7 +222,7 @@ python3 scripts/build.py
 - 马自达:日本旧名 `デミオ/アクセラ/アテンザ/ロードスター`,2019 年后日本也统一为 `MAZDA2/3/6` 与 `Roadster`。
 - 奔驰/大众/沃尔沃/英菲尼迪/斯巴鲁/雷克萨斯等品牌在两岸三地译名差异大(賓士/福斯/富豪/無限/速霸陸/凌志),生成繁体内容时务必区分。
 - 日本轻自动车(K-car)有严格尺寸/排量限制(`vehicle_classes.jp_categories`),不可与「微型车」混为一谈。
-- 车型数据区分现售(`current`)与停产(`discontinued`),引用历史车型时注意核对生产年份。
+- 车型状态必须对应记录所指的市场和名称范围;跨市场、OEM 换标或同名复活时,应分开记录代际并在说明中注明适用市场与关系。
 
 ---
 
@@ -250,7 +250,7 @@ python3 scripts/build.py
 - **数据规模**:品牌 63 → 164(覆盖 16 国分组),车型 84 → 2041(含 1955 年以来历史车型与在售车型)。
 - **开源化**:CC BY-SA 4.0 许可、行为准则/安全/隐私/免责声明文档、中英贡献指南,以及 GitHub Issue/PR 模板与 CI 校验工作流。
 - **项目结构**:数据按 `data/` 拆分,构建与校验脚本 `scripts/build.py` / `scripts/validate.py`,产物输出 `dist/`。
-- **字段增强**:车型新增 `status`(current/discontinued/concept) 与 `years`(生产年份)。
+- **字段增强**:车型新增 `status`(current/order-suspended/discontinued/concept) 与 `years`(生产年份)。
 
 ### 变更记录 / Changelog
 

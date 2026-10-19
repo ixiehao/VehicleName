@@ -11,6 +11,11 @@ This project loosely follows Semantic Versioning 2.0.0 (MAJOR.MINOR.PATCH):
 
 ## [Unreleased]
 
+### 数据修正 Data fixes
+
+- 校正铃木 XBee、国际版 S-Cross、印度 Grand Vitara 与日本 Landy 的市场/销售状态；新增“暂停接单”状态，区分暂停售新订单与永久停产。
+- Corrected the market and sales states for Suzuki XBee, global S-Cross, India-market Grand Vitara, and Japan-market Landy; added `order-suspended` to distinguish a pause in new orders from permanent discontinuation.
+
 ### Documentation
 
 - 新增繁體中文與日語的 README、貢獻指南，並在所有入口文件建立四語導航。
